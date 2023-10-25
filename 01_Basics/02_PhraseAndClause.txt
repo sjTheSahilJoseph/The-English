@@ -1,0 +1,55 @@
+Phrase vs Clause.
+
+What is Phrase.
+    A group of words, which makes sense but not complete sense, is called a phrase.
+        For Example:
+            1. Under the Tree.
+            2. At the door.
+            3. Really fast.
+            4. Can not go.
+    A phrase is a group of words without a Subject-Verb combination.
+        In a phrase, we can never see a sub with a verb. Because then, if it does, then it is not a phrase. Because then, it'll give complete sense. And the group of words, which makes sense but not complete sense, is called a phrase.
+    A phrase cannot be a complete sentence because it does not give complete meaning.
+        A phrase is always a half meaning sentence. Like only the half part stuff.
+    
+What does a phrase do?
+    The purpose of phrase is to complement the overall structure of the sentence.
+        For Example:
+            1. She is sitting under the tree. => "She is sitting" is the sentence. "under the tree." is the phrase. What phrase is doing that, It is complementing the overall structure of this sentence.
+
+What is Clause.
+    A Clause is a group of words, which gives complete meaning, and also has a Subject-Verb combination.
+        For Example:
+            1. She is hungry.
+            2. I am feeling well today.
+    A simple sentence can also be called one clause.
+        A sentence with a Subject and Verb is also a Clause. As a clause is giving the complete sense/meaning of a sentence.
+    Some sentences may have more than one clause.
+        For Example:
+            1. I waited for her but she did not come.
+            2. She likes me but I like Her because I want to marry her.
+        There are as many clauses in a sentence as Subject and Verb combinations. It can be 2, 3, 4, 5 or more clause in one sentence
+
+Types of Clauses.
+    There are 2 types of Clauses.
+        1. Independent Clause.
+        2. Dependent Clause.
+
+1. Independent Clause.
+    An independent clause is the same as a complete sentence and can stand alone.
+        For Example:
+            1. He ate dinner.
+            2. I was working.
+
+2. Dependent Clause.
+    Dependent clause cannot stand alone, it has a Subject-Verb combination but it could not be a sentence by itself. It needs an independent clause to complete the sentence.
+        For Example:
+            1. When SJ got home => Dependent Clause. Because It cannot stand alone. (Subject and Verb combination is present).
+            2. When SJ got home, he ate dinner. => "he ate dinner" => Independent Clause. But when it connected with Dependent clause, It gave the full meaning.
+    Dependent Clause often begins with words such as:
+        When, While, If, Unless, Although, As soon as, As long as, Because, Since, etc...
+            For Example:
+                1. While he was playing.
+                2. If you come here.
+            Any Subject-Verb combination which will come after these words. There's a higher chance that this will be the Dependent Clause.
+        

@@ -1,0 +1,118 @@
+What are Parts of Speech?
+    Many people will answer this in that way: Parts of Speech are Noun, Pronoun, Verb, Adverb, etc...
+        But the thing is that, They are the Parts of Speech. Not the answer to this question that: What is Parts of Speech?
+    Actually, English language is made up of Words.
+    Interesting thing: In English, the words are also called speech.
+    The words which a language is made up of have some categories, and those are called Parts.
+        Those words categories are called Parts of Speech.
+    It means that, in a sentence each word have a category, so the category, kind, type of word which is used in a sentence, is called Parts of Speech.
+
+In English there are 8 Parts of Speech. And those are:
+    1. Noun
+    2. Pronoun
+    3. Verb
+    4. Adverb
+    5. Adjective
+    6. Preposition
+    7. Conjunction
+    8. Interjection
+    9. Article
+        there's 9th one which is called: Article.
+        But this is a type of Adjective so, We don't include it as a primary Part of Speech.
+    There're 8 Parts of Speech.
+
+1. Verb.
+    Verb is used to tell the Action and State of Being.
+        For Example:
+            1. I go to office daily.
+            2. I am a teacher.
+        So those words are verb:
+            go, write, play, is, am, will, etc...
+
+2. Noun.
+    Noun is the name of anything.
+        For Example:
+            SJ, United States, Table, Dog, etc...
+            1. SJ lives in United States. => SJ is the Noun.
+    By the way, If any word, non-noun word, is containing Article at the start. (A, An, The). Then, It's a Noun.
+    & also, 
+    When we put s/es after the word, and it becomes the plural. Then, It is also a Noun.
+        For Example:
+            The Girl = Noun.
+            Girls = Noun.
+
+3. Pronoun.
+    Pronoun is used to replace the noun.
+        For Example:
+            I, We, You, Me, My, Ourselves, etc...
+            1. SJ is tired. He (Pronoun) wants to sleep.
+
+4. Adjective.
+    Pronounce: (d is silent between a and j).
+    Adjective modifies a noun / pronoun.
+    In word Adjective, the Ad is "addition" like adding something.
+    It is combined with noun / pronoun.
+        For Example:
+            Big, Happy, Green, Crazy, etc...
+            1. She has a pink hat. (pink = Adjective).
+            2. SJ is very handsome. (handsome = Adjective).
+        
+5. Adverb.
+    Again, Ad means it is adding something to something.
+    The Adverb modifies a Verb / Adjective / Adverb itself.
+        For Example:
+            Slowly, Very, Always, Never, Tomorrow, Here, etc...
+        1. She is walking slowly. (slowly = adverb). // Qualifies the Verb.
+        2. She is very beautiful. (very = adverb). // Qualifies the Adjective.
+        3. She is walking very slowly. (very = adverb, slowly = adverb). // Qualifies the Adverb.
+    Generally, The Adverbs are the replies of these words:
+        How, Where, When, How often, To what extent.
+
+6. Preposition.
+    It shows the relationship of a noun / pronoun to another word.
+        For Example:
+            at, in, with, near, between, etc...
+            1. I live in United States. (in = Preposition).
+            2. There is a box under the table. (under = Preposition).
+            3. I am fond of coffee. (of = Preposition).
+    Preposition is a word which comes before the position of noun or pronoun. And then shows the relationship between noun / pronoun with other words.
+
+7. Conjunction.
+    Con means Together.
+    Junction means to join.
+    Conjunction - Joining Word.
+    Conjunction are the words which joins two clauses / words / or sentences.
+        For Example:
+            and, or, but, because, since, etc...
+            1. SJ and Sahil are friends. (and = Conjunction).
+            2. he was guilty so he was punished. (so = Conjunction).
+
+8. Interjection.
+    Like in Exclamatory Sentences, we express our feelings, emotions stuff.
+    So, those words are Interjection.
+    Interjection is expressive word.
+        For Example:
+            Wow!, Oh!, Oh Shit!, Yo!, Ouch!, Hurrah!, etc...
+            1. Ouch! That hurt. (Ouch = Interjection).
+            2. Yo! I love to listen rap music. (Yo = Interjection).
+
+All 8 Parts of Speech in Short:
+    1. Verb = Action / State.
+    2. Noun = Naming Word.
+    3. Pronoun = Replaces a noun.
+    4. Adjective = Modifies Noun / Pronoun.
+    5. Adverb = Modifies Verb / Adjective / Adverb.
+    6. Preposition = Shows Relationship.
+    7. Conjunction = Joining word.
+    8. Interjection = Expressive word.
+
+Important Point about Parts of Speech:
+    Any Word in English Language, Must be in one of those Parts of Speech.
+    But the thing is that one word can be in many parts of speech category at same time.
+    It all depends on the function of the word.
+        For Example:
+        1. So:
+            1. I am so sorry. (so is Adverb here. (sorry is Adjective here. So the word which modifies the Adjective, verb, adverb is called Adverb.)).
+            2. He was poor so they helped him. (so is Conjunction here. He was poor = Independent Clause 1, They helped him. = Independent Clause 2. So the word that joins 2 clauses is called Conjunction.)
+    That's why we learn Functional English.
+    We have to see the whole sentence to identify the word that which part of speech is using here.
