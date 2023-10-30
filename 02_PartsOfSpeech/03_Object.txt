@@ -1,0 +1,191 @@
+Most People Thinks that:
+    It is not important that the object is the word which comes after the verb in sentence.
+    That's wrong.
+
+Before we understand Object, We need to understand Noun and Pronoun.
+    Noun -> Naming Word.
+    Article + Word -> Noun.
+    Word + e/ex (Basically Plural exists) -> Noun
+    The word which replace Noun -> Pronoun.
+
+Pronoun Table:  
+    +---------+----------+---------+--------+----------------------+--------------------+
+    | Persons |  Number  | Subject | Object | Possessive Adjective | Possessive Pronoun |
+    +---------+----------+---------+--------+----------------------+--------------------+
+    | 1st     | Singular | I       | Me     | My                   | Mine               |
+    | 1st     | Plural   | We      | Us     | Our                  | Ours               |
+    | 2nd     | Singular | You     | You    | Your                 | Yours              |
+    | 2nd     | Plural   | You     | You    | Your                 | Yours              |
+    | 3rd     | Singular | He      | Him    | His                  | His                |
+    | 3rd     | Singular | She     | Her    | Her                  | Hers               |
+    | 3rd     | Singular | It      | It     | Its                  | -                  |
+    | 3rd     | Plural   | They    | Them   | Their                | Theirs             |
+    +---------+----------+---------+--------+----------------------+--------------------+
+
+Object Categories:
+    In English Language, Objects are only of 2 Things. These are:
+        1. Verb + Object. (The Object of Verb).
+        2. Preposition + Object. (The Object of Preposition).
+    Object is always Noun or Pronoun.
+
+The Object of Preposition. (Preposition + Object).
+    The word which comes after the Preposition is the object of Preposition.
+
+The Object of Verb. (Verb + Object).
+    Unlike The Object of Preposition, The word which comes after the Verb is not important that it is the object of Verb.
+    When we get reply of What or Whom, only then it is the object of Verb.
+
+Practice of Object.
+    1. He kicked the ball.
+        Kicked is the Main Verb.
+        It is the 2nd Form of Verb.
+        Is there the object of verb present?
+            Now let's identify:
+                Not every word that comes after the verb is the object of verb. But there're some conditions applied and these are:
+                    When we get the reply of What or Whom, only then it is the object of verb.
+                He kicked what? = ball. So ball is the object. Object is always noun or pronoun. Notice, there is an article (the) before the object. And there is a Plural or Ball exists (balls). So yes ball is the object of verb here in this sentence.
+    2. She killed him.
+        Killed is the Verb.
+            Main verb.
+            2nd Form.
+        Let's figure out what is object:
+            Is this the object of Verb?
+                Let's check:
+                    Not every word which comes after the verb is the object of verb. But there're some conditions.
+                    And these conditions are:
+                        When we get the answer of What or Whom, only then it is the object of verb.
+                    She killed what?
+                        Error.
+                    She killed whom?
+                        She killed him. -> (him = pronoun).
+                Yes, this is the object of verb.
+            Him is the object.
+    3. We ate mangoes.
+        What is the verb?
+            Ate is the verb.
+        Is any words which comes after the verb is the object?
+            No. But there are some conditions and these are:
+                When we get the answer of What or Whom, only then it is the object of Verb.
+        By using these conditions, Let's find out the object.
+            We ate what?
+                We ate Mangoes. => Got the answer of What.
+            So mangoes is the object.
+    4. I love you.
+        Love is the Verb.
+        I love whom?
+            I love you.
+            You = Object.
+                Object = Noun/Pronoun.
+        You is the object here.
+    5. The baby was crying.
+        What is verb in this sentence?
+            was = helping verb.
+            crying = main verb.
+        Is there any word after the main verb?
+            No. Here's the point. If we follow the wrong rule which is:
+                Any word which comes after the verb is object.
+            Then there is no object in this sentence.
+            But that's not the case.
+            We can identify it by our Object of Verb conditions.
+                Who was crying?
+                    The baby.
+                        That's the object.
+                        The (article) before the object.
+                        Object = noun.
+    6. She came on time.
+        In this sentence, is there any object of verb?
+            No, Because She is the subject.
+            She came what?
+                Error.
+            She came Whom?
+                Error.
+            So, There's is no Object of Verb.
+        This is the Object of Preposition.
+            Every word that comes after Preposition, is called Object of Preposition.
+            On = Preposition.
+            On Time = Time = Object.
+            Object = Noun / Pronoun.
+            Time = Uncountable Noun.
+        Object of Preposition is present here.
+        Object of Verb is not present.
+    7. I am going to London.
+        Verb.
+            Am = Helping Verb.
+        Object of Verb?
+            I'm going what?
+                Error.
+            I'm going whom?
+                Error.
+            So the object of verb is not present.
+        Object of Preposition?
+            Anything that comes after the Preposition is the object of Preposition.
+            To = Preposition.
+            To London. = Object.
+            London = Noun.
+            Object = Noun / Pronoun.
+    8. SJ speaks loudly.
+        What is the verb in this sentence?
+            Speaks is the verb.
+        Is that object of verb present?
+            SJ speaks what?
+                Error.
+            SJ speaks whom?
+                Error.
+            No, Object of Verb is not present in this sentence.
+        Is that object of Preposition present?
+            Is that Preposition present in this sentence?
+                No.
+            There is no Preposition in this sentence so how it can be the word present after Preposition? It's simply not present. So no, There is no Object of Preposition present in this sentence.
+        Is loudly a object?
+            Object must be a noun or a pronoun.
+            loudly is adverb.
+            So, No loudly is not the object.
+        What is the object in this sentence?
+            There is no object in this sentence.
+    9. I saw a sick man.
+        Most people think that the object is "sick man".
+        But object is only a single word which is noun or pronoun.
+        So the answer (sick man) is wrong.
+        Verb = saw.
+        If the sentence would be like this:
+            I saw a man.
+                Then it is super clear that the object is man.
+        I saw whom?
+            Man.
+            Man = Noun.
+            Plural = Men.
+            Article = a (Adjective: sick) man.
+        Which man?
+            Sick.
+        It means, the man is object. And sick is Adjective.
+    10. The supporters ran away from the meeting.
+        What is the Verb?
+            Ran is the verb.
+        Is there any object of verb?
+            The supporters ran away from what?
+                No Answer in the sentence.
+            The supporters ran away from whom?
+                No Answer in the sentence.
+            No, there is no object of verb present here in this sentence.
+        Is there any object of Preposition?
+            From = Preposition.
+            After from = the meeting.
+            The = article.
+            Meeting = Noun.
+            Object = Noun/Pronoun.
+            Meeting = Object.
+
+Shortcut of identifying the Object.
+    If there is a noun/pronoun (object is always a noun/pronoun) directly after the verb. Then it is the object.
+    For Preposition, there must be a Preposition before the noun/pronoun (object).
+    So we can find it quickly by seeing the noun/pronoun.
+    Note: Don't get confuse by Adjective.
+        Like:
+            I saw a sick man.
+                I = subject.
+                Saw = verb.
+                A = for man not for sick, Because sick is the Adjective.
+                Man = Object (noun/pronoun).
+                So, sick here is for the man.
+    
+It is not important to have a object. A sentence can be made without of Object.
