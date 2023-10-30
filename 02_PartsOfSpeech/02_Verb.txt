@@ -1,0 +1,112 @@
+What is Verb?
+    Verb is used to tell the Action and State of Being.
+
+Categories Of Verbs.
+    There are 2 Categories of Verb. Those are:
+        1. Helping Verb.
+        2. Main Verb.
+    1. Helping Verb.
+        Helping Verb has also 2 Categories. Those are:
+            1.1. Primary Helping Verb.
+            1.2. Modal Helping Verb.
+        1.1 Primary Helping Verb.
+            Primary Helping Verb has 3 Categories. These are:
+                1.1.1. Be
+                    Is, Am, Are,
+                    Was, Were,
+                    Be, Been, Being
+                1.1.2. Have
+                    Has, Have, Had
+                1.1.3. Do
+                    Do, Does, Did
+        1.2 Modal Helping Verb.
+            There are 13 Modal Helping Verbs. These are:
+                Can, Could,
+                May, Might,
+                Will, Would,
+                Shall, Should,
+                Dare, Need,
+                Must,
+                Used to,
+                Ought To
+    2. Main Verb.
+        The Word which tell the Action & State, is Main Verb.
+        Main Verb has 2 Categories. These are:
+            2.1. Finite Main Verb.
+            2.2. Non-Finite Main Verb.
+        2.1. Finite Main Verb.
+            Finite Main Verb has 2 Categories. Those are:
+                2.1.1. Transitive.
+                2.1.2. Intransitive.
+        2.2. Non-Finite Main Verb.
+            Non-Finite Main Verb has 3 Categories. Those are:
+                2.2.1. Infinitive.
+                2.2.2. Gerund.
+                2.2.3. Participle.
+            2.2.3. Participle.
+                Participle has 3 Categories.
+                    2.2.3.1. Present Participle.
+                    2.2.3.2. Past Participle.
+                    2.2.3.3. Perfect Participle.
+    
+Note: Not even a single sentence can be made without a Main Verb.
+
+Main Verb.
+    Any Main Verb word must be is in one of these forms.
+    Main Verb has 5 Forms.
+        1. Verb 1st Form. Base Form (Plural).
+        2. Verb 2nd Form. Past Form.
+        3. Verb 3rd Form. Past Participle.
+        4. Verb 4th Form (ing). Present Participle.
+        5. Verb 5th Form (s/es). Base Form (Singular).
+    For Example:
+        1. He writes poems. => (writes = main verb). [Verb 5th Form (s/es). Base Form (Singular)].
+        2. They played football. => (played = main verb). [Verb 2nd form. Past Form ]
+
+Important Points:
+    No Sentence can be made without main verb. Any any main verb must be in 1 to 5 verb forms.
+    In English Language, Helping verb is not as important as main verb to make a sentence. But main verb is super important.
+    A sentence can be built without using Helping Verb.
+    Helping verb can or cannot be present.
+
+Helping Verb as Main Verb:
+    First take a look at these sentence:
+        1. I am a teacher.
+        2. She was a singer.
+        3. I have four sons.
+        What is the verb in these sentences?
+            1. I am a teacher. => (am = verb).
+            2. She was a singer. => (was = verb).
+            3. I have four sons. => (have = verb).
+        But which verb? Helping or Main? As I said before: In English, no sentence can be complete without MAIN VERB.
+            So, Basically, These are Main Verbs here. How? Because now they are no longer a helping verb. Because Helping Verb means helping to a verb. But when there is no main verb present in that sentence, these helping verbs become Main Verb then.
+        Why they have to become main verb?
+            Because in English, no sentence can be completed without main verb.
+        Helping Verb cannot be a helping verb without a main verb. So that's why, If no main verb, then the helping verb become main verb.
+    How can I identify that the helping verb is helping verb or a main verb in sentence?
+        If sentence have a main verb and before main verb a helping verb, then the helping verb is helping verb.
+        But, If sentence do not have main verb, but a helping verb. Then, the helping verb is it's main verb.
+    As I mentioned earlier, If there's a sentence, there's a main verb (doesn't matter the main verb or helping verb as main verb), if there's a main verb, it must be in one of these 5 forms.
+        1. Verb 1st Form. Base Form (Plural).
+        2. Verb 2nd Form. Past Form.
+        3. Verb 3rd Form. Past Participle.
+        4. Verb 4th Form (ing). Present Participle.
+        5. Verb 5th Form (s/es). Base Form (Singular).
+    So, when primary helping verbs become main verb in a sentence, their 5 forms looks like this:  
+        +---------------+---------------+---------------+---------------+---------------+
+        | Verb 1st Form | Verb 2nd Form | Verb 3rd Form | Verb 4th Form | Verb 5th Form |
+        +---------------+---------------+---------------+---------------+---------------+
+        | Be,Am,Are     | Was, Were     | Been          | Being         | Is            |
+        | Have          | Had           | Had           | Having        | Has           |
+        | Do            | Did           | Done          | Doing         | Does          |
+        +---------------+---------------+---------------+---------------+---------------+
+    Let's take a look at those sentences again:
+        1. I am a teacher. => (am = verb 1st form).
+            It is simple present tense, Most people think that in only if a sentence contains s/es on verb's 1st form, then only it is a simple present tense. But it's not true. As we can see here.
+        2. She was a singer. => (was = verb 2nd form).
+            It is a simple past tense.
+        3. I have four sons. => (have = verb 1st form).
+            It is a simple present tense.
+    
+
+    
