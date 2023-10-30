@@ -36,7 +36,7 @@ In English there are 8 Parts of Speech. And those are:
             1. SJ lives in United States. => SJ is the Noun.
     By the way, If any word, non-noun word, is containing Article at the start. (A, An, The). Then, It's a Noun.
     & also, 
-    When we put s/es after the word, and it becomes the plural. Then, It is also a Noun.
+    When we put s/es after the word, and it becomes the plural. Basically it has a plural form. (Man -> Men etc...(Plural)) Then, It is also a Noun.
         For Example:
             The Girl = Noun.
             Girls = Noun.
