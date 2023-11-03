@@ -1,0 +1,249 @@
+Main Verb has 2 Categories:
+    1. Finite Verbs.
+    2. Non Finite Verbs.
+
+First take a look at these sentences:
+    1. I went to watch a movie.
+        I = subject.
+        Went = Verb.
+        to =  preposition.
+        watch = verb.
+        a movie = object.
+        yesterday = adverb.
+    2. He has gone to watch a movie.
+        he = subject.
+        has gone = verb (main + helping)
+        to = preposition.
+        watch = verb.
+        a = article.
+        movie = object.
+    3. They have gone to watch a movie.
+        they = subject.
+        have gone = verb (helping + main).
+        to = preposition.
+        watch = verb.
+        a movie = object.
+    4. They will go to watch a movie tomorrow.
+        They = subject.
+        will go = verb (main + helping).
+        to = preposition.
+        watch = verb.
+        a movie = object.
+        tomorrow = adverb.
+    Notice something that, The watch is also a verb but it is not changing due to the rules of tenses and the subject person or persons. I mean singular or plural. It is not changing its form.
+    And Go, Went, Gone, Go,, These are changing its form based on the rules of tenses, number of persons (subject = singular or plural).
+    The verbs that change based on rules of tenses and number of persons are basically finite verbs.
+    The verbs that don't change based on rules of tenses and number of persons are basically non-finite verbs.
+
+Finite Verbs.
+    Finite means "bound" - finite verbs must agree with the number and person of its subject.
+    Basically it is follow verb, It follow by tense and the number of persons.
+
+Non Finite Verbs.
+    Unlike Finite verbs, non-finite verbs are not bound by tense and number or person of subject.
+    Basically it is non-follow verb, It don't follow by tense and the number of persons.
+
+Finite Verbs has 2 Categories:
+    1. Transitive
+    2. Intransitive
+
+Transitive Verbs.
+    Trans means Transfer.
+        Transitive Verbs Transfers their action, and for receiving that action a object is a must.
+    Transitive Verbs always takes an object.
+        object = noun / pronoun.
+    object of Verb:
+        Reply to what/whom after the verb is called the object of verb.
+    After the Transitive Verb, there must be a object of verb present. It is important.
+    For Example:
+        1. She kicked the ball.
+            kicked = verb.
+            object of verb = ball.
+            kicked = Transitive verb.
+        2. I love you.
+            love = verb.
+            object of verb = you.
+            love = Transitive verb.
+        3. We ate mangoes.
+            ate = verb.
+            mangoes = object of verb.
+            ate = Transitive verb.
+        4. SJ killed him.
+            killed = verb.
+            object of verb = him.
+            Transitive verb = killed.
+
+Intransitive Verbs.
+    Definition Intransitive verbs:
+        Which does not have any object or which does not take any object.
+    How can we well that the object of verb is not present?
+        If the reply of what / whom is not there.
+        or after the verb directly there is not noun / pronoun.
+    For Example:
+        1. She is going to London.
+            is going = verb.
+            Intransitive verbs which does not have any object or which does not take any object.
+            to = preposition.
+            London = object of preposition.
+                not the object of verb.
+        2. She came on time.
+            came = verb.
+            on = preposition.
+            time = object of preposition.
+            No object of verb is present.
+        3. They cried loudly.
+            cried = verb.
+            loudly = adverb.
+            no object of verb is present.
+    
+Non Finite Verbs has 3 Categories:
+    1. Infinitive
+    2. Gerund
+    3. Participle
+
+Infinitive.
+    Infinitive is basically form of Verb we call it (To + Verb 1st Form).
+        Whenever we see (to + verb 1st form) this pair is called Infinitive.
+    What Infinitive can do in English language?
+        It can be a subject.
+    For Example:
+        1. To walk is a good exercise.
+            Verb = is.            
+                Form of Be. As main Verb.
+            If there is a verb, there is a subject.
+                subject = (to walk).
+                    Infinitive.
+                        Verb As subject.
+        2. To swim is good for health.
+            Verb = Is.
+                Main verb.
+                Form of Be.
+                Also we can call it linking verb.
+                good = subject complement.
+                for = preposition.
+                health = object of preposition.
+            To swim = subject.
+                But swim is the verb but here it is used as subject.
+                with to.
+                It is Infinitive.
+    Infinitive can also become Object.
+        For Example:
+            1. I want to go.
+                verb = want.
+                subject = I.
+                object = to go.
+                    I want what?
+                        I want to go.
+                    Object of verb.
+                Infinitive = To go.
+            2. I want to speak.
+                I = subject.
+                want = verb.
+                to speak = Infinitive.
+                    object = to speak.
+                        I want what?
+                            To speak.
+                                Object of verb.
+            3. She loves to play.
+                She = subject.
+                loves = verb.
+                to play = Infinitive.
+                    Object of verb.
+                        she loves what?
+                            to play.
+                            Object of verb.
+
+Gerund.
+    Gerund = (Verb 1st form + ing).
+        But wait a minute, quite confusing right?
+            Verb 1st form + ing should be verb right?
+                But why this is called gerund?
+        When, (Verb 1st form + ing) works as noun, then its called Gerund.
+    For Example:
+        1. Walking is a good exercise.
+            Verb = is.
+            Walking = Verb 1st form + ing but working as noun here, so its gerund.
+                It is working as Noun.
+                    Because it has to become subject. Because where there is a verb, there is a subject.
+        2. Swimming is good for health.
+            main verb = is;
+            subject = Swimming;
+                Gerund.
+        3. Teaching is a good profession.
+            Main verb = is;
+            Teaching = gerund.
+                working as noun but its a verb. But here it is working as noun.
+                    subject.
+    Gerund can also become object.
+    For Example:
+        1. SJ likes dancing.
+            dancing = object.
+                (verb 1st + ing) is gerund.
+                SJ likes what?
+                    dancing.
+                        Object of Verb.
+            main verb = likes.
+        2. I enjoyed drinking.
+            enjoyed = verb.
+            I = subject.
+            drinking = object.
+                (Verb 1st form + ing) is gerund.
+    Some Points of Gerund:
+        We know that when verb 1st form + ing works as noun then we call it gerund.
+            it can be subject or object.
+        After the preposition, the gerund can be present. It is totally valid.
+            For Example:
+                She is good at swim. => Wrong.
+                    at = preposition.
+                        After the preposition, the object of preposition is present.
+                            Object can only be a noun or a pronoun.
+                            So we need to make it a noun or a pronoun.
+                            By adding a ing after the first form.
+                She is good at Swimming. = Right.
+                I am sorry for tell you all this. => Wrong.
+                I am sorry for telling you all this. => Right.
+                I am tired of argue. => Wrong.
+                I am tired of arguing. => Right.
+            We must make noun/pronoun by adding + ing.
+
+Participle.
+    Participle has 3 Categories:
+        1. Present Participle.
+            Verb 1st form + ing.
+        2. Past Participle.
+            Verb 3rd form.
+        3. Perfect Participle.
+            having + verb 3rd form, after + ving.
+    What is the difference between Gerund and Participle?
+        Gerund:
+            Gerund is (verb 1st form + ing) works as noun.
+        Participle:
+            Participle works as Verb or Adjective.
+    For Example:
+        1. A horse is running.
+            Helping Verb = is;
+            Main verb = Running;
+                Notice:
+                    Here, (Verb 1st form + ing) is working as Verb. So it is the Participle.
+                        Present Participle.
+        2. I saw a running house.
+            Verb = Saw;
+            What is object of verb?
+                I saw what?
+                    Horse.
+                Horse = object of verb.
+            running = Adjective.
+                (verb 1st form + ing) working as Participle here.
+                    Present Participle.
+        3. She has written a letter.
+            Verb = has written.
+                written = 3rd form of verb.
+                    Participle.
+                        Past Participle.
+        4. Police wanted a written statement.
+            wanted = main verb.
+            Adjective = written.
+                Participle.
+        5. Running is good for health.
+            Here running is gerund.
+
