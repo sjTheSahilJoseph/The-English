@@ -1,0 +1,197 @@
+What is Subject Complement?
+    First of all we know the word "Compliment". It means praising.
+    But here, its not Compliment but Complement.
+    So what is Complement?
+        The word Complement made up from word "Complete".
+    Subject Complement completes the Subject.
+
+Concept of Subject Complement.
+    In previous chapter, we learnt about Objects.
+        In order to identify the object of verb, we have to see if the condition is returning true or false.
+        Which condition?
+            After the verb, if we are getting the reply of what or whom, only then it'll be the object of verb.
+    But in English language, there are a lot of verbs which doesn't denotes action.
+        Those verbs works as linking the verb to the subject.
+        Those verbs just tells the state of subject.
+        These type of verbs are called Linking Verbs.
+    After Linking Verbs we use Subject Complement.
+    Summary: Linking verbs are used to tell the state of the subject. Linking verbs just tells the state of subject not the action of anything.
+
+Some Linking Verbs:
+    There are many linking verbs but these are some famous ones.
+        1. Look 
+        2. Sound 
+        3. Smell 
+        4. Feel 
+        5. Taste 
+        6. Appear 
+        7. Seem 
+        8. Get 
+        9. Grow 
+        10. Remain 
+        11. Become 
+        12. Be (main verb) 
+
+After Linking verbs, there is no object present.
+    Because the just link with Subject Complement.
+
+Subject Complement will be always the:
+    Noun / Pronoun / Adjective.
+
+Subject will be the same as Subject Complement.
+    They must be the same person.
+
+Note:
+    2 words in a sentence can never be subject complement.
+
+Subject Complement Examples:
+    1. I am a teacher.
+        What is the verb here?
+            Am.
+        Is that helping verb or main verb?
+            Main verb.
+        Why Main main?
+            Because if in sentence, there is no main verb present, then the helping verb will work as the main verb.
+        Let's find the subject Complement here:
+            Am is the verb.
+            Am is the form of Be. (As mentioned previously in some linking verbs.)
+            The sentence:
+                I am a teacher.
+                    I = subject.
+                    am = verb.
+                        Linking Verb.
+                            Because it is link the subject to the subject Complement.
+                    a teacher. = subject Complement.
+                        Because, The subject and the subject Complement are the same.
+                        The subject Complement must be the noun / pronoun / Adjective.
+                            It is the noun.
+                                Because teacher is the name.
+                                Article is present before the noun.
+            A Teacher is the Subject Complement here.
+    2. We are friends.
+        Are = form of Be.
+        Are is the working as main verb here.
+            Because there is no other verb present.
+        When the form of Be works as main verb, we also call it Linking verb.
+        Word After the linking verb, cannot be the object of verb.
+        It always be the subject Complement.
+        So in this case friends is the subject Complement.
+            It must be the noun / pronoun / Adjective.
+                It is noun.
+            Subject and subject Complement must be the same.
+                Yes, They are the same.
+                Who are friends?
+                    We.
+                Who we are?
+                    friends.
+                So they are the same.
+    3. She is beautiful.
+        is is working as main form of verb. It is the form of Be.
+        When the form of Be works as Main verb, we also call it the Linking Verb.
+        The word after linking verb, is not object right? It is the subject Complement.
+        And the subject complement is must be the noun / pronoun / adjective.
+            It is the adjective.
+        Since beautiful is the subject complement.
+        Which subject? She.
+        She is pronoun.
+        Subject and subject complement is same. 
+            yes.
+    4. Sugar tastes sweet.
+        Sweet is the subject complement.
+    5. She seems lucky.
+        Seems is the verb.
+            Seems is the 5th form of verb.
+            Seems is working here as main verb.
+                Because no more verb is present.
+            Seems is working as linking verb here.
+        After the linking verb, we are linking the lucky.
+        Lucky is the adjective.
+        She is the pronoun.
+        Who seems lucky?
+            She.
+        She seems what?
+            Lucky.
+        They are same. So seems is the subject complement.
+    6. She is a beautiful girl.
+        What is the subject complement here? Beautiful or Girl?
+            Let's figure out.
+        In this sentence, the word "is", is that the form of Be?
+            Yes.
+        Is the form of Be (is) working as the main verb?
+            Yes, it is. Because after is there is no other verb is present. So it has to work as main verb.
+        Is that is is working as Linking Verb?
+            Yes. Whenever the form of Be is working as main verb, we can also call it a linking verb.
+        When we talk about this sentence, there are 2 words after the linking verb.
+            Beautiful and Girl.
+            Let's check their part of speech.
+                Beautiful = Adjective.
+                Girl = Noun.
+            The article "a" is for the girl.
+            Because the beautiful is the adjective for girl.
+        We know that in order ot be subject complement, the word must be a noun / pronoun / adjective.
+        So how can we tell that which word is Subject complement?
+            2 words in a sentence can never be subject complement.
+        She is a beautiful. => Wrong sentence.
+            It means the adjective is just confusing us. The real subject complement is Girl. Not Beautiful.
+        She is a girl. => Right.
+            Now we got it. We can make a right sentence without adjective. So girl is the subject complement.
+        In this sentence the subject complement is "Girl" not beautiful Because, beautiful is just modifying the Girl.
+    7. It was they who were running fast.
+        What is the verb?
+            Was.
+                Was is the form of verb Be.
+                Was is working as main verb here.
+                    It is also a Linking Verb.
+        After the linking verb, the word is subject complement.
+            It was they...
+                So they is the subject complement.
+        In order to become subject complement, the word must be a noun / pronoun / adjective.
+            They is the pronoun.
+        In order to become subject complement, the subject and the subject complement must be the same.
+            And yes, They are same.
+                It was who?
+                    They.
+                They are what?
+                    It.
+    8. It is I who am responsible for the lose.
+        What is the verb here?
+            Is.
+                Is is the form of Be.
+            Is is working as the main verb here.
+                So it is also a linking verb.
+        The word after linking verb, is the subject complement.
+            I is the subject complement.
+                I is pronoun.
+        Subject and Subject complement should be the same.
+            Yes they are.
+
+Subject Complement are not as objects.
+  Sometimes we have a doubt that what is the object and what is the subject complement.
+  We have to understand that Subject Complement are not as objects.
+  If any sentence have subject and the object. It can never be the same.
+  But if any sentence have subject and subject complement, then they must be the same. Always.
+  Take a look at these sentences:
+    1. He married a writer.
+    2. He became a writer.
+        They both have the verb.
+            1. He married a writer. (married = verb).
+            2. He became a writer. (became = verb).
+        But the sentence no. 1 have object and sentence no. 2 have subject complement.
+    1. He married a writer.
+        He and writer is not the same.
+            When we get the reply of whom of what in a sentence after verb, it is the object of verb.
+                He married what?
+                    Error.
+                He married whom?
+                    A Writer.
+                        A writer = Article.
+                        A writer = Noun.
+                            So it is the object of verb.
+    2. He became a writer.
+        Is and writer is same.
+            When the subject and the subject complement are same, it is called subject complement.
+                Subject complement must be the noun / pronoun / adjective.
+                    a writer = noun (article within it).
+                    write = name
+                So we confirmed that this is the subject complement.
+    
