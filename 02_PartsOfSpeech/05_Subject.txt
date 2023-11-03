@@ -1,0 +1,255 @@
+What is Subject?
+    A subject must be a Noun or a Pronoun.
+    Remember something?
+        The object also must be a Noun or a Pronoun.
+    In a sentence, when we call anything subject, it must be a Noun or a Pronoun.
+        If its not a Noun or a Pronoun, it is also not a subject.
+    Before verb, when we see bunch of other words which are different parts of speech like Noun, Pronoun, Adverb, etc...
+        In order to identify the subject, we have to make sure that the word which is Noun or a Pronoun can be subject, not other.
+    But sometimes, it becomes really hard to find a subject, Sometimes, a sentence contains more than 1 noun or so.
+        Let's learn about Subject.
+
+For Example:
+    1. A dog is barking.
+        What is the verb here?
+            Is.
+                Is is the form of Be.
+                Is is working here as helping verb.
+                    Because there is another verb (Main verb = Bark) is present.
+            Bark.
+                Bark is the main verb here.
+            In this sentence the main verb and helping verb, both are present.
+            By adding helping verb and main verb, it becomes one verb.
+                Is Barking = Verb.
+        The thing is that if a verb is present in a sentence, it can never happen without a subject.
+        When a subject is present then also a verb must must be present in a sentence.
+        Before verb a dog is written, so it is quite obvious that dog is the subject.
+            Let's confirm this:
+                Subject must be a Noun / Pronoun.
+                    Dog = Noun.
+                        A dog = Article.
+                            It means that this is the noun.
+    2. We shall go to the party.
+        What are verbs here?
+            Shall = Modal helping verb.
+            Go = Main verb.
+            Helping verb and Main verb are one.
+            So the verb is shall go.
+        If there is a verb, so it is obvious that is also have subject.
+            We = subject.
+                Let's Confirm.
+                    Subject = Noun / Pronoun.
+                    We = Pronoun.
+                    Yes, it is a subject.
+        What is to?
+            To = Preposition.
+            Any word after the Preposition is the object of Preposition.
+                the part = object.
+                    Let's confirm:
+                        Doesn't matter if the object is the object of verb or object of Preposition, it is always a noun / pronoun.
+                        the party = noun.
+                        the = Article for noun.
+                        party = name.
+    3. A cool guy is looking here.
+        Verb:
+            Is = Helping Verb.
+            Looking = Main Verb.
+            Helping Verb + Main Verb = One Single Verb.
+        Now let's find the subject.
+            We have 2 Words:
+                1. A Cool
+                2. Guy
+                We know that group of words can never be subject.
+                So then What is the subject here?
+                    We know that subject must be a noun or a pronoun.
+                Let's do one thing, check that "a" article is for whom? Weather its for cool or for guy?
+                    A article is for Guy.
+                        Because Cool is adjective.
+                    We can make a sentence without cool but not without guy.
+                    So A is for Guy.
+                Subject:
+                    Subject = Guy.
+                    Guy = Noun.
+                    Article = preset.
+                Okay so what is "here"?
+                    Here is Adverb.
+                        It is modifying the verb (is looking).
+                        It is giving extra information about a guy who is looking. but where? here.
+    4. Dead men tell no tales.        
+        Tell = Main Verb.
+        If Verb is present, then the subject will also preset.
+        Before verb, there are 2 words:
+            1. Dead
+            2. Men
+            As we know that, there should be only 1 subject, not a group of words.
+        What is the subject?
+            Men = Subject.
+            Men = Noun.
+            Dead = Adjective.
+        Let's find the object.
+            Let's check if its object of verb.
+                In order to see if the object is object of verb or not, we need to make sure that the object is noun/pronoun and it is giving the reply of what or whom in a sentence.
+                    Dead men tell what?
+                        No tales.
+                    Tales = noun.
+                    No = Adjective. (modifying the noun).
+                Tales is the object of verb.
+    5. The children in the first row received the sweets.
+        Verb = received.
+            Main verb.
+        If the verb is present then also the subject is must.
+        What is In?
+            In = Preposition.
+        The word after the Preposition is the object of Preposition.
+            the first row = the group which is after the Preposition.
+                the = article.
+                    for row.
+                first = adjective.
+            row = object of Preposition.
+                It is noun.
+        What is the subject?
+            The children = subject.
+            children = noun.
+                article within it.
+                name of thing.
+        What is the sweets?
+            It is the object of verb.
+                Because it is giving us the answer of what?
+                    children received what?
+                        sweets.
+                Article within it.
+                Name of the thing.
+                since it is a noun
+                and it is the object of verb.
+    6. The scariest villian of all time is SJ.
+        Verb = Is.
+            Is is the form of Be.
+            Is is working as main verb here.
+                When the form of Be works as main verb, it is also a Linking Verb.
+                After the linking verb, the word is subject complement.
+        SJ = Subject complement.
+        If the word is present then also the subject will be also there.
+            villian = subject.
+            villian = noun.
+            The = article for villian.
+            scariest = adjective for villian.
+        Of = Preposition.
+            The word after the Preposition is object of Preposition.
+                all = adjective.
+                time = object of Preposition.
+                time = noun.
+    7. In Singapore, my brother-in-law with his wife was present at the function.
+        What is the subject in this sentence?
+        Was = Main Verb.
+            Was is the form of Be.
+            When the form of Be works as main verb, we call it linking verb also.
+        Verb is present so it means that the subject is also present.
+            [In Singapore, my brother-in-law with his wife] can it be a subject?
+                No, Because a subject has to be of 1 word not a group of words. And that one words must be noun or a pronoun.
+        Let't break this down.
+            In = Preposition.
+                The word after Preposition is the object of Preposition.
+                    Singapore = Object of Preposition.
+                        Singapore = Noun.
+            with = Preposition.
+                The word after Preposition is the object of Preposition.
+                    wife = Object of Preposition.
+                        wife = Noun.
+            his = adjective.
+                his is modifying the wife.
+                wife = noun.
+                the word which modifies noun = adjective.
+            my brother-in-law:
+                brother-in-law = noun.
+                    we can make a plural from it.
+                my = adjective.
+            brother-in-law = Subject.
+                brother-in-law = noun.
+            When the form of be works as linking verb, we call it linking verb.
+                After the linking verb the words is subject complement.
+                    was present = present is the subject complement.
+                    present = subject complement.
+            at = Preposition.
+                word after Preposition = object of Preposition.
+                    at the function = function is the object of Preposition.
+                    function = noun.
+                        article within it.
+    8. The students from the classrooms at the end of the hall were very noisy.
+        Were = verb.
+            were = main verb.
+            were = form of be.
+                also a linking verb.
+        What is the subject?
+            students = subject.
+                students = noun.
+                the article within it.
+        from  = Preposition.
+            The word after the Preposition is the object of Preposition.
+                the classroom is the object of Preposition.
+                    the = article.
+                    classrooms = object of Preposition.
+                        classrooms = noun.
+        of = Preposition.
+            The word after Preposition is the object of Preposition.
+                the hall = object of Preposition.
+                    the = article for hall.
+                    hall = noun.
+                    hall = object of Preposition.
+        at = Preposition.
+            the word after Preposition is the object of Preposition.
+                the end = object of Preposition.
+                    the = article for end.
+                    end = object of Preposition.
+                    end = noun.
+        students = subject of verb (were).
+        What is subject complement?
+            noisy = subject complement.
+            very = adverb of noisy.
+            noisy = adjective.
+    9. Bring the glass of water.
+        This type of sentence is called Imperative sentence which are used to request, order something.
+        What is the Verb?
+            Bring = Verb.
+        As we know:
+            Where there is a verb, there is a subject.
+        What is the subject?
+            Most people say a glass of water is the subject. But thats not the case.
+        Bring What?
+            Bring the glass of water.
+                It means that this sentence is giving us the reply of what. It means that the bring is the verb and glass of water is object of verb.
+                    It contains article as well.
+                    Glass = subject.
+                    of = Preposition.
+                    water = object of Preposition.
+                        water = noun.
+                    a = article with noun.
+                    a glass = subject.
+            Glass of water is not the subject.
+        Where is the subject?
+            For these type of sentence. (Imperative sentence.). That starts with Verb's first form.
+                They have a subject (You).
+                    Which is understood.
+                You bring a glass of water.
+                    you is the subject but hidden.
+                        Because it is understood.
+            You = subject but understood (hidden).
+                Because I'm saying something to someone, and who is someone? Whose I'm talking to is that someone which is obviously you.
+                You = Pronoun.
+                    You = subject.
+    10. Shut the door.
+        Sentence = Imperative Sentence.
+            Starts with Verb's first form.
+        Subject = You. (Understood).        
+            You shut the door.
+        Verb = Shut.
+            Shut is the verb.
+        The door = Object of Verb.
+            Shut what?
+                The door.
+        Door = object.
+            Door = Noun.
+            Article + Noun.
+
+Note:
+    Subject and Object are only of Verb/Preposition(object), not of sentence.
+    A single sentence can have objects of Preposition like that.
