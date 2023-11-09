@@ -1,0 +1,154 @@
+Take a look at these sentences:
+    1. My parents are arriving tomorrow, and every/each of them will be on a different plane.
+    2. He has a ring on every/each finger.
+    3. SJ is using different pencils every/each time.
+    The correct answer is:
+        1. each.
+        2. every/each.
+        3. each.
+    
+We'll understand Each and Every in 3 ways:
+    1. Numbers.
+    2. Parts of Speech.
+    3. Individuals/Group.
+
+Each.
+    Used for two or more than two persons or things.
+
+Every.
+    Used for three or more than three persons or things.
+
+For Example:
+    1. She had paint on every leg.
+        It is wrong, because every is used for 3 or more than 3 persons or things. And She is a human and human has 2 legs. So Every starts from 3 or more than 3.. That's why, we use Each.
+        Correct:
+            She had paint on each leg.
+    2. My parents are arriving tomorrow, and every of them will be on a different plane.
+        Wrong.
+        Correct:
+            My parents are arriving tomorrow, and each (because of two) of them will be on a different plane.
+    3. He has a ring on every finger.
+        It is right but it can also use each.
+            Because, every finger, let's say 4. so 2<each, 3<every. We can use both.
+
+Each.
+    Each = Pronoun/Adjective.
+
+Every.
+    Every = Adjective.
+
+For Example:
+    1. Each of us has a bicycle. = Correct.
+        Verb = has.
+        subject?
+            Each of us = of = Preposition so word after Preposition = object. us = object.
+            subject = each.
+            subject = Pronoun.
+    2. Every of us has a bicycle. = Wrong.
+        has = verb.
+        subject = every. (but every is Adjective.)
+            In order to make a subject, we need to have a noun/Pronoun.
+            We can add "one" after every, then it's right.
+            one = Pronoun and it can be subject.
+            every = Adjective. which is right.
+    3. Every one of us has a bicycle. = Correct.
+        Every = Adjective.
+        One = Pronoun.
+        Of = Preposition.
+        us = Object of Preposition.
+        subject = one.
+    4. Each of the children received a special gift. = Correct
+        Verb = received.
+        Of = Preposition.
+        the children = object of Preposition
+        subject = each.
+        why? because no more word left and each is Pronoun so it can be subject.
+    5. Every of the children received a special gift. = Wrong.
+        Every = Adjective.
+        So we need a subject and every = not a subject.
+    6. Every one of the children received a special gift. = Correct.
+        One = Pronoun.
+        subject = One.
+        Every = Adjective.
+
+Note:
+    In English, no sentences can be complete without verb, and no verb can be complete without subject.
+    subject is always a noun or a Pronoun.
+    Each = Pronoun.
+    So when we need to have a subject, we use each.
+    The word after Preposition is the object of Preposition.
+
+Test.
+    1. We have three windows; every has a great view. = Wrong.
+        Not every time the way of time works.
+        Sometimes we need to think more deeply.
+        Take a look at verb.
+            has is the verb.
+            and verb needs a subject.
+            in order to become a subject the subject must be noun / Pronoun.
+            but every = Adjective.
+            So, each is the correct answer.
+        Correct:
+            We have three windows; each has a great view.
+    2. The dogs are unique. Every has different markings. = Wrong.
+        has = verb.
+        subject = every not possible.
+        each = correct.
+    Correct:
+        The dogs are unique. Each has different markings.
+        But If we want to write every then we can write Every + one and then it will be good.
+    3. Every of the children received a present. = Wrong.
+        Correct:
+            Each/Every one.
+    4. Every one of the windows was broken. = Correct.
+    5. I've seen three films. Every was very interesting. = Wrong.
+        Correct:
+            I've seen three films. (Each/Every one) was very interesting.
+    6. SJ has two sons and each one of them is brilliant in studies. = Wrong.
+        two = each;
+        verb = is;
+        subject = every one;
+        But wrong.
+            two < each;
+            each = Adjective here.
+        Correct:
+            SJ has two sons and each of them is brilliant in studies.
+        yes, each can become Adjective as well.
+    7. Each of my ten pens writes smoothly. = Correct.
+        Number = 10;
+        Verb = Writes;
+        Preposition = Of;
+        object of Preposition = my ten pens;
+            my = Adjective;
+            pens = object of Preposition;
+        Each = subject;
+            Each can come for more than 2 pens.
+
+Each.
+    Each is used when you are talking about an Individual person or item in a plural group.
+
+Every.
+    Every is also used for a plural group, but the word is used to describe the collective group, not the Individuals within it.
+
+For Example:
+    1. Each child is performing a different task. (Individual).
+    2. Every child is performing the same task. (Collective group).
+
+Test:
+    1. SJ is using different pencils every time. = wrong.
+        Correct:
+            SJ is using different pencils each time.
+        Because different different = Individual sense.
+    2. SJ is using the same pencil each time. = Wrong.
+        Collective sense = Every;
+        Correct:
+            SJ is using same pencil every time.
+    3. Each artist is sensitive. Wrong.
+        Sense = collective;
+        Every = correct.
+    4. Every artist sees things differently.
+        Sense = Individual;
+        Each = correct.
+        Correct:
+            Each artist sees things differently.
+
