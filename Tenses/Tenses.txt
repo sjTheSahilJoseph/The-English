@@ -1,0 +1,112 @@
+Let's start by seeing these 2 sentences:
+    1. He is always talking about his work whenever they meet.
+    2. He is always going for a walk after dinner.
+    If I ask you to find the mistake in both sentences.
+    You will probably say:
+        These sentences should look like this:
+            1. He always talks about his work whenever they meet.
+            2. He always goes for a walk after dinner.
+        But this is wrong.
+            1st sentences is totally right.
+            But yes, for 2nd sentences we will correct it by "He always goes...".
+
+Take a look at this:
+    There is a sentences:
+        1. SJ writes a letter.
+            What If I ask you that find the subject, verb and object.
+                Subject = SJ;
+                Writes = Verb;
+                A Letter = Object;
+            And I ask that what is the object of this sentences, and what is the subject of this sentences.
+                Most people say that SJ is the subject of the sentences, writes is the verb of the sentences, a letter is the object of this sentences.
+            But this is false.
+            There is no subject, object, verb of a sentences.
+                Subject is the subject of Verb.
+                Object is the object of Verb.
+            There is nothing called the subject of sentences or object of sentences.
+
+Verb is Important:
+    In that case, we have to learn about Verb.
+    Verb is super Important.
+        For Example:
+            Tenses are based on Verb.
+            Voice is based on Verb.
+            Subject / Subject Complement is based on Verb.
+            Mostly stuff in English is based on Verb.
+    If I ask you what is verb?
+        You'll probably say:
+            Verb is a word which tells about the action of state of being.
+        Yes it is right, but Verb is more than that.
+    
+Right way of Understanding Verb:
+    In order to understand Verb, we need to understand its categories:
+        Verb has 2 Categories:
+            1. Helping Verb.
+                Helping Verb:
+                    Helping Verb has also 2 Categories:
+                        1. Primary.
+                            Primary Helping Verb.
+                                Primary Helping Verb has also 3 Categories:
+                                    1. Be.
+                                        Is the meaning of Be is Be?
+                                            No.
+                                        Be = is/am/are/was/were.
+                                    2. Have.
+                                        Have = has/have/had.
+                                    3. Do.
+                                        Do = do/does/did.
+                        2. Modals.
+                            There are total 13 Modal Verbs:
+                                Modals = can/could/may/might/shall/should/will/would/must/dare/need/used to/ought to.
+            2. Main Verb.
+                Main Verbs = which tells the Action.
+                    For Example:
+                        Write, Play, Talk, etc...
+
+Why understanding verbs is Important in order to learn tenses:
+    There are some points:
+        1. Helping Verbs comes before the Main Verbs.
+            Helping Verbs has 2 Categories:
+                1. Primary
+                2. Modals.
+            When Primary Helping Verbs combined with Main Verbs, the chapter of "Tenses" pops out.
+            When Modals Helping Verb combined with Main Verbs, the chapter of "Modals" pops out.
+    Summary:
+        Primary Helping Verbs + Main Verbs = Tenses.
+        Modals Helping Verb + Main Verbs = Modals.
+
+What are Tenses?
+    A set of verb form.
+        What is Verb?
+            The Action Word.
+        When any action happens, we need to know the time of that action. Right?
+            Like, Is that action happened in past? future? or in the present?
+    Tense is the part of verb that tells the time of that action, like, when the action happened or will happen.
+    But how?
+        In order to know the time of that action, we change the form of verb.
+    Forms of Verb:
+        There are total 5 forms of verb:
+            1. Verb 1st form = play;
+            2. Verb 2nd form = played;
+            3. Verb 3rd form = played;
+            4. Verb 4th form (ing) = playing;
+            5. Verb 5th form (s/es) = plays;
+    For Example:
+        1. SJ plays hockey. (Present)
+        2. SJ played hockey. (Past)
+        3. SJ will play hockey. (Future)
+            Did you see? The difference?
+            I used different form of verb to tell the time of the same action. But by changing the form of verb, the whole time changed of that action.
+
+For Different Times has Different Parts in Tenses:
+    1. Preset.
+    2. Past.
+    3. Future.
+        All of them has 4 Parts:
+            1. Indefinite.
+            2. Continuous.
+            3. Perfect.
+            4. Perfect Continuous.
+    There are total 12 Tenses.
+        For 12 Tenses, the form of verb will change.
+
