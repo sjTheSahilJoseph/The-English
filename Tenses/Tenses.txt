@@ -110,3 +110,288 @@ For Different Times has Different Parts in Tenses:
     There are total 12 Tenses.
         For 12 Tenses, the form of verb will change.
 
+Present Indefinite.
+    Take a look at these sentences:
+        1. He is always talking about his work whenever they meet.
+        2. He is always going for a walk after dinner.
+        Most people will say the first sentences is wrong and the second one is also wrong, But the truth is the first sentences is correct and yes the second one is wrong.
+            But why the first sentences is correct?
+                Let's find out.
+    What is Present Indefinite Tense?
+        Structure:
+            Subject + Verb 1st Form + s/es.
+                When we need to put e/es?
+                    In singular case we add es/s.
+                    In plural case we don't add es/s
+                        Now another question: What should be singular? to Check weather we need to put s/es or not. The subject? The object? the verb? What?
+                            Some people might say : Verb.
+                            But the truth is both the subject and verb have to be singular or plural to math the s/es case.
+
+Noun.
+    Noun = Naming Word.
+        By the way, noun is more than just naming word, but we'll learn more about it later.
+    Verb = Action Word.
+    In English language, if there is a singular noun, and we add s/es, then the noun becomes plural. Yes, there are many nouns which don't follow the way. But most of them are.
+        For Example:
+            Singular = Chair;
+            Plural = Chairs;
+            Singular = Bench;
+            Plural = Benches;
+    But in the context of Verb, this same rule is opposite.
+        For Example:
+            Singular = Writes;
+            Plural = Write;
+            Singular = Walks;
+            Plural = Walk;
+        The 1st form of verb is always in the plural form naturally.
+        And If we add s/es to the plural form the 1st form of verb, then the verb becomes singular.
+    If the subject is singular then the form of verb should also be singular.
+    If the subject is plural then the form of verb should also be plural.
+
+How to make singular / plural verb?
+    If the subject is singular then the form of verb should also be singular.
+        By adding s/es to the 1st form of verb.
+    If the subject is plural then the form of verb should also be plural.
+        By default its plural.
+
+But What is singular subject and what is plural subject?
+    Singular Subject - Singular Verb:
+        He/She/It - walks, talks, etc...
+    Plural Subject - Plural verb:
+        I/We/You/They - walk, talk, etc...
+    But wait a second, I = singular right? So why it is in the plural category?
+        Because I is an exception in English Language.
+        I is singular but it is considered as plural.
+        In Pronoun, we count I as first person singular, but in tense context, I is plural.
+    
+I:
+    I - first person singular.
+        But only in 2 places:
+            When:
+                I + am.
+                1 + was.
+        Otherwise, in the whole tenses:
+            I - plural.
+        For Example:
+            I - has = Wrong.
+            I - have = Right.
+            I - does = Wrong.
+            I - do = Right.
+            I - writes = Wrong.
+            I - write = Right.
+    This rule is followed in all the tenses.
+        I works as plural for all the tenses except for those where we use am/was with I.
+    
+In present Indefinite the I:
+    We use plural verbs with I in present Indefinite.
+    Structure:
+        Subject + Verb 1st form + s/es.
+    
+Important Uses of Present Indefinite Tense:
+    1. Habitual/Repeated Actions of Present.
+        For Example:
+            1. My mother goes to temple everyday.
+            2. I get up early in the morning.
+            3. My father works late at night.
+            In fact, most of us already know us in Schools, but then also we was unable to tell the error in this sentences right?
+                sentence:
+                    He is always talking about his work whenever they meet.
+                Why?
+                    Because if we translate the English sentence into Hindi/Urdu, then we can never get the right idea.
+                So then, How can we identify?
+                    By TIME.
+                Time is the key.
+                    There are many words which tells about time of the Repeated action or Habitual actions.
+                    In English, anywhere these words are present, after seeing them in a sentence, we can quickly understand that this sentence is talking about Habitual/Repeated action.
+
+Note:
+    Time expressions of Habitual Actions:
+        Every day / Every night / Every week / Every month / Every Year / Every evening / Every morning / Daily / Seldom / Never / Occasionally / Frequently / Often / Usually / Generally / Once a day/week/month / Twice a day/week/year / Hardly / Rarely / Scarcely / etc...
+    Yes, they have some exceptions, but we'll discuss them later.
+    But mostly, we can quickly know that this should be Present Indefinite Tense.
+        (Subject + Verb 1st form + s/es).
+    For Example:
+        1. He is going everyday for a morning walk with his friends and neighbors.
+            But why is going? Like we understood that if there is everyday present, then it must be present Indefinite tense right?
+                So it is wrong,
+            The correct sentence is:
+                He goes everyday for a morning walk with his friends and neighbors.
+        2. During the holidays I am often working in my uncle's school to earn some pocket money.
+            Often = Present Indefinite.
+            I = Singular but Plural.
+            working = wrong, works = wrong because of I, work = right.
+            So this sentence is wrong.
+            The right is:
+                During the holidays I often work in my uncle's school to earn some pocket money.
+        3. Although she is a very good friend of mine yet she is hardly talking to me.
+            She = singular.
+            hardly = Preset Indefinite.
+            So why "is hardly talking?" it is wrong.
+            Correct:
+                Although she is a very good friend of mine yet she hardly talks to me.
+        4. Everyone likes her in the office because she is seldom coming later.
+            Again the same mistake.
+            This is wrong.
+            The right version:
+                Everyone likes her in the office because she seldom comes late.
+        
+Take a look at these sentences again:
+    1. He is always talking about his work whenever they meet.
+    2. He is always going for a walk after dinner.
+    It seems that they both are telling about a Habitual action. Right?
+    But how? Because of always?
+        Then you're wrong. Because always was not in that list which I showed you.
+        Always is an exception.
+            Why?
+
+Always:
+    There are 2 uses of always:
+        1. Habit.
+            Subject + Verb 1st form + s/es.
+        2. Irritation.
+            Subject + is/am/are + verb 1st form + ing.
+    When always tells about the Habit, it becomes a present Indefinite tense.
+    & When always is used to describe irritation, We don't use present Indefinite tense anymore. We use present Continuous tense.
+        (Subject + is/am/are + Verb 1st form + ing).
+    For Example:
+        1. She is always speaking the truth. = Wrong.
+            It is a Habitual sentence. So it should be present Indefinite tense. But it is preset Continuous, so it is wrong.
+        2. She always speaks the truth. = Correct.
+        3. She always complains about her husband. = Wrong.
+            It is irritation sentence with always, so we don't use present Indefinite here. We use present Continuous.
+        4. She is always complaining about her husband. = Correct.
+    We need to understand the sense of that sentences.
+
+Now Take a look at these sentences again:
+    1. He is always talking about his work whenever they meet. = Irritation so we use present Continuous. = Right.
+    2. He is always going for a walk after dinner. = Habit so we use present Indefinite, but here it is written in present Continuous which is wrong.
+        The correct version is:
+            He always goes for a walk after dinner.
+
+Next type of Present Indefinite:
+    Take a look at these sentences and try to find an error:
+        1. The people in ancient time believed that the Sun moves round the Earth.
+        2. The scientist believed that the gravitational force pulls down everything.
+        The first sentence is wrong, and the second one is correct.
+        In first sentence, "moves" is wrong, is should be "moved".
+        And in second sentence, "pulls" is right.
+        But why?
+            Let's find out.
+
+2. Present Indefinite use no. 2 = Universal Truth / Facts.
+    Universal Truth / Facts means they don't change.
+    In these type of use case, we use present Indefinite tense.
+    For Example:
+        1. The Earth moves round the Sun.
+            Universal Truth = true;
+            Earth = singular so Verb "moves" = Singular.
+        2. The Sun rises in the east.
+            Sun = singular so Verb "rises" = Singular.
+        3. Plants give us oxygen.
+            Plants = plural so Verb "give" = Plural.
+
+Now take a look again at these sentence:
+    1. The people in ancient time believed that the Sun moves round the Earth.
+    2. The scientist believed that the gravitational force pulls down everything.
+    Where is the Universal Truth or where its not?
+    In the first sentence, this is not an Universal truth. Because now we know that this is false.
+        So it is Universal truth? Not at all.
+            So "moves" is not correct for this, we need to write "moved" as it is past (believed). so we need to make it past as well.
+            But if its like:
+                The people in ancient time believed that the Earth moves round the Sun.
+                    Then yes, it is correct 100%.
+    In second sentence, this is Universal truth, fact.
+        So it is correct. So we use present Indefinite tense here.
+    
+Next type of Present Indefinite Tense.
+    Take a look at these sentence:
+        1. The train leaves at 5:30 in the evening.
+        2. The train will leave at 5:30 in the evening.
+        Most people might say that the first sentence is wrong because it is not telling about any Habit.
+        But the 2nd sentence is right, because it fits as it is a future sentence.
+        But the thing is both of them are correct.
+        As we know that they both sentences are talking about past but why we used present Indefinite in the first sentence?
+            Let's figure out.
+        We can use present tense for future but with some limitations.
+
+3. Fixed Actions in Future - 3rd use of Present Indefinite Tense.
+    Before we understand about this category, let's know some basic points of Future:
+        For Future Tense, the Structure:
+            Subject + Will/Shall + Verb 1st form.
+            For Example:
+                1. I shall go to US tomorrow.
+                2. He will buy a flat soon.
+                3. The PM will give a speech tomorrow.
+        Future has 2 categories:
+            1. Fixed Actions Future.
+            3. Not Fixed Actions Future.
+        Not Fixed Action Future:
+            Where the the action is not fixed like 50%, 60%, etc...
+        Fixed Action Action Future:
+            Where the action is Fixed like 99.99%.
+                1% is exception because it can also not be done by some reason but it is fixed.
+        Which sentence is a fixed action and which is not?
+            1. I shall go to US tomorrow. = Not Fixed.
+            2. He will buy a flat soon. = Not Fixed.
+            3. The PM will give a speech tomorrow. = Fixed because there is a higher chance it must be happen, because PM is a responsible seat.. etc..
+        It's all about sense.
+    Doesn't matter weather it's fixed or not fixed future. We use will/shall in future tense.
+    But if the future is fixed then we can also use present Indefinite tense.
+    But not in not fixed action future.
+    Like:
+        Subject + Will/Shall + Verb 1st form = Fixed / Not Fixed.
+        Subject + Verb 1st form + es/s = Only in Fixed.
+            it is used to minimize the words.
+    For Example:
+        1. The P.M will give a speech tomorrow. = Right.
+        2. The P.M gives a speech tomorrow. = Right.
+        3. The match will start at 7 in the evening. = Right.
+        4. The match starts at 7 in the evening. = Right.
+    Test:
+        1. The train leaves at 5:30 in the evening. = Correct as its fixed future, so we can use present Indefinite as well.
+            Focus on the verb "leaves" time can be change but focus on verb.
+        2. My grandfather retires on 26th November.
+            Correct.
+        3. The school reopens in July.
+            Correct.
+
+Present Indefinite Tense.
+    Affirmative - (Subject + Verb 1st form + s/es).
+        3 Uses:
+            1. Habitual/Repeated Action.
+            2. Universal Truth/Facts.
+            3. Fixed Future.
+    Interrogative/Negative - (Not, Do/Does).
+        For Interrogative/Negative the Structure changes.
+    
+Interrogative.
+    Structure:
+        Do/Does + Subject + Verb 1st Form?
+        For Example:
+            1. Does she go to college?
+            2. Does she talk to anyone?
+            3. Do we need him?
+        We don't use s/es with verb, because with do/does we don't add s/es with verb as do/does is helping verb.
+        If the subject is singular, the verb must be singular, So do = plural, does = singular. with does its already with s/es do+es.
+
+Negative:
+    Structure:
+        Subject + Do/Does + not + Verb 1st form.
+        For Example:
+            1. She does not go to college.
+            2. She does not talk to anyone.
+            3. We do not need him.
+        We don't use s/es with verb, because with do/does we don't add s/es with verb as do/does is helping verb.
+        If the subject is singular, the verb must be singular, So do = plural, does = singular. with does its already with s/es do+es.
+
+Test:
+    1. How often are you going to Gymnasium? = wrong.
+        Here we need Interrogative Structure.
+        Correct:
+            How often do you go to Gymnasium.
+        Because it is singular.
+    2. Why don't you told him about the issue? = wrong.
+        Correct:
+            Why don't you tell him about the issue.
+        Because it is present. So the past "told" is wrong.
+
