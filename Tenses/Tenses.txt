@@ -395,4 +395,151 @@ Test:
             Why don't you tell him about the issue.
         Because it is present. So the past "told" is wrong.
 
+Take a look at these sentences:
+    1. I have asked this question from management three times.
+    2. I have had lunch an hour ago.
+    3. The earthquake had destroyed their city three years ago.
+        1st sentence is correct, but 2nd and third are wrong.
+
+Simple Past Tense (Verb 2nd form).
+    Structure:
+        Subject + Verb 2nd form.
+    In the present indefinite tense, we have a rule of changing the verb like singular or plural. But here there is not rule like this. Doesn't matter the subject is singular or not. We always use verb 2nd form.
+
+Uses of Simple Past Tense:
+    1. Actions finished / completed in Past.
+    For Example:
+        1. I met your brother yesterday.
+        2. My father went to Russia last year.
+        3. She bought a car two weeks ago.
+        All the actions here are finished. Like in the past.
+    Now take a look at this sentence:
+        1. I asked this question from management three times.
+        According to the concept which we've learned sometime ago. This sentence should be correct right? But it's not. Like this is past so we added verb 2nd form "asked" but it is not correct here. We have to use have asked. Let's find out how and why?
+    We have to understand the sense of the sentence. On the basis of time. "TIME"
+
+Time Expressions of Finished Actions in past.
+    Yesterday, Yesterday morning/evening...
+    The day before yesterday...
+    Ago, The other day...
+    Last night...
+    Last week...
+    Last month...
+    Last Year...
+    In 1991...
+    In July...
+    etc...
+    These are the times which tells about finished actions in past (verb 2nd form).
+
+Let's take a look at this sentence.
+    1. My. SJ and the other dissident leaders have taken shelter at the church last month after the authorities ordered their arrest.
+        Verb = have taken = verb 3rd form.
+        Time = last month = it means that the action is finished in the past. So, verb 2nd form.
+            It means the verb is wrong here.
+        Correct:            
+            1. My. SJ and the other dissident leaders took shelter at the church last month after the authorities ordered their arrest.
+    2. I have bought this house in 1970 for two lac.
+        Verb = have bought = Verb 3rd form.
+        Time = in 1970. = verb 2nd form.
+        The sentence is wrong.
+        Correct:
+            2. I bought this house in 1970 for two lac.
+    3. I have had lunch one hour ago.
+        Time = ago = it means the action is finished, so 2nd form of verb.
+        Verb = have had. = (by the way, have had etc.. Are like 1st have is helping verb and 2nd had is main verb.)
+            Verb 3rd form.
+        So it means that sentence is wrong.
+        Correct:
+            3. I had lunch one hour ago.
+                had = 2nd form. [have had had having has]
+    4. Three years ago an earthquake had destroyed their city; the people are still rebuilding their lives.
+        Time = three years ago. = finished action in the past so 2nd form of verb.
+        Verb = had destroyed. = it is 3rd form but we need 2nd form.
+            had = delete; and destroyed = 2nd form and 3rd form are same.
+        This sentence is wrong.
+        Correct:            
+            4. Three years ago an earthquake destroyed their city; the people are still rebuilding their lives.
+
+Conclusion:
+    We use 2nd form of verb when the action is finished in the past.
+    And we can identify weather its finished in the past or not by Time.
+
+Now take a look:
+    1. It is opportune time the govt. Should take some strict actions against the rapist.
+        This sentence is wrong, Let's find out why?
+
+We use 2nd form of verb when the sentence is giving the sense of:
+    1. It is opportune time...
+    2. It is right time...
+    3. It is high time...
+    etc...
+    These clauses give the sense of "It is the right time" ... Little late or should...
+    And when the subject is present directly after these clauses, we use verb 2nd form.
+
+For Example:
+    1. It is high time I go to bed. = wrong.
+    1. It is high time I went to bed. = right.
+    2. It is about time she goes to the station. = wrong.
+    2. It is about time she went to the station. = right.
+    It doesn't means that this is past tense. It just gives the meaning of should & a little late.
+    3. It is high time we should prepare for English. = wrong.
+        Because it only gives the sense of should not directly should.
+    3. It is high time we prepared for English. = right.
+    4. It is time you eat food. = wrong.
+    4. It is time you ate food. = right.
+    5. It is opportune time the Govt. Should take some strict actions against the rapist. = wrong.
+    5. It is opportune time the Govt. Took some strict actions against the rapist. = right.
+
+Simple Past tense 3rd type:
+    Habit of Past.
+
+Habit of Past.
+    Structure:
+        Subject + used to + Verb 1st form.
+    Why we use verb 1st form in simple past tense when we are use this use case "Habit of past"? Why not verb 2nd form?
+    The reason behind this is not something like:
+        We have already used to so ed is already there so we don't have to make it past. No no no.
+        We use verb 1st form after to. no no no. It is also wrong.
+    The reason is "used to" is a modal verb.
+        We use verb 1st form after the modal verb always.
+    Whenever we see subject + modal + verb 1st form. It means that this thing is past habit.
+    For Example:
+        1. I used to eat sand in childhood. = correct.
+        2. I used to ate sand in childhood. = wrong.
+        3. She used to play guitar in college. = correct.
+        4. She used to played guitar in college. = wrong.
+
+There is an use case where we use verb+ing form after used to.
+    There are 2 kinds of habits:
+        1. Habit of past.
+        2. Habit of present.
+    For habit of past, we use this structure:
+        Subject + used to + verb 1st form.
+    For habit of present, we use this structure:
+        Subject + Be[am,is,are,was,were,be,..etc..] + used to + verb+ing.
+            Because of present.
+    For Example:
+        1. I used to gamble. = correct = habit of past.
+        2. I am used to gamble. = wrong = habit of present but we should use verb + ing.
+        2. I am used to gambling. = correct. = habit of present.
+
+For Negative and Interrogative:
+    We use "did" helping verb and 1st form of verb.
+    Why 1st form of verb in simple past tense?
+        Because did is already a 2nd form of verb "do".
+    For Negative:
+        Structure:
+            Subject + Did not + Verb 1st form.
+    For Interrogative:
+        Structure:
+            Did + Subject + Verb 1st form.
+    For Example:
+        1. Did she eat food? = correct.
+        2. Did she ate food? = wrong.
+        3. Did she go to college? = correct.
+        4. Did she went to college? = wrong.
+        5. She did not eat food. = correct.
+        6. She did not ate food. = wrong.
+        7. She did not go to college. = correct.
+        8. She did not went to college. = wrong.
 
