@@ -543,3 +543,80 @@ For Negative and Interrogative:
         7. She did not go to college. = correct.
         8. She did not went to college. = wrong.
 
+Take a look at these sentences:
+    1. All the flowers in the garden will surely die before the rain will fall.
+    2. I shall help him to get the job provided that he will give me 50k.
+    Now find an error.
+    We'll first learn the basics then we'll be back to these sentences so we can find error.
+
+Simple Future Tense.
+    We all know that simple future tense is the tense in which we use will/shall + Verb 1st form.
+
+We know that when the (I and We) are used, then we use (shall).
+And when the (He, she, it, you, they), then we use (will).
+But sometimes we use these interchangeably. For example, We use I + will for promise, determination etc... It's academic English.
+If I + will is written then also it is right. Not wrong.
+
+Simple Future tense Uses:
+    1. Actions that happen in future.
+        For Example:
+            1. I shall go to USA tomorrow.
+            2. He will buy a car soon.
+
+Let's implement these basics:
+    1. If you will come here, I shall help you.
+        If I ask you that in first sentence, from "If" to "you.", Isn't it a single sentence? Yes it is. But what is "," doing here? Because These two before "," and after "," are called clause in English.
+        Clause is (Subject + V).
+        Both clauses are in the future right?
+        So it means that it is right. But it's not.
+    2. When he will come here, he will get the job.
+        Also incorrect.
+    Let's find out why?
+
+If the sentence has more than 1 clauses, and both are future related, And any of the clause has Condition or Time, then  We don't use "will/shall" structure.
+Instead we use Simple Present Tense for that one clause and other will get "will/shall".
+    For Example:     
+        1. If you will come here, I shall help you. = Wrong.
+        1. If you come here, I shall help you. = Correct.
+        2. When he will come here, he will get the job. = Wrong.
+        2. When he comes here, he will get the job. = Correct.
+
+Time & Condition.
+    If two situations of future are used in a sentence and if in one part, time & condition denoting words are used, in this case, "will/shall" is not used in that part.
+    Simple Present Tense is used there.
+        (Subject + Verb 1st form + s/es (If Singular)).
+
+Some Time & Condition denoting words:
+    If, When, Till, Until, Unless, As soon as, As long as, In case, Provided that, Before, After, etc...
+
+Let's test:
+    1. Unless you will work hard, you will not succeed.
+        1. Unless = Condition/Time.
+        2. You = Subject.
+        3. Will work hard = will = wrong, because it should be simple present tense.
+        4. You will not succeed. = 2nd clause, It'll be the same.
+        Correct Version = Unless you work hard, you will not succeed.
+            By the way, "succeed" is the first form of verb, not second form of success. Make sure to not get confused by "ed".
+    2. She will ring me up as soon as she will reach USA.
+        1. She = subject.
+        2. will ring me up. = Talking about future.
+        3. as soon as = condition/time.
+        4. she will reach USA. = again future.
+            Is there 1 sentence? yes.
+            Are there more than 1 clause in this sentence? yes.
+            So it is wrong, because the time and condition is found and we'll get it that it should be present indefinite tense on that clause after the time and condition words. (After).
+        Correct Version = She will ring me up as soon as she reaches USA.
+
+Test yourself:
+    1. I shall help him to get the job provided that he will give me 50k.
+        1. Is that one sentence? Yes.
+        2. Are there more than 2 clauses? Yes.
+        3. Any time and condition found? Yes.
+        So we use simple present tense for after the time and condition word clause.
+        Correct Version = I shall help him to get the job (provided that (Condition)) he gives me 50k.
+    2. All the flowers in his garden will die before the rain will fall. = Wrong.
+    2. All the flowers in his garden will die (before (condition/time)) the rain falls.
+        Rain = Uncountable;
+        Uncountable = Singular.
+
+
