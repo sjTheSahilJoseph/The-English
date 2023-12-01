@@ -619,4 +619,60 @@ Test yourself:
         Rain = Uncountable;
         Uncountable = Singular.
 
+Present Continuous Tense:
+    Basic Structure:
+        Subject + Is, Am, Are + Verb 1st form + Ing.
+
+Find Error:
+    1. Are you hearing a noise?
+    2. On hearing the siren, the thief ran away.
+    3. Seeing the mistake, she corrected it immediately.
+    4. I'm seeing that you are not doing the work properly.
+    1, 4 are wrong.
+        1. Are you hearing a noise?
+            Do you hear a noise?
+        4. I'm seeing that you are not doing the work properly.
+            I see that you are not doing the work properly.
+    2, 3 are correct.
+    Let's learn why?
+
+Uses - Actions continue at the moment.
+    I'm teaching.
+    We are studying.
+    The boys are playing hockey in the field.
+
+The thing is that verb tells about the action and the state.
+Verb = {
+    State = {
+        She is liking chocolates. = wrong.
+    },
+    Action = {
+        He is writing a letter. = right.
+    }
+}
+Verb which tells state, we cannot use +ing if we are using present continuous tense.
+We have to use Simple Present Tense in this case.
+But yes, for Action verbs, we use Present continuous tense.
+
+There are some state verbs which have more than 1 context.
+In that case, we use present continuous tense with state verb.
+But the meaning will be changed.
+Like : see, hear, taste, smell, appear, have, etc...
+These are the state verb which we can use Simple Continuous tense. (Subject + Is, am, are + verb+ing)
+
+Note:
+    When I say simple present tense, I mean that context, and that structure. If no (is, am, are) are presented, then this is not a simple continuous tense anymore. It means we can use state verb + ing here.
+
+Practice:
+    1. Are you hearing a noise? = wrong.
+    1. Do you hear a noise? = Simple Present Tense.
+    2. It is appearing to me that my friends are plotting against me. = wrong.
+    2. It appears to me that my friends are plotting against me. = right.
+    3. You are a very lovable person but I'm not loving you. = wrong.
+    3. You are a very lovable person but I don't love you. = right.
+    4. On hearing the siren, the thief ran away. = right.
+        Because it is not a present continuous tense right? no (is, am, are) before hearing.
+    5. Seeing the mistake, she corrected it immediately. = right.
+        Because is is not a present continuous tense right? no (is, am, are) before seeing.
+
 
