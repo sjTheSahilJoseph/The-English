@@ -784,6 +784,14 @@ Note:
     For Example:
         verb 2nd form + and + verb 2nd form.
 
+Future Continuous Tense:
+    Structure:
+        Subject + will/shall + be + Verb 1st form + ing.
+    Uses - Future Continuous Tense represents a continuous
+    action which will happen in the future.
+    For Example:
+        SJ will be reading various kinds of books.
+        I will be helping him to do the task.
 
 
 
