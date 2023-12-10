@@ -793,9 +793,149 @@ Future Continuous Tense:
         SJ will be reading various kinds of books.
         I will be helping him to do the task.
 
+Present Perfect Tense:
+    Structure:
+        Subject + Has/Have + Verb 3rd Form.
+        If the subject is singular we use Has.
+        If the subject is plular we use Have.
+         
 
+In English language, There are 3 types of tenses which talks about past. These are:
+    Simple Past Tense (Verb 2nd form)
+    Present Perfect Tense (Has/Have + Verb 3rd form)
+    Past Perfect Tense (Had + Verb 3rd form)
 
+But there use cases are different.
 
+Verb 2nd form tense are used in that past which are for finished actions.
+
+Let's say My friend wanna meet me.
+I said to come at 10:00 AM.
+Don't come between 11:00 AM to 12:00 AM because I'll be busy.
+But he came at 11:30 AM.
+So now I'm busy, He only have 2 possibilites.
+    1. He will go back.
+    2. He will wait for me.
+If he waits then it is a unfinished action.
+If he goes back then it is a finished action.
+
+If he goes back then it is a finished action. = Verb 2nd form. Because it is finished.
+If he waits then it is a unfinished action. = Present Perfect Tense. Because it is unfinished.
+
+Unfinished Action in that sense have impact on the present.
+And in that case, we use (has/have + verb 3rd form).
+
+If he goes back (Finished) = Verb 2nd form.
+    -> She came to meet me.
+If he waits for me (Unfinished) = Has / Have + Verb 3rd form.
+    -> She has come to meet me.
+
+Both sentences are correct in thier own contex (gramatically).
+We cannot tell properly which is wrong util the time is specified.
+That's why we study "Time and Tenses".
+In the sentense the time should be given. (Context Wise).
+
+If the time of finished is given then 2nd form of verb.
+If the time of unfinished is given then has/have+verb3rd form.
+If no time is given then we cannot tell which is wrong. Both are correct.
+
+But now the question is how can we tell which time is of finished or unfinished?
+
+There are some times which we can use to identify.
+    For Example:
+        Simple Past (Finished (verb 2nd form)):
+            Yesterday,
+            The day before yesterday,
+            Last night, week, year,
+            Ago,
+            The other day,
+            In 1000,
+            In July,
+            In July 1000,
+            etc...
+        Present Perfect (Unfinished (Has/Have + Verb 3rd form)):
+            So far, Already, Just,
+            Till now,
+            Yet,
+            Never, Ever,
+            For, Since,
+            This is the first time,
+            Two/three times,
+            Up to now, Up to present,
+            Several Times,
+            etc...
+
+Example:
+    1. I have eaten luch an hour ago. = Wrong.
+        We identify the time, (ago) means the finished. So Verb 2nd form.
+    1. I ate lunch an hour ago. = Correct.
+    2. Man has reached the moon in 1969. = Wrong.
+        Because of past action. We use verb 2nd form tense.
+    2. Man reached the moon in 1969. = Correct.
+        But if the time is not specified, then both are correct.
+    3. I asked this question from management three times. = Wrong.
+        Because When a count times is present it means unfinished action.
+    3. I have asked this question from management three times. = Correct.
+        Why we picked unfinished? Because it is giving sense of it could be asked 4th time as well. Some sort of that. We take refference from the time specified.
+    4. She read four chapters of this book so far. = Wrong.
+        Because so far means this is not finished action sense. It could be she is reading 5th chapter.
+    4. She has read four chapters of this book so far. = Correct.
+        Read forms are same (Read, Read, Read)
+        How can we know which is used?
+        1. It cannot be 3rd form.
+            Because after subject 3rd form cannot be there directly.
+                (Subject + Verb 3rd form) = Wrong syntax.
+        2. It cannot be 1st form.
+            Because if it is 1st form then we see if the subject is singular then we addd s/es to the verb 1st form.
+            If the subject is plular then it is plural by default.
+            Here is is "She read" it means it is wong syntax for 1st form of verb.
+        3. It is 2nd form of verb.
+            Because After subject the 2nd form of verb can be there directly.
+            And yet, it is the 2nd form, there is no worry about singular and plural subject.
+    5. This is the first time I saw this movie. = Wrong.
+        Because of the time. It is giving the sense of it could be possible that the person would watch movie one time more.
+        It's all about emphasing on time in a sentence.
+        Time refference is important.
+    5. This is the first time I have seen this movie. = Correct.
+
+NOTE:
+    When the time is of unifished action, we use (Has/Have + Verb 3rd form).
+    When the time is of finished action, we use (verb 2nd form).
+
+Examples:
+    1. They did not come yet. = Wrong.
+    2. They have not came yet. = Right.
+
+Structure Repeat:
+    Simple Past Tense:
+        Subject + Verb 2nd form.
+        Subject + Did not + Verb 1st form.
+        Did + Subject + Verb 1st form?
+    Simple Perfect Tense:
+        Subject + Has/Have + Verb 3rd form.
+        Subject + Has/Have + not + Verb 3rd form.
+        Has/Have + Subject + Verb 3rd form?
+
+    3. Did you ever eat chicken? = Wrong.
+    4. Have you ever eaten chicken? = Correct.
+
+More Examples:
+    1. People so far are not being realized the hazards of smoking. = Wrong.
+    1. People so far have not realized the hazards of smoking. = Correct.
+    2. Everything we have so far looked at gives inconclusive evidence about the change in the living conditions of the masses. = Correct.
+        Take a closer look, the "gives" is for "everything", "we have" -> "looked".
+        Make sure, to focus on the clause. If the clause is correct, then it's good.
+        Take a proper eye.
+    3. The principal lamented that though a detailed report was submitted to the management a month ago no action is being taken so far. = Wrong.
+        Its about active / passive voice.
+            Verb 2nd form -> was / were + verb 2nd form.
+            Has/Have + Verb 3rd form = has/have + been + verb 3rd form.
+    3. The principal lemented that though a detailed report was submitted to the management a monsth ago no action has been taken so far. = Correct.
+    4. Have you heard the news? SJ and JS are engaged. That is not new; I knew it for ages. = Wrong.
+    4. Have you heard the news? SJ and JS are engaged. That is not new; I have known if for ages. = Correct.
+        By the way, for and since are those times which can come in Present Perfect as well, most people think that it can only be present in continuous.
+
+Past Perfect Tense:
 
 
 
