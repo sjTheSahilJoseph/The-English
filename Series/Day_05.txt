@@ -344,7 +344,7 @@ Wring:
 
 Overrun:
     Overrun - Overran - Overrun.
-    He has overrun the cat with his car.
+    He has overrun the car with his car.
 
 Grind:
     Grind - Ground - Ground.
@@ -560,7 +560,7 @@ Exaggerate:
 
 Wash:
     Wash - Washed - Washed.
-    We should wash your hands thoroughly with soap.
+    We should wash our hands thoroughly with soap.
 
 Clean:
     Clean - Cleaned - Cleaned.
@@ -744,7 +744,7 @@ Wait:
 
 Die:
     Die - Died - Died.
-    May people die every year due to hunger.
+    Many people die every year due to hunger.
 
 Send:
     Send - Sent - Sent.
