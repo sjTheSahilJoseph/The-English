@@ -1,0 +1,78 @@
+SJ is my friend. He helps me. Reading is his habit.
+    There are 3 sentences in this one line.
+    There are total 11 words.
+    There are many alphabets.
+
+Sentence = Subject + Verb + Objective Part.
+    Subject = Noun.
+        Noun = Name of anything.
+            Noun can be singular or plural.
+                Singular Noun = SJ, I, He, She, It, Pen, Man, etc...
+                Plural Noun = SJ and JS, They, We, Pens, Men, etc...
+    Subject = Pronoun.
+        Pronoun = Replace Noun.
+            Pronoun works on Person Table.
+                Person = 1st Person:
+                    Singular = I
+                    Plural = We
+                Person = 2nd Person:
+                    Singular = None but we use You for Singular as well.
+                    Plural = You
+                Person = 3rd Person:
+                    Singular = He, She, This, That, It Singular Noun
+                    Plural = They, These, Those, Plural Noun
+                Some Points:
+                    We use This for Near and That for Far.
+                    We can replace this with it when this is alone in a Subject.
+                        For Example:
+                            This is my friend. -> It is my friend.
+                    But we cannot replace when This is not alone in subject.
+                        For Example:
+                            It book is very nice. = Wrong.
+                            This book is very nice. = Right.
+    Subject = Gerund.
+        Gerund = Verb + ing.
+            For Example:
+                Read + ing is a good habit. = Correct.
+                    Now the reading is the subject not verb. It is using as subject (Noun).
+    Subject + Infinitive.
+        Infinitive = to + verb.
+            For Example:
+                He likes to read.
+                    Now the "to read" is not verb here, But we are using the reference here.
+        To read is a good habit.
+        Both are good.
+        These are noun.
+    Verb = Main Verbs, Helping Verbs.
+        Main Verbs = Action Verbs.
+            Action Verbs = Which shows an action.
+                For Example:
+                    Think, Miss, Play, Eat, Drink, Teach, etc...
+        Helping verbs = Primary Helping Verbs, Modal Verbs, Semi Modal Verbs.
+            Helping Verbs used to tell the state of the work.
+            Primary Helping Verbs = Be, Do, Have.
+                Be = Is, Am, Are, Was, Were, Will Be.
+                    Present = Is Am Are
+                    Past = Was Were
+                    Future = Will be
+                Do = Do, Does, Did, Will do.
+                    Present = Do Does
+                    Past = Did
+                    Future = Will do
+                Have = Has, Have, Had, Will have.
+                Have has two senses.
+                1. I have this thing.
+                2. I have done that work.
+                    Present = Has Have
+                    Past = Had
+                    Future = Will have
+        Modal verbs = Can, Could, Should, Would, Must, May, Might, Shall, Is/Am/Are/Was/Were/Has/Have/Had/Will have + to.
+        Semi Mdal Verbs = Used to, Dare, Need.
+
+
+
+
+                
+        
+
+

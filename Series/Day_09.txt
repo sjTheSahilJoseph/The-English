@@ -1,0 +1,236 @@
+Wh Family Question Words.
+
+Kya -> What.
+    What is your name?
+    What do you do for a living?
+        (Way to ask about other person's income source).
+
+Kya Kya -> What all.
+    What all do you know about me?
+
+Aur Kya, Aur Kya Kya -> What else.
+    What else do you have?
+
+Kitne Bje -> At what time.
+    At what time do you come home?
+
+Kitne Bje Tak -> By what time.
+    By what time do you reach home?
+
+Kitne Bje Se -> From what time/Since what time.
+    From what time do you start your study?
+    Since what time do you start your study?
+
+Kitne Bje Se Pehly -> Before what time.
+    Before what time can you finish this work?
+
+Kyu -> Why.
+    Why are you doing this?
+
+Kis Liye -> For what/What for.
+    For what did you go there?
+    what for did you go there?
+
+To kya, To fir, Tab kya, Fir kya -> Then what/What then.
+    If I don't call you, then what?
+    If I don't call you, what then?
+
+Kab -> When.
+    When do you go there?
+
+Kab kab -> How often.
+    How often do you play there?
+
+Kab tak -> Until when/How long/Till when.
+    How long do you stay in the office?
+    Until when do you stay in the office?
+    Till when do you stay in the office?
+
+Kab se -> Since when/For how long/[Future]=From when.
+    Since when have you been playing?
+    For how long have you been playing?
+    From when will you start your study?
+
+Kahan -> Where.
+    
+Kahan se -> From where.
+    
+Kahan Kahan -> Where all.
+    Where all do you go?
+
+Kaise -> How.
+    
+Kaise Kaise, Kis trah ke -> What kind of/What type of.
+    What kind of people are there?
+    What type of people are there?
+    What type of toys were there in Big Bazaar?
+
+Kaise Kaise log, Kis trah ke log -> What kind of people/What type of people.
+    What kind of people are there?
+    What type of people are there?
+
+Kon -> Who.
+    Who are you?
+
+Kon Kon -> Who all.
+    Who all are with you?
+    Who all are there with you?
+
+Kon sa -> Which.
+    Which pen is yours?
+
+Kon Kon se -> Which all.
+    Which all pens are yours?
+
+Kon si shirt -> which shirt.
+    Which shirt is yours.
+
+Kon kon si shirt -> Which all shirts.
+    Which all shirts are your brother's?
+
+Kon sa larka -> Which boy.
+
+Kon se larkey -> Which all boys.
+
+Kon sa pen -> Which pen.
+
+Kon se pen -> Which all pens.
+
+Kiska -> Whose.
+    Whose pen is this?
+
+Kise, Kisse, Kisko -> Whom.
+    Whom did you call?
+
+Kis ke sath? -> With whom?
+
+Kis ke liye? -> For whom?
+
+Kiske bare me? -> About whom?
+    About whom are you thinking?
+
+Kiske duwara? -> By whom?
+    By whom did you know about this?
+
+Kab or kyu? -> When and why.
+    When and why did you give him this pen?
+
+Kab or kahan? -> When and where.
+    When and where did you give him this book?
+
+Kab or kaise -> When and how.
+
+Kab or kise -> When and whom.
+
+Kitne -> How many. (Countable)
+    How many pens do you have?
+    How many books do you have?
+    How many litters of water do you have? (Countable in litters).
+
+Kitna -> How much. (Uncountable)
+    How much water do you have? (Uncountable).
+
+Kitne log -> How many people.
+
+Aese kitne log -> How many such people.
+
+Aese kitne bachy -> How many such children.
+
+Aesi kitni books -> How many such books.
+
+Kitni cheeni? -> How much sugar.
+
+Kitne kilogram cheeni? -> How many kilograms of sugar?
+
+Cheeni k kitne daney? -> How many grains of sugar?
+
+Kitna chawal -> How much rice?
+
+Kitne kilogram chawal -> How many kilograms of rice?
+
+App me se kitne -> How many of you.
+    How many of you know me?
+
+Kitna doodh? -> How much milk.
+
+Doodh ke kitne glass? -> How many glasses of milk?
+    How many glasses of milk do you consume every day?
+
+Kitne litter doodh? -> How many litters of milk?
+    How many litters of milk do you sell every day?
+
+Mere kitne bhai? -> How many brothers of mine.
+    Do you know, how many brothers of mine were playing in the match that day?
+
+Tumhare kitne bhai -> How many brothers of yours.
+
+Uske kitne bhai -> How many brothers of his/hers.
+
+Mera kon sa bhai -> Which brother of mine?
+    Which brother of mine had come to your place last year?
+
+Tumhari konsi behan -> Which sister of yours?
+    Which sister of yours is Seema?
+
+Kis larki ka bhai? -> Which girl's brother?
+
+Kis office se? -> From which office.
+    From which office are you comming?
+    Which office are you comming from?
+
+Konse office se? -> From which office.
+    From which office are you comming?
+    Which office are you comming from?
+
+Kiske office se -> From whose office?
+    From whose office are you coming?
+
+Kis office me? -> In which office?
+    In which office do you work?
+
+Kon se office me? -> In which office?
+    In which office do you work?
+
+Kiske office me? -> In whose office?
+
+Kis larke ke sath? -> With which boy.
+
+Kis shehar ki taraf? -> Towards/Toward which city?
+    Towards which city are you going?
+    Toward which city are you going?
+
+Kis gali se? -> From which street?
+
+Kis company k liye? -> For which company?
+
+Kis glass me? -> In which glass?
+
+Kis room me? -> In which room?
+    In which room do you study?
+
+Kis room se? -> From which room?
+    From which room are you coming?
+
+Kin logon ke sath? -> With who people.
+    With who people were you there that day?
+
+Kin kin ke sath? -> With who all.
+    With who all were you there that day?
+
+[Note: For adjectives, like kitna, we can use how]
+
+Kitna door -> How far.
+    How far is your house from my house?
+
+Kitna acha -> How good.
+    How good the weaher is!
+
+Kitna mazboot -> How strong.
+    How strong are you?
+
+Kitna purana -> How old.
+    How old is this pen?
+
+Kitni jaldi? -> How soon.
+    How soon can you reach home?
+
