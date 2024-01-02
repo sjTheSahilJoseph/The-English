@@ -1,0 +1,197 @@
+Tenses in English.
+
+Any sentenc in English is in a specific time.
+Time has 3 categories:
+    1. Present
+    2. Past
+    3. Future
+
+NOTE:
+    Their values are strict. I mean past means even 1 sec before the preset. And Present means only this moment. Same with future, even 1 sec after preset (now) is future.
+
+No matter which time. There are 2 senerios:
+    1. In each time, there can be 2 types of setences.
+        1. Simple sentence
+        2. Tense.
+        
+        1. Simple Sentense:
+            (Subject -> Verb) -> Action is optional.
+        2. Tense.
+            Subject -> Verb) -> Action is must.
+
+What are Tenses?
+    A set of verb form.
+        What is Verb?
+            The Action Word.
+        When any action happens, we need to know the time of that action. Right?
+            Like, Is that action happened in past? future? or in the present?
+    Tense is the part of verb that tells the time of that action, like, when the action happened or will happen.
+    But how?
+        In order to know the time of that action, we change the form of verb.
+    Forms of Verb:
+        There are total 5 forms of verb:
+            1. Verb 1st form = play;
+            2. Verb 2nd form = played;
+            3. Verb 3rd form = played;
+            4. Verb 4th form (ing) = playing;
+            5. Verb 5th form (s/es) = plays;
+    For Example:
+        1. SJ plays hockey. (Present)
+        2. SJ played hockey. (Past)
+        3. SJ will play hockey. (Future)
+            Did you see? The difference?
+            I used different form of verb to tell the time of the same action. But by changing the form of verb, the whole time changed of that action.
+
+Primary Helping Verbs + Main Verbs = Tenses.
+Modals Helping Verb + Main Verbs = Modals.
+
+Simple Sentence is where the subject is not doing any work.
+    For Example:
+        The window is broken. => Simple Sentense. Because Window is the subject. And broken is verb but subject (window) is not doing anything.
+        (Mere papa soye hue hain.) -> My father is sleeping. => This is telling the state. So this is not a tense, but a simple sentence.
+        (Woh ladka car me baitha hua tha). -> Simple sentence. (State).
+
+
+Tense Sentece is where the subject is doing some kind of action.
+    For Example:
+        You broke the window. => Tense. Now the subject (you (second person singular) did something. (action).
+        (Mere papa so rahe hain.) -> My father is sleeping. => This is also a tense, because sleeping is also an action.
+        (Who ladka car me baith raha tha). -> Tense. (Action).
+
+Time:
+    Has 3 Categories.
+        1. Present.
+        2. Past.
+        3. Future.
+
+Simple Sentence:
+In simple Sentence, We tell the state.
+    Have 2 Categories of all times.
+    Present:
+        1. (Hoon, Hai, Hain, Ho, etc...).
+            For Positive:
+                1. Is, AM, Are.
+            For Negative:
+                1. Is not, Am not, Are not.
+        2. (Pass Hai, Pass Hain, Me hai, me hain, Uske, Unke, tere, mere, hain, etc...).
+            For Positive:
+                1. Has, Have.
+            For Negative:
+                1. Does not have, Do not have.
+                2. Has no, Have no.
+    Past:
+        1. (Tha, They, Thi, etc...).
+            For Positive:
+                1. Was, Were
+            For Negative:
+                1. Was not, Were not
+        2. (Pas tha, Pas they, Me tha, Me thi, Me they, Unke tere, mere, thy, etc...).
+            For Positive:
+                1. Had
+            For Negative:
+                1. Did not have
+                2. Had no
+    Future:
+        1. (Ga, ge, gi, etc...).
+            For Positive:
+                1. will be
+            For Negative:
+                1. will not be
+        2. (Pas hon gyn, Pas ho ga, Me ho ga, me hon gyn, mere hon gyn,, etc...).
+            For Positive:
+                1. Will have.
+            For Negative:
+                1. Will not have.
+
+Tenses:
+    Have 4 Categories with 3 times.
+        1. Indefinite.
+        2. Continuous.
+        3. Perfect.
+        4. Perfect Continuous.
+
+
+NOTE: When we make their negatives (only tenses), we put not after helping verb.
+But we cannot do the same with simple sentences (state).
+
+Present:
+    1. Indefinite.
+        (ta, te, ti,... hai, hain, ho, hoon, etc...).
+        Auxilary Verb -> does/do.
+        For Example:
+            Woh khelta hai.
+            Wo nhi khelta.
+    2. Continuous.
+        (Raha hai, rahi hai, rahe hain, raha hoon, etc...).(Verb + ing.)
+        Auxilary Verb -> is/am/are.
+        For Example:
+            Woh khel raha hai.
+            Woh kuch soch raha hai.
+    3. Perfect.
+        (Chuka hai, chuke hain, chuka hoon, li hai, di hai, kiya hai. etc...).
+        Auxilary Verb -> Has/have.
+        For Example:
+            Woh TV dekh chuka hai.
+            woh mere ghr aya hai,
+            mene use kuch diya hai.
+            mene us se kitab li hai.
+    4. Perfect Continuous.
+        (same as perfect but with time mentioned).
+        Auxilary Verb -> has been/have been/since/for.
+        For Example:
+            woh subha se khel raha hai.
+            woh 2 din se yeh kr raha hai.
+            mai 1 tareekh se yeh kr raha hoon.
+
+Past:
+    1. Indefinite.
+        (ta tha, te thy, ti thi, etc...)
+        NOTE: we also use used to in some cases.
+        (aya, gya, utha, baitha, soya,, etc...)
+        Auxilary Verb -> did.
+        For Example:
+            Woh utha. -> past.
+            woh khelta tha. -> past.
+    2. Continuous.
+        (raha tha, rahe thy, etc...).(Verb + ing.)
+        Auxilary verb -> was/were.
+        For Example:
+            mai waha raha tha.
+            mai yeh cheez kr raha tha.
+    3. Perfect.
+        (lia tha, diya tha, kiya tha. etc...).
+        Auxilary verb -> had.
+        For Example:
+            us ne woh kiya tha.
+            mai ne use kitab ki thi.
+    4. Perfect Continuous.
+        (rha tha, rahi thi rahe thy.. etc... with time).
+        Auxilary verb -> had been + since/for.
+        For Example:
+            woh subha se khel raha tha.
+Future:
+    1. Indefinite:
+        (ga, ge, gi, etc...)
+        Auxilary Verb -> will.
+        For Example:
+            mai waha jaun ga.
+            woh khele ga.
+    2. Continuous.
+        (raha ho ga, rahi ho gi, rahe hon gyn, etc...).
+        Auxilary verb -> will be. (Verb + ing.)
+        For Example:
+            Hum kal kuch kar rahe hon gyn.
+            woh mujh se baat kr rhi ho gi.
+    3. Perfect.
+        (chuka ho ga, raha ho ga, li ho gi, liya ho ga, etc..)
+        Auxilary verb -> will have.
+        For Example:
+            Mai kal yeh kaam kar chuka hun ga.
+            Us ne sham ko yeh kitab le li ho gi.
+    4. Perfect Continuous.
+        (raha ho ga, rahi ho gi, rahe hon gyn.. etc... (with time)).
+        Auxilary verb -> will have been + since / for/ from.
+        For Example:
+            Woh subha se khel raha ho ga.
+            Mai kal se parh raha hu ga.
+

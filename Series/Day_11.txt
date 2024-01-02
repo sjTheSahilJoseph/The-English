@@ -1,0 +1,52 @@
+There are multiple ways of writing a same meaning line but there is a difference.
+For Example:
+    1. Hi is Sleeping. (Action).
+    2. He is a sleep. (State).
+        Meaning is almost same but there is a slight difference.
+    1. Hi is sitting. (Action).
+    2. Hi is sitting. (State).
+        Same, there is a slight difference.
+
+Present:
+    Is, am, are,
+    Has, have,
+    Do, does
+Past:
+    was, were,
+    had,
+    did
+Future:
+    will
+Present, Past:
+    would
+
+SJ subha 8 bje parh raha ho ga. -> Will.
+SJ subha 8 bje parh chuka ho ga. -> Will.
+SJ is waqt parh raha ho ga. -> Would.
+SJ is waqt tk parh chuka ho ga. -> Would.
+Wo ajj aye ga. -> Will.
+Mai subha film dekh chuka hu. -> (present).
+
+Subject = Jo kaam krta hai ya jis pe kaam hota hai.
+
+Identify Subject.
+Mai soch raha hu. -> Mai (I). [I = first person singular.]. [I -> Am as auxilary verb.].
+Wo soch raha hai. -> Wo (He). (He because of (raha hai) = male).
+Mai or Woh kuch soch rahe hain. -> (Mai or Woh) -> Subject. [Plural Subject]. [I and he]. [Are have do were = auxilary verb].
+Mera Bhai majboor hai. -> Mera bhai = Subject -> My Brother. (3rd person singluar).
+Tumhara dost roz ghumne jata hai. (Tumhara dost) -> Your friend (3rd person singulary) -> is, was, does, has
+Uske pass paise hain. -> He / She. (3rd person singular).
+Uske bhai ke pass paise hain. -> Her Brother/His brother. (3rd person singular.)
+Us ladki ka bhai aya tha. -> (us ladki ka bhai) -> Subject. That girl's brother -> 3rd person singular.
+In kitabon me kuch hai. -> Yeh kitaben -> These books. [3rd person plural].
+Sj ki wajah se mai nhi gya. (Mai) -> Subject. Because jane ka kama mai ne nhi kra.. so mai subject hua. [I = First person singular].
+
+NOTE: When learning English, don't just focus on the subject. But also on its category. Like 1st person singular, 2nd person singular. etc...
+
+NOTE: Subject is not only these, there are so many subjects.
+    App Log = You People.
+        You People (Complete) = Subject.
+            But its you, so it doesn't meant that it is 2nd person singular.
+            It is 2nd person plural. Because of the context.
+            So make sure to identify the subject properly.
+
