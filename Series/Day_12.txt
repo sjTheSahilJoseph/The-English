@@ -92,7 +92,7 @@ In simple Sentence, We tell the state.
                 1. Did not have
                 2. Had no
     Future:
-        1. (Ga, ge, gi, etc...).
+        1. (Ho ga, Hon, gy,, etc.. (future). Ga, ge, gi, etc...).
             For Positive:
                 1. will be
             For Negative:

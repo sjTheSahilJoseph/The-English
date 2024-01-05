@@ -1,0 +1,150 @@
+There is a category of sentences where subject is present, verb can or can't be present, but the subject is not doing anything directly or nothing is happening on the subject directly.
+These are called Simple Sentences, where Tenses not apply. Because when Action Verbs is done by subject, or on subject, then it's tense, otherwise it's simple sentence.
+
+In 95% Cases, we use Verb's 3rd form in these simple sentences.
+For Example:
+    That window is broken.
+        Verb {Break, Broke, Broken}.
+        Broken -> 3rd form.
+    These speices are ground.
+        Verb {Grind, Ground, Ground}.
+        Ground -> 3rd form.
+    A page of my book is torn.
+        Verb {Tear, Tore, Torn}.
+        Subject?
+            Subject is whole "A page of my book". Not only "a page" But whole thing is subject.
+        Torn -> 3rd form.
+    This rope is tied.
+        Verb {Tie, Tied, Tied}.
+        Tied -> 3rd form.
+    This stick is bent.
+        Verb {Bend, Bent, Bent}.
+        Bent -> 3rd form.
+    I'm scared of this thing.
+        Verb {Scare, Scared, Scared}.
+        Scared -> 3rd form.
+        NOTE: (With scared, we use preposition "of").
+            For Example:
+                I'm scared of you.
+                I'm scared of failure.
+
+    Something is kept there. / Something is kept over there.
+        Where we see, "there" as objective part, we can use "over" with it. Totally Optional.
+        Verb {Keep, Kept, Kept}.
+    He is hidden behind the wall.
+        Verb {Hide, Hid, Hidden}.
+        In some cases, we don't use verb 3rd form but verb+ing form.
+            For Example:
+                He is hiding behind the wall. => Correct. (Optional). Both are correct.
+    Work is stopped today.
+        Verb {Stop, Stopped, Stopped}.
+    Clothes are hung on the nail.
+        Verb {Hang, Hung, Hung}.
+        NOTE: Hang also means Hang neck with ropes (Death).
+            In that case, the form of verbs will be:
+                Verb {Hang, Hanged, Hanged}.
+    I'm very tired.
+        Verb {Tire, Tired, Tired}.
+    He is beaten today.
+        Verb {Beat, Beaten, Beaten}.
+    This rule is imposed on us unnecessarily/for no reason.
+        Verb {Impose, Imposed, Imposed}.
+    Your toys are scattered.
+        Verb {Scatter, Scattered, Scattered}.
+        NOTE: For Liquid, we use "Spill" verb.
+            Verb {Spill, Spilled, Spilled}.
+    This is looted money.
+        Verb {Loot, Looted, Looted}.
+        NOTE: We can also use "Rob" verb.
+            Verb {Rob, Robbed, Robbed}.
+    This money is robbed.
+        Verb {Rob, Robbed, Robbed}.
+        NOTE: See in previous sentence, and in this sentence, I changed the subject, so there are a lot of ways to make a sentence.
+    These are stolen things.
+        Verb {Steal, Stole, Stolen}.
+    This glass is already touched.
+        Verb {Touch, Touched, Touched}.
+    My foot is swelled/swolen.
+        Verb {Swell, Swelled, Swelled/Swolen}.
+    He is lost in his thoughts.
+        Verb {Lose, Lost, Lost}.
+    Garbage was thrown over there.
+        Verb {Throw, Threw, Thrown}.
+    These all mobiles/All these mobiles are sold.
+        Verb {Sell, Sold, Sold}.
+    This was written in my book.
+        Verb {Write, Wrote, Written}.
+    It seems/Seems/Looks like, this man is drunk.
+        Verb {Drink, Drank, Drunk}.
+    Something is stuck on the wall.
+        Verb {Stick, Stuck, Stuck}.
+        NOTE: Something is subject.
+    I'm stuck in the traffic.
+        Verb {Stick, Stuck, Stuck}.
+    I'm trapped in this conspiracy.
+        Verb {Trap, Trapped, Trapped}.
+    This is roasted chicken.
+        Verb {Roast, Roasted, Roasted}.
+    These clothes are washed.
+        Verb {Wash, Washed, Washed}.
+    The kid is lying on the floor. (Bed Laying, Sleep, etc... this context).
+        Verb {Lie, Lay, Lain}.
+        But this is an exceptional case where we don't use verb's 3rd form.
+        We use Verb 1st form + ing.
+    Your slippers are lying here and there.
+        Verb {Lie, Lay, Lain}.
+        We use lying for non-human context as well.
+        It means the same.
+    The cloth is lying on the table.
+        Verb {Lay, Laid, Laid}.
+        Notice, here the lay is 1st form of verb.
+        But we use "lying" for this context as well.
+
+Exceptions:
+    Verb { Sit, Sat, Sat }.
+        But we use "sitting".
+            For Example:
+                He is sitting.
+    Verb {Stand, Stood, Stood}.
+        But we use "standing".
+            For Example:
+                He is standing.
+    Verb {Wear, Worn, Worn}.
+        But we use "wearing".
+            For Example:
+                He is wearing a shirt.
+    Verb {Open, Opened, Opened}.
+        But we use first form here.
+        Or we can use verb 3rd form "closed".
+            For Example:
+                The shop is open.
+                The shop is opened.
+    Verb {Close, Closed, Closed}.
+        But we use first form here.
+        Or we can use verb 3rd form "closed".
+            For Example:
+                The shop is close.
+                The shop is closed.
+    Verb {Die, Died, Died}.
+        But we use "dead".
+            For Example:
+                This person is dead.
+    Verb {Sleep, Slept, Slept}.
+        But we use "asleep".
+            For Example:
+                Hi is asleep.
+    Verb {Wake, Woke/Waked, Woken/Waked}.
+        But we use "awake".
+            For Example:
+                Hi is awake.
+
+
+
+
+
+
+
+
+
+
+
