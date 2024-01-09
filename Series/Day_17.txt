@@ -1,0 +1,104 @@
+Simple Sentence -> Past.
+
+Category 1:
+    (Subject ki state ke bare me, Tha, They, Thi, etc...).
+    Was => All Singulars.
+    Were => All Plurals.
+    Was/Were + not => Negative.
+    Had been => With Time Affirmative.
+    Had not been => With Time Negative.
+    There => When Object is not specified. We use There as object.
+        We use there as subject. Native English Speakers do that.
+    Structure:
+        Affirmaive: Subject + Was/Were + Object.
+        Negative: Subject + Was/Were + not + Object.
+        Interrogative: <WH> + was/were + Subject + Object?
+        Interrogative Yes/No: Was/were + Subject + Object?
+        Negative Interrogative: <WH> + was/were + Subject + not + Object?
+        Special Case:
+            Interrogative: <WH-Subject> + was/were + object?
+            Negative Interrogative: <WH-Subject> + was/were + Object?
+    
+Practice:
+    He was in the office.
+    He was not in the office.
+    Was he in the office?
+    What was he in the office?
+    He had been in the office since morning.
+    Since when had he been in the office?
+    Since when had he not been in the office?
+    There was a boy.
+    A boy was there.
+    There was a boy in the office.
+    A boy was there in the office.
+    A boy was in the office.
+    There were few trees.
+    Few trees were there.
+    There were few trees in the forest.
+    That forest had few trees.
+    How many trees were there?
+    Who was awake?
+    Who all were there in the office?
+    Whose brother was there?
+    Which shirt was kept there?
+    Which shirt was kept over there?
+    How many of you were in the class?
+    How many of you were there in the class?
+
+Category 2:
+    (Subject ke pass kuch tha, Pass tha, Pass thi, Subject me tha, (andar), and Subject k bhai behan they, etc...).
+    Had => For all singular and plural.
+    Did not have => Negative.
+    Had no => Negative.
+        NOTE: had + not = wrong. In these kind of sentences.
+    There + was/were => Affirmative (When subject me kuch tha, ya subject ke bhai behan uncle etc thy, etc...).
+    There + was/were + not => Negative (When subject me kuch nhi tha, ya subject ke bhai behan uncle etc nhi thy, etc...).
+    Structure:
+        Affirmaive: Subject + had + Object.
+        Negative: Subject + did not have + Object.
+        Interrogative: <WH> + did + Subject + have + Object?
+        Negative Interrogative: <WH> + did + Subject + not have + Object?
+        Special Case:
+            Interrogative: <WH-Subject> + had + object?
+            Negative Interrogative: <WH-Subject> + did not have + Object?
+
+Practice:
+    He had money.
+    I didn't have a pen.
+        NOTE: When counting is not present, we use "had no".
+        I didn't had no pen.
+            Both are correct.
+    I didn't have 2 pens. -> counting present, so we can't use "had no" concept here.
+    Did you have water? -> Yes/No Interrogative.
+    What did you have? -> Explaination Interrogative.
+    Who had mobile? -> Object is not defined directly.
+    Who did not have a book? -> Same but negative interrogative.
+    There was water in that glass.
+    That glass had water.
+    That house did not have a door.
+    There was no door in that house.
+    That house had no door.
+    That house did not have 2 doors.
+    There were no 2 doors in that house.
+    How much water did this glass have?
+    How much was there in this glass?
+    Which glass had water?
+    In which glass was there water?
+    Which houses did not have taps?
+    In which houses were there no taps?
+    He had two brothers.
+    There were two brothers of his.
+    He did not hvae any brother.
+    He had no brother.
+    There was no brother of his.
+    He didn't have two brothers.
+    There were no brothers of his.
+    Did he have two brothers?
+    Were there two brothers of his?
+    Why did he have two brothers?
+    How many brothers did he have?
+    How many were there of his?
+    How many brothers of his were there?
+    Who had two brothers?
+    Whose were there two brothers?
+

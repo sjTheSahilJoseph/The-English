@@ -1,0 +1,127 @@
+Simple Sentence -> Present.
+Category 2.
+    (Me hain, Bhai, Behan, Dost hai, etc...).
+    Auxaliry Verbs.
+        Affirmative -> Has/Have. (has -> 3 person singular), (have -> Plurals + I).
+        Negative -> Does not have / Do not have.
+        Negative -> Has no / Have no.
+        In the thing -> There + is/are.
+        In the thing negative -> There + is/are + no.
+    Structure:
+        Affirmative: Subject + has/have + Object.
+        Negative: Subject + does not have / do not have + Object.
+        Interrogative: <Wh> + does/do + Subject + have + Object?
+        Negative Interrogative: <WH> + does/do + Subject + not + have + Object?
+        Special Case:
+            Interrogative: <Wh-Subject> + has/have + Object?
+            Negative Interrogative: <WH-Subject> does not have / do not have + Object?
+
+NOTE:
+    Take care of persons.
+    Note 2: we use have in negative not has.
+
+Practice:
+    I have -> I've money.
+    I don't have money.
+    Do I have money?
+        yes/no
+    Do I not have money?
+        yes/no
+    Don't I have money?
+        with contraction.
+        but remember the un-contraction structure. it is "Do I not have".
+    How much Money do I have?
+    Who has money?
+    Who have money?
+    Who doesn't have money?
+    Who don't have money?
+    He has something.
+    He doesn't have anything.
+        Negative? anything.
+    He has nothing.
+    Does he have something?
+    Does he not have anything?
+    Doesn't he have anything?
+    Does he have nothing?
+    What does he have?
+    Who doesn't have?
+    I don't have a car.
+        quantity unspecified.
+    I have no car.
+        quantity unspecified.
+    I don't have 3 cars.
+        The exact quantity. So we can't use "has no, have no".
+    SJ has no pen.
+    SJ doesn't have pen.
+    SJ doesn't have 3 pens.
+    Do I have a car?
+    Have I a car? -> wrong.
+    What don't I have?
+    What doesn't he have?
+    This glass has water.
+    There is water in this glass.
+        because we can make it like that.
+    Does this glass have water?
+    Is there water in this glass?
+    Does this glass have no water?
+NOTE: does+have because of combination in that context.
+    Is there no water in this glass?
+    How much water does this glass have?
+        how much => uncountable.
+        How much water -> is whole thing combined.
+    How much water is there in this glass?
+    Why does this glass not have water?
+    Why is there no water in this glass?
+    Why isn't there no water in this glass?
+    Which glass has water?
+    Which glasses have water?
+    Which glass doesn't have water?
+    Which glasses don't have water?
+    These houses have taps.
+    There are taps in these houses.
+    There are no taps in these houses.
+    These houses don't have taps.
+    Do these houses have taps?
+    Are there taps in these houses?
+    What do these houses have?
+    What's there in these houses?
+    How many taps do these houses have?
+    How many taps are there in these houses?
+    What all there in these houses?
+    Which houses don't have taps?
+    In which houses are there no taps?
+    He has two brothers.
+    There are two brothers of his.
+    She has two brothers.
+    There are two brothers of her.
+    I have two brothers.
+    There are two brothers of mine.
+    He doesn't have any brother.
+    He has no brother.
+    There is no brothre of his.
+    He doesn't have two brothers.
+    There are no two brothers of his.
+    Does he have two brothers?
+    Are there two brothers of his?
+    How many brothers does he have?
+    How many brothers are there of his?
+    How many brothers of his are there?
+        How many brothers of his -> whole thing.
+    Who has two brothers?
+    Whose are there two brothers?
+    Which pen doesn't have ink?
+    In which pen is there no ink?
+    How many of you have money?
+    How many of you are there who have money?
+    What all do you have kept?
+    What all are there kept with you?
+    What does this car have that I like?
+        that/which => both correct.
+    What is there in this car which / that I like?
+    Does he have 3 uncles?
+    Are there 3 uncles of his?
+    Is there one uncle of his?
+    Does he has one uncle?
+
+
+
