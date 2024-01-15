@@ -1,0 +1,141 @@
+Revision.
+
+Find the spelling error:
+First -> Correct.
+Second -> Correct.
+Third -> Correct.
+Forth -> Wrong => Fourth.
+Fifth -> Correct.
+Sixth -> Correct.
+Seventh -> Correct.
+Eighth -> Correct.
+Nineth -> Wrong => Ninth.
+Tenth -> Correct.
+Eleventh -> Correct.
+Twelth -> Wrong => Twelfth.
+
+Months:
+Januray
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+Days:
+    A week has 7 days.
+    There are 7 days in a week.
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+Apostrophe S: ('s).
+    ' is called apostrophe.
+    's is called apostrophe s.
+SJ ki behan. -> SJ's sister.
+    We can also use: The sister of SJ.
+Uski behan. -> His sister / Her sister.
+Us ladke ka pen. -> That boy's pen.
+    We can also use: The pen of that boy.
+Un ladkon ke pen. -> Those boys' pen.
+    When the subject is plural wo use apostrophe after the word.
+        -> Those boys' pen.
+        But we pronounce the same.
+        -> Those boys's pen. -> Wrong.
+    We can also use: The pens of thhose boys.
+Us ladki ka bhai. -> That girl's brother.
+Un ladkion ke bhai. -> Those girls' brothers.
+Mere mobile ka cover. -> My mobile's cover.
+    We can also use: The cover of my mobile.
+Is ghar ka naksha. -> This house's map.
+In gharon ke nakshe. -> These houses' maps.
+
+NOTE:
+    When we talk about living thing, we use apostrophe s more.
+    But when we talk about non-living thing, we use other way more.
+    Both are correct.
+
+Subject.
+-> He, I, They, We, You, She, This, That, It, These, Those,
+    Singular Noun, Singular Pronoun, Plural Noun, Plural PRonoun.
+
+Person          Singular            Plural
+1st                I                  We
+
+2nd               --                  You
+
+3rd           He,She,It,This,That     They,These,Those,
+              Singular Noun,          Plural Noun,
+              Singular Pronoun.       Plural Pronoun.
+
+Subject Pronoun.
+-> One, Each, Every, Everyone, Everybody, Everything, Someone, Somebody, Something, Anybody, Anyone, Anything, Nothing. => Tese are 3rd person singular.
+-> Both, Few, Many, Several, Others. => These are all 3rd person plural.
+-> All, Some, More, None. => These are treated as singualr and plural as well.
+    For Example:
+        All is well.
+        All are well.
+        -> Both are correct but the context is different.
+
+Auxilary Verb.
+Be:
+    Present: Is/Am/Are.
+        -> Is - 3rd person singular.
+        -> Am - 1st person singular.
+        -> Are - Rest All.
+    Past: Was/Were.
+        -> Was - All Singular.
+        -> Were - All Plural.
+    Future: Will be.
+        -> Will be - All Singular or Plural.
+Do:
+    Present: Do/Does.
+        -> Does - 3rd Person Singular.
+        -> Do - Rest All.
+    Past: Did
+        -> Did - All Singular or Plural.
+    Future: Will do.
+        -> Will do - All Singular or Plural.
+Have:
+    Present: Has/Have.
+        -> Has - 3rd person singuar.
+        -> Have - Rest All.
+    Past: Had.
+        -> Had - All singular or plural.
+    Future: Will have.
+        -> Will have - All singular or plural.
+
+Find the Auxilary and the Main verb.
+He is a good boy. -> is is auxilary verb but when no main verb/action verb is present then the auxilary verb considered as the main verb.
+I'm playing something. -> playing is main verb. am is auxilary verb.
+We both can play. -> can is auxilary verb. play is main verb.
+
+NOTE:
+    We take verb as both auxilary or action verb. We don't seperate them indvidually.
+    They are one verb.
+
+
+Translate the following sentence into English.
+1. Us glass me pani nhi tha.
+    -> That glass didn't have water.
+    -> That glass had no water.
+    -> There was no water in that glass.
+2. Us box me 2 pen nhi they.
+    -> That box did not have two pens.
+    -> There were no 2 pens in that box.
+
+
+
+
+
+
