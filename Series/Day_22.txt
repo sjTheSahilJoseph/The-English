@@ -1,0 +1,91 @@
+Tenses.
+
+NOTE.
+Only when the subject do something in a sentence is the sentence of tense.
+Otherwise, it's a simple sentence where subject doesn't do anything.
+    For Example:
+        I play.
+        I am playing.
+        I will play.
+
+Tenses has 3 times.
+    1. Past.
+    2. Present.
+    3. Future.
+
+Each time has 4 Categories.
+    1. Indifinite.
+    2. Continuous.
+    3. Perfect.
+    4. Perfect Continuous.
+
+Present Indifinite.
+Identity: (Ta, Te, Te, etc... optionally hai, hain, hon, hun, etc...).
+    Affirmative: Subject + Verb 1st Form + (s, es - 3rd person singular) + Object.
+    Negative: Subject + do/does + not + Verb 1st form + Object.
+    Interrogative: <WH> + do/does + Subject + Verb 1st form + Object?
+    Negative Interrogative: <WH> + do/does + Subject + not + Verb 1st form + Object?
+    Special Case:
+        Interrogative: <WH-Subject> + Verb 1st Form + (s, es - 3rd person singular) + Object?
+        Negative Interrogative: <WH-Subject> + do/does + not + Verb 1st Form + Object?
+
+NOTE:
+    We use 's', 'es' only in affirmatives.
+
+Where to put s/es?
+    When subject is 3rd person singular.
+    As hint:
+    -> When a word ends with 'o', 'x', 'ss', 'sh', we put 'es'.
+        Go -> Goes.
+        Mix -> Mixes.
+        Miss -> Misses.
+        Wish -> Wishes.
+    -> When before 'y' there is a vowel, we put 's'.
+        Play -> Plays.
+        Enjoy -> Enjoys.
+    -> When before 'y' there is no vowel, we remove 'y' and put 'ies'.
+        Try -> Tries.
+        Apply -> Applies.
+
+Practice:
+SJ is kursi ko ghasit ta hai.
+    SJ drags this chair.
+SJ kursi ko nhi ghasit ta hai.
+    SJ doesn't drag this chair.
+Kia SJ kursi ko ghasit ta hai?
+    Does SJ drag the chair?
+Kia SJ kursi ko nhi ghasit ta hai?
+    Does SJ not drag the chair?
+SJ kia ghasit ta hai?
+    What does SJ drag?
+Kursi ko kon ghasit ta hai?
+    Who drags the chair?
+Parhai kon nhi krta hai?
+    Who does not study?
+Parhai kon nhi krte hain?
+    Who don't study?
+Mai paani me apni ungali dubata hu.
+    I dip my finger into the water.
+Mai paani me apni ungali nhi dubata hu.
+    I don't dip my finger into the water.
+Kia mai paani me apni ungali dubata hu?
+    Do I dip my finger into the water?
+Kia mai paani me apni ungali nhi dubata hu?
+    Do I not dip my finger into the water?
+    Don't I dip my finger into the water?
+Paani me apni ungali kon dubota hai?
+    Who dips his finger into the water?
+Woh ladka jeetne ki koshish nhi krta.
+    That boy doesn't try to win.
+App shirt pr bht ziada brush ragarte ho.
+    You rub the brush too much on the shirt.
+Woh deewar pr kia chipkati hai?
+    What does she stick on the wall?
+Kon kon khana achy se nhi chabate hain?
+    Who all do not chew the food well?
+Woh ladke dorne ke baad hafnte kiu hain?
+    Why do those boys gasp after running?
+Yeh kaam kon krta hai?
+    Who does this work?
+
+
