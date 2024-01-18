@@ -88,4 +88,63 @@ Woh ladke dorne ke baad hafnte kiu hain?
 Yeh kaam kon krta hai?
     Who does this work?
 
+Present Continuous Tense.
+Identity: (Raha hai, rhi hai, rahe hain, rahi hai, etc...).
+    Affirmative: Subject + is/am/are + Verb 1st form + ing + Object.
+    Negative: Subject + is/am/are + not + Verb 1st form + ing + object.
+    Interrogative: <WH> + is/am/are + Subject + Verb 1st form + ing + object?
+    Negative Interrogative: <WH> + is/am/are + Subject + not + Verb 1st form + ing + object?
+    Special Case:
+        Interrogative: <Wh-Subject> + is/am/are + Verb 1st form + ing + Object?
+        Negative Interrogative: <Wh-Subject> + is/am/are + not + Verb 1st form + ing + Object?
+
+NOTE:
+Is -> 3rd person singular.
+Am -> First person singular.
+Are -> All Plurals.
+
+Practice:
+Pooja masale pees rhi hai.
+    Pooja is grinding the spices.
+Pooja masale nhi pees rhi hai.
+    Pooja is not grinding the spices.
+Kia Pooja masale pees rhi hai?
+    Is Pooja grinding the spices?
+Pooja masale kiun pees rhi hai?
+    Why is Pooja grinding the spices?
+Pooja masale kahan pees rhi hai?
+    Where is Pooja grinding the spices?
+Pooja masale kiske sath pees rhi hai?
+    With whom is Pooja grinding the spices?
+Pooja masale kis larki ke sath pees rhi hai?
+    With which girl is Pooja grinding the spices?
+Pooja kia pees rhi hai?
+    What is Pooja grinding?
+Pooja or Archana kia pees rhe hain?
+    What are Pooja and Archana grinding?
+NOTE: Pooja and Archana is subject. And we treat as single subject. Not two. But the subject is plural.
+Woh apni success ka credit kise de raha hai?
+    Whom is he giving the credit of his success?
+Kis larki ka bhai yahan aa raha hai?
+    Which girl's brother is comming here?
+    Which girl's brother is comming over here?
+Yeh pen kon kharid raha hai?
+    Who is buying this pen?
+Yeh pen kon kharid rahe hain?
+    Who are buying this pen?
+Mai aesa kiu soch raha hu?
+    Why am I thinking so?
+    Why am I thinking like that?
+    Why am I thinking like this?
+Tum aesa keh kar mera dil dukha rhy ho?
+    You're hurting me by saying this.
+    You're hurting me by telling this.
+Koi mujhe yaad kar raha hai.
+    Someone is missing me.
+
+
+
+
+
+
 
