@@ -193,6 +193,54 @@ Us aadmi ke bhai ne mujhe kitab di hai.
 Apne kon kon si filme nhi dekhi hain?
     Which all movies have you not watched?
 
+Present Perfect Continuous Tense.
+Identity: (raha hoon, rahe hain, etc... (continuous) but with time (since/for)).
+    Affirmative: Subject + has/have + been + Verb 1st form + ing + Object + since/for + Time.
+    Negative: Subject + has/have + not + been + Verb 1st form + ing + Object + since/for + Time.
+    Interrogative: <Wh> + has/have + Subject + been + Verb 1st form + ing + Object + since/for + Time.
+    Negative Interrogative: <Wh> + has/have + Subject + not + been + Verb 1st form + ing + Object + since/for + Time.
+    Special Case:
+        Interrogative: <WH-Subject> + has/have + been + Verb 1st form + ing + Object + since/for + Time.
+        Negative Interrogative: <WH-Subject> + has/have + not + been + Verb 1st form + ing + Object + since/for + Time.
+
+Practice:
+Mai subha se khel raha hun.
+    I have been playing since morning.
+    I'm playing. -> Simple Present Continuous.
+    I have played. -> Simple Present Perfect.
+    I have been playing since morning. -> Simple Perfect Continuous.
+Woh kafi der se khirki se jhank raha hai.
+    He has been peeping through the window for a long.
+        We use through when the context is back and forth the object like, light passes through the glass, etc...
+    He has been peeping through the window for a long time.
+Woh ladki 1998 se yaha reh rhi hai.
+    That girl has been living here since 1998.
+25 saal se yaha kon reh raha hai?
+    Who has been living here for 25 years?
+Subha se yeh kaam kiska beta kar raha hai?
+    Whose son has been doing this work since morning?
+Mai 2 ghnty se likh raha hun.
+    I have been writing for 2 hours.
+Mai 2 ghnty se nhi likh raha hun.
+    I have not been writing for 2 hours.
+Kia mai 2 ghnty se likh raha hun?
+    Have I been writing for 2 hours?
+Mai 2 ghnte se kiu likh raha hu?
+    Why have I been writing for 2 hours?
+2 ghnty se kon likh raha hai?
+    Who has been writing for 2 hours?
+2 ghnty se kon kon likh rahe hain?
+    Who all have been writing for 2 hours?
+
+NOTE:
+Woh khel raha hai.
+    -> Wrong Type of sentece of type Present Perfect Continuous Tense.
+    But,
+    Woh kab se khel raha hai. -> Now it is not a simple present continuous tense sentence.
+        It became the sentence of Simple Present perfect continous tense sentence.
+        Since when has he been playing?
+
+
 
 
 
