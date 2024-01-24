@@ -142,6 +142,57 @@ Tum aesa keh kar mera dil dukha rhy ho?
 Koi mujhe yaad kar raha hai.
     Someone is missing me.
 
+Present Perfect Tense.
+Identity: (chuka hai, chuki hai, chuke hain, etc... lia hai, diya hai,,, means subject ne kuch kar diya hai).
+    Affirmative: Subject + has/have + Verb 3rd form + Object.
+    Negative: Subject + has/have + not + Verb 3rd form + Object.
+    Interrogative: <WH> + has/have + Subject + Verb 3rd form + Object?
+    Negative Interrogative: <WH> + has/have + Subject + not + Verb 3rd form + Object?
+    Special Case:
+        Interrogative: <WH-Subject> + has/have + Verb 3rd form + Object?
+        Negative Interrogative: <WH-Subject> + has/have + not + Verb 3rd form + Object?
+
+NOTE:
+has -> 3rd person singular.
+have -> rest all.
+
+NOTE:
+For perfect tense, we use verb 3rd form, for past, present, and future.
+
+Practice:
+Usne mujhe dhoka diya hai.
+    He has cheated on me.
+    NOTE:
+        With cheat, we use 'on'.
+Usne mujhe dhoka nhi diya hai.
+    He has not cheated on me.
+Kia usne mujhe dhoka diya hai?
+    Has he cheated on me?
+Kia usne mujhe dhoka nhi diya hai?
+    Has he not cheated on me?
+Usne mujhe dhoka kiu diya hai?
+    Why has he cheated on me?
+Usne mujhe dhoka kab diya hai?
+    When has he cheated on me?
+Mujhe kisne dhoka diya hai?
+    Who has cheated on me?
+    NOTE:
+        Subjct is jo kam krta hai, mai subject nhi hu, I'm the object.
+        Subject hai woh.
+Hme kis kis ne call kra hai?
+    Who all have called us?
+Hme kis kis ne call nhi kra hai?
+    Who all have not called us?
+Mai ne is yudh me, apne logo ko khoya hai.
+    I have lost my people in this war.
+Apne kyi logo ko gumrah kiya hai.
+    You have misled many.
+Us aadmi ke bhai ne mujhe kitab di hai.
+    That man's brother has given me the book.
+    That man's brother has given the book to me.
+Apne kon kon si filme nhi dekhi hain?
+    Which all movies have you not watched?
+
 
 
 
