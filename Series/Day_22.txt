@@ -240,6 +240,93 @@ Woh khel raha hai.
         It became the sentence of Simple Present perfect continous tense sentence.
         Since when has he been playing?
 
+Past Indefinite Tense.
+Identity: (Krta tha, krte thy, tha, thi, thy, lia, diya, di, li, etc...).
+    Affirmative: Subject + Verb 2nd form + Object.
+    Negative: Subject + did + not + Verb 1st form + Object.
+    Interrogative: <WH> + did + Subject + Verb 1st form + Object?
+    Negative Interrogative: <WH> + did + Subject + not + Verb 1st form + Object?
+    Special Case:
+        Interrogative: <Wh-Subject> + Verb 2nd form + Object?
+        Negative Interrogative: <WH-Subject> + did + not + Verb 1st form + Object?
+
+NOTE.
+It Past Indefinite is the only tense where we use 2nd form of verb in affirmative sentence.
+And in negative sentence, we use 'did' but not in affirmative.
+We use 'did' as auxaliry verb in all cases, not other forms of did.
+But yeah, we can use as main verb.
+
+Practice:
+Uski beti ne aek sikka nigal diya.
+    His daughter swallowed a coin.
+Uski beti ne aek sikka nhi nigla.
+    His daughter did not swollow a coin.
+Kia uski beti ne sikka nigal diya?
+    Did his daughter swallow a coin?
+Kia uski beti ne sikka nhi nigla?
+    Did his daughter not swallow a coin?
+Uski beti ne kia nigla?
+    What did his daughter swallow?
+Uski beti ne kese nigla?
+    How did his daughter swallow?
+Uski beti ne kab nigla?
+    When did his daughter swallow?
+Uski beti ne kahan nigla?
+    Where did his daughter swallow?
+Usne chaku farash par gira diya.
+    He dropped the knife on the floor.
+Usne chaku farash par nhi giraya.
+    He did not drop the knife on the floor.
+Kia usne chaku farash par giraya?
+    Did he drop the knife on the floor?
+Usne chaku farash par kese giraya?
+    How did he drop the knife on the floor?
+Kia usne chaku farash par nhi giraya?
+    Did he not drop the knife on the floor?
+Usne farash par kia giraya?
+    What did he drop on the floor?
+Usne chaku farash par kis wjah se giraya?
+    For what reason did he drop the knife on the floor?
+    Why did he drop the knife on the floor?
+Usne farash par chaku kab giraya?
+    When did he drop the knife on the floor?
+Usne farash par chaku kese giraya?
+    How did he drop the knife on the floor?
+Yahan par pen kisne pheka?
+    Who threw the pen here?
+Usse kisne danta?
+    Who scolded him?
+    Who scolded her?
+Usne kise danta?
+    Whom did he scold?
+    Whom did she scold?
+Maine SJ se 500 rupe udhar liye.
+    I borrowed Rs. 500 from SJ.
+    I took Rs. 500 from SJ as a loan.
+Maine SJ ko 500 rupe udhar diye.
+    I lent SJ Rs. 500.
+    I gave Rs. 500 to SJ as a loan.
+Yeh mai ne kiya.
+    I did this.
+    I did it.
+    NOTE: Because now we are using it as main verb.
+Yeh mai ne nhi kiya.
+    I did not do this.
+    I did not do it.
+Yeh kisne kiya?
+    Who did this?
+    Who did it?
+Yeh kaam kis kis ne nhi kiya?
+    Who all did not do this work?
+    Wrong : Who all did not do it work?
+    Who all did not do this?
+    Who all did not do it?
+
+
+
+
+
+
 
 
 
