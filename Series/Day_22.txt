@@ -381,6 +381,59 @@ Woh chawal banata tha, or mai roti banata tha.
 Hum wahan milty thy, Fir hum school jate thy, Fir hum khelty thy.
     We used to meet there. Then, We would go to school. Then, We would play.
 
+Past Continuous Tense.
+(Raha tha, Rahi thi, Rahy the, etc...).
+    Affirmative: Subject + was/were + Verb 1st form + ing + Object.
+    Negative: Subject + was/were + not + Verb 1st form + ing + Object.
+    Interrogative: <WH> + was/were + Subject + Verb 1st form + ing + Object?
+    Negative Interrogative: <Wh> + was/were + Subject + not + Verb 1st form + ing + Object?
+    Special Case:
+        Interrogative: <WH-Subject> + was/were + Verb 1st form + ing + Object?
+        Negative Interrogative: <WH-Subject> + was/were + not + Verb 1st form + ing + Object?
+
+Note.
+We use 'was' with singular subject.
+We use 'were' with plural subject.
+
+Practice.
+Woh aek santare ko cheel rahi thi.
+    She was peeling an orange.
+    She was peeling off an orange.
+Woh aek santare ko nhi cheel rahi thi.
+    She was not peeling an orange.
+    She was not peeling off an orange.
+Kia woh aek santare ko cheel rahi thi?
+    Was she peeling an orange?
+    Was she peeling off an orange?
+Kia woh aek santara nhi cheez rahi thi?
+    Was she not peeling an orange?
+    Was she not peeling off an orange?
+Woh kia cheel rahi thi?
+    What was she peeling?
+    What was she peeling off?
+Mai kise bta raha tha?
+    Whom was I telling?
+Hum office se nikal rahe thy.
+    We were leaving the office.
+    -> We were leaving from the office. (wrong).
+        -> we don't put any preposition when using leave in that context.
+Hum office k liye nikal rahe thy.
+    We were leaving for the office.
+    -> We were leaving for the office. (correct).
+        -> we add 'for' because now the context is of going.
+Kon kon has rahe thy?
+    Who all were laughing?
+Mujh par kon kon has rahe thy?
+    Who all were laughing at me?
+    -> we use 'at' with laughing.
+Mujh par class me kon kon has rahe thy?
+    Who all were laughing at me in the class?
+Tum use kiun dosh de rahe thy?
+    Why you were blaming him?
+    -> 'you' is treated plural everytime.
+Kiski behan wahan aa rahi thi?
+    Whose sister was comming there?
+    Whose sister was comming over there?
 
 
 
