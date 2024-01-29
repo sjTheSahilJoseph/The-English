@@ -492,9 +492,29 @@ Aek din papa ne hme mazboot rassi se bandh diya tha.
 Mujh se kis larke ne kitab li thi?
     Which boy had taken the book from me?
 
+Past Perfect Continuous Tense.
+(diya tha, liya tha, diya tha, li thi, di thi, kra tha, ra tha, ri thi, (means subject ne kisi kaam ko kra tha past me), etc.. + with time mentioned).
+    Affirmative: Subject + had + been + Verb 1st form + ing + Object + since/for + Time.
+    Negative: Subject + had + not + been + Verb 1st form + ing + Object + since/for + Time.
+    Interrogative: <WH> + had + Subject + been + Verb 1st form + ing + Object + since/for + Time?
+    Negative Interrogative: <Wh> + had + Subject + not + been + Verb 1st form + ing + Object + since/for + Time?
+    Special Case:
+        Interrogative: <Wh-Subject> + had + been + Verb 1st form + ing + Object + since/for + Time?
+        Negative Interrogative: <Wh-Subject> + had + not + been + Verb 1st form + ing + Object + since/for + Time?
 
-
-
+Practice.
+Hum kayi salon se mil rahe thy.
+    We had been meeting for many years.
+Woh 2 bje se football nhi khel raha tha.
+    He had not been playing football since 2'o clock.
+15 saal se woh kis office me kaam kr raha tha?
+    For 15 years, In which office had he been working?
+    In which office had he been working, for 15 years?
+App wahan kab se reh rahe thy?
+    Since when had you been living there?
+    Since when had you been living over there?
+Use 2 mahine se kon pareshan kr raha tha?
+    Who had been distrubbing/bothering him for 2 months?
 
 
 
