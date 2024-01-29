@@ -435,6 +435,62 @@ Kiski behan wahan aa rahi thi?
     Whose sister was comming there?
     Whose sister was comming over there?
 
+Past Perfect Tense.
+(Chuka tha, Chuke thy, Chuki Thi, Lia tha, Diya tha, (means subject kuch kar chuka tha), etc...)
+    Affirmative: Subject + had + Verb 3rd form + Object.
+    Negative: Subject + had + not + Verb 3rd form + Object.
+    Interrogative: <Wh> + had + Subject + Verb 3rd form + Object?
+    Negative Interrogative: <Wh> + had + Subject + not + Verb 3rd form + Object?
+    Special Case:
+        Interrogative: <Wh-Subject> + had + Verb 3rd form + Object?
+        Negative Interrogative: <Wh-Subject> + had + not + Verb 3rd form + Object?
+
+Before Understanding Past Perfect Tense.
+Take a look on these sentences.
+1. Hum ne film dekhi hai.
+    -> Present Perfect Tense.
+1. Hum ne film dekhi.
+    -> Past Indefinite Tense.
+1. Hum ne film dekhi thi.
+    -> Past Perfect Tense.
+2. Mai Delhi gya hoon.
+    -> Present Perfect Tense.
+2. Mai Delhi gya.
+    -> Past Indefinite Tense.
+2. Mai Delhi gya tha.
+    -> Past Perfect Tense.
+3. Yeh SJ ne chipkaya hai.
+    -> Present Perfect Tense.
+3. Yeh SJ ne chipkaya.
+    -> Past Indefinite Tense.
+3. Yeh SJ ne chipkaya tha.
+    -> Past Perfect Tense.
+
+NOTE.
+In Past Perfect Tense, we use auxaliry verb 'had' in every case.
+
+Practice.
+Usne mujhe jakar liya tha.
+    He had clinched  me.
+Usme mujhe apne hathon se jakar liya tha.
+    He had clinched me with his hands.
+Usne mujhe nhi jakara tha.
+    He had not clinched me.
+Kia usne mujhe jakra tha?
+    Had he clinched me?
+Kia usne mujhe nhi jakra tha?
+    Had he not clinched me?
+Mujhe kisne jakra tha?
+    Who had clinched me?
+Mujhe kisne nhi jakra tha?
+    Who had not clinched me?
+Kisne apna kaam poora nhi kia tha?
+    Who had not completed his work?
+Aek din papa ne hme mazboot rassi se bandh diya tha.
+    One day, Papa had tied us with a strong rope.
+    Papa had tied us with a strong rope one day.
+Mujh se kis larke ne kitab li thi?
+    Which boy had taken the book from me?
 
 
 
