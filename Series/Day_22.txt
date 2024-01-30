@@ -556,6 +556,47 @@ Kon maaf kare ga tumhe? Kam az kam, woh to tumhe kabhi maaf nahi kare ga.
     Who'll forgive you? At least, He'll never forgive you.
         -> Here we use 'never' as 'not' context. Because of 'kabhi nahi'.
 
+Future continuous Tense.
+(Subject kisi kaam ko kar raha ho ga, rahi ho gi, rahe hon gyn, etc...).
+    Affirmative: Subject + will be + Verb 1st form + ing + Object.
+    Negative: Subject + will + not + be + Verb 1st form + ing + Object.
+    Interrogative: <WH> + will + Subject + be + Verb 1st form + ing + Object?
+    Negative Interrogative: <WH> + will + Subject + not + be + Verb 1st form + ing + Object?
+    Special Case:
+        Interrogative: <Wh-Subject> + will be + Verb 1st form + ing + Object?
+        Negative Interrogative: <Wh-Subject> + will not be + Verb 1st form + ing + Object?
+
+NOTE.
+No matter what the subject is, we use 'will be', 'will not be' as auxilary verb.
+We use 'will' for Future context.
+We use 'would' for Present/Past context.
+
+Practice.
+Woh 2 bje khel raha ho ga.
+    He'll be playing at 2'o clock.
+        -> When we tell the exact time, we use 'at'.
+Woh is waqt khel raha ho ga.
+    He would be playing right now.
+    He would be playing at this time.
+Hum agly saal sath reh rahe hon gyn.
+    We'll be living together next year.
+Kia woh is waqt Delhi ja raha ho ga?
+    Would he be going to Delhi right now?
+    Would he be going to Delhi at this time?
+6 bje bus nikal rahi ho gi.
+    The bus will be leaving at 6'o clock.
+    The bus will be leaving at 6.
+Jaldi jao, bus nikal rahi ho gi.
+    Go fast, the bus would be leaving.
+    Hurry Up, the bus would be leaving.
+Bus pakka nikal rahi ho gi.
+    The bus must be leaving.
+        -> When we're super sure about the statement, we use 'must' instead of 'would'.
+Bus shayed nikal rahi ho gi.
+    The bus must may be leaving.
+        -> When we're little sure about the statement, we use 'may', 'might', 'could', instead of 'would'.
+    The bus might be leaving.
+    The bus could be leaving.
 
 
 
