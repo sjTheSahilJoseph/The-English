@@ -516,6 +516,48 @@ App wahan kab se reh rahe thy?
 Use 2 mahine se kon pareshan kr raha tha?
     Who had been distrubbing/bothering him for 2 months?
 
+Future Indefinite Tense.
+(Subject kisi kaam ko kre ga, kare gi, etc...).
+    Affirmative: Subject + will + Verb 1st form + Object.
+    Negative: Subject + will + not + Verb 1st form + Object.
+    Interrogative: <Wh> + will + Subject + Verb 1st form + Object?
+    Negative Interrogative: <WH> + will + Subject + not + Verb 1st form + Object?
+    Special Case:
+        Interrogative: <Wh-Subject> + will + Verb 1st form + Object?
+        Negative Interrogative: <Wh-Subject> + will + not + Verb 1st form + Object?
+
+Practice.
+Mai jau ga.
+    I'll go.
+Woh aye ga.
+    He'll come.
+Hum nachen gyn.
+    We'll dance.
+App dekho gy.
+    You'll see.
+Woh tumhe maaf kar de ga.
+    He'll forgive you.
+Woh tumhe maaf nhi kare ga.
+    He'll not forgive you.
+Kia woh tumhe maaf kar de ga?
+    Will he forgive you?
+Kia woh tumhe maaf nhi kare ga?
+    Will he not forgive you?
+Woh tumhe kis shart pr paise de ga?
+    On which condition, Will he give you money?
+Mai yahan aek gadha khodun ga.
+    I'll dig a pit here.
+    I'll dig a pit over here.
+Chinta mat kro, mai tumhe is kaam ki yaad dila du ga.
+    Don't worry, I'll remind you of this work.
+        -> With remind, we put the noun or pronoun which the subject want to remind.
+        -> With remind, we use 'of' preposition.
+Kon maaf kare ga tumhe? Kam az kam, woh to tumhe kabhi maaf nahi kare ga.
+    Who'll forgive you? At least, He'll never forgive you.
+        -> Here we use 'never' as 'not' context. Because of 'kabhi nahi'.
+
+
+
 
 
 
