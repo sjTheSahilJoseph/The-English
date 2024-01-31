@@ -631,6 +631,36 @@ Mere Papa ghar phnch chuky hon gyn.
 Hum sham ko delhi phnch chuky hon gyn.
     We'll have reached Delhi in the evening.
 
+Future Perfect Continuous Tense.
+(Subject kuch kar raha ho ga mgr kab se? yeh time mention ho ga, raha ho ga subha se, raha ho ga kal se, raha ho ga 2024 se, raha hoon ga 2 bje se, etc...).
+    Affirmative: Subject + will have been + Verb 1st form + ing + Object + since/from/for + Time.
+    Negative: Subject + will not have been + Verb 1st form + ing + Object + since/from/for + Time.
+    Interrogative: <WH> + will + Subject + have + been + Verb 1st form + ing + Object + since/from/for + Time?
+    Negative Interrogative: <Wh> + will + Subject + not + have + been + Verb 1st form + ing + Object + since/from/for + Time?
+    Special Case:
+        Interrogative: <Wh-Subject> + will have been + Verb 1st form + ing + Object + since/from/for + Time?
+        Negative Interrogative: <WH-Subject> + will not have been + Verb 1st form + ing + Object + since/from/for + Time?
 
+NOTE.
+No matter what the subject is, we use 'will be', 'will not be' as auxilary verb.
+We use 'will' for Future context.
+We use 'would' for Present/Past context.
 
+NOTE.
+In this tense, we use since/for/from.
+Since -> Beete samey se.
+From -> Anay waly samey se.
+For -> Duration.
+
+Kal woh subha se parh rahi ho gi.
+    Tomorrow, she will have been studying from morning.
+        -> from because of this is future morning.
+Woh subha se parh rahi ho gi.
+    She would have been studying since morning.
+        -> Past context so tha's why 'since' and 'would'.
+Aglay saal May me hum is company me do saal se kaam kar kar rahe hon gyn.
+    Next year in May, We'll have been working in this company for 2 years.
+        -> 'for' because it is a duration.
+Mujhe lagta hai, woh 2017 se meri videos dekh raha ho ga.
+    I think, He would have been watching my videos since 2017.
 
