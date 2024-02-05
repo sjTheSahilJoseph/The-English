@@ -53,5 +53,9 @@ Kisne kise pucha?
     -> Verb = Ask.
     -> Subject = Jisne pucha.
     Who asked whom?
-
+Kia tum khana khate ho?
+    -> Tense = Present Indefinite.
+    -> Verb = Eat.
+    -> Subject = Tum.
+    Do you eat food?
 
