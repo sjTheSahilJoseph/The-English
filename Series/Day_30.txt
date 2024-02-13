@@ -1,0 +1,138 @@
+Kar sakna/Kar pana.
+
+-> Ability
+    -> Sakta hai.
+        -> Can / is/am/are + able to.
+    -> Sakta tha.
+        -> Could / was/were + able to.
+    -> Saka/Paya.
+        -> Could / was/were + able to.
+    -> Sakega/Payega.
+        -> Will be able to.
+-> Possibility
+    -> Sakta hai.
+        -> Can, could, may, might.
+    -> Sakta tha.
+        -> Could have, may have, might have.
+-> Request
+    -> Sakta hai.
+        -> Can, could, may.
+-> Permission
+    -> Sakta hai.
+        -> Can, could, may, might.
+-> Hypothetical
+    -> Sakta tha.
+        -> Could have, May have, Might have.
+-> Wish
+    -> Pata/Paye/Sake.
+        -> Could.
+
+Sentences.
+Mai sham ko film dekhne ja skta hoon.
+-> Possibility.
+    I ..... go to watch a movie in the evening.
+        I can go to watch a movie in the evening.
+        I could go to watch a movie in the evening.
+        I may go to watch a movie in the evening.
+        I might go to watch a movie in the evening.
+Mai roz 5kms dor sakta hoon.
+-> Ability Present.
+    I ..... run 5 kms every day.
+        I can run 5 kms every day.
+        I am able to run 5 kms every day.
+Pichle saal, mai roz 5 kms dor sakta tha.
+-> Ability Past.
+    Last year, I ...... run 5 kms every day.
+        Last year, I could run 5 kms every day.
+        Last year, I was able to run 5 kms every day.
+Woh mere ghar aa skta tha par aya nhi.
+-> Possibility Past.
+    He ..... come to my house but he didn't.
+        He could have come to my house but he didn't.
+Kia mai apse 2 minute baat kr skta hoon?
+-> Request.
+    ..... I talk to you for 2 minutes?
+        May I talk to you for 2 minutes?
+        Can I talk to you for 2 minutes?
+        Could I talk to you for 2 minutes?
+Ab app ghar ja skte hain.
+-> Permission
+    Now, you ..... go home.
+        Now, you can go home.
+        Now, you could go home.
+        Now, you may go home.
+        Now, you might go home.
+Agar mere pass paise hote, to mai bhi laptop khareed sakta tha.
+-> Hypothetical.
+    If I had money, I ..... bought a laptop too.
+        If I had money, I could have bought a laptop too.
+        If I had money, I may have bought a laptop too.
+        If I had money, I might have bought a laptop too.
+Agar apne mehnat ki hoti to app exam pass kr skte thy.
+-> Hypothetical Past.
+    If you had worked hard, you ..... passed the exam.
+        If you had worked hard, you could have passed the exam.
+        If you had worked hard, you may have passed the exam.
+        If you had worked hard, you might have passed the exam.
+Kash woh hmare sath khel pata.
+-> Wish.
+    I wish he ..... play with us.
+        I wish he could play with us.
+Use agle saal Mumbai bheja ja skta hai.
+-> Possibility.
+    He can be sent to Mumbai next year.
+    He could be sent to Mumbai next year.
+    He might be sent to Mumbai next year.
+    He may be sent to Mumbai next year.
+Hum usdin aek dusre ki madad kar skte thy.
+-> Possiblity Past.
+    We could have helped each other that day.
+    We might have helped each other that day.
+    We may have helped each other that day.
+Hme agalay maheene Delhi jana par sakta hai.
+-> Possibility.
+    We could have to go to Delhi next month.
+    We may have to go to Delhi next month.
+    We might have to go to Delhi next month.
+Ajj uske pass aek bara ghar ho skta tha lekin us ne mehnat nhi ki.
+-> Hypothetical.
+    He could have had a big house but he didn't worked hard.
+    He may have had a big house but he didn't worked hard.
+    He might have had a big house but he didn't worked hard.
+Hme pichly maheene Delhi jana par sakta tha.
+-> Possibility Past.
+    We could have had to go to Delhi last month.
+    We may have had to go to Delhi last month.
+    We might have had to go to Delhi last month.
+Apko usse milna par jata.
+-> Hypothetical.
+    You could have had to meet him.
+    You may have had to meet him.
+    You might have had to meet him.
+Uske pass aglay saal aek car ho skti hai.
+-> Possibility.
+    He could have a car by next year.
+    He may have a car by next year.
+    He might have a car by next year.
+    He can have a car by next year.
+Woh is waqt school me ho skti hai.
+-> Possibility.
+    She could be in school right now.
+    She can be in school right now.
+    She might be in school right now.
+    She may be in school right now.
+Yeh bht risky ho skta tha.
+-> Hypothetical.
+    It could have been very risky.
+    It may have been very risky.
+    It might have been very risky.
+
+
+
+
+
+
+
+
+
+
