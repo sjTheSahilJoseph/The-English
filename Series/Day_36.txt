@@ -1,0 +1,196 @@
+Semi Modal Verbs
+Dare and Need
+
+
+Why we call semi modal verbs?
+    Because sometimes we use these (dare & need) as modal verb.
+    And sometimes as main verb.
+
+Dare (Himmat).
+    -> Main verb (to).
+        -> Present, Past & Future (Never in Continuous Tense)
+    -> Modal verb (to -> wrong).
+        -> Only Present (only in negative, only in Interrogative).
+Need (Zarurat).
+    -> Main verb (to).
+        -> Present, Past & Future (Never in Continuous Tense)
+    -> Modal verb (to -> wrong).
+        -> Only Present (only in negative, only in Interrogative).
+
+Practice.
+Woh wahan jane ki himmat krta hai.
+    He dares to go there.
+Woh wahan jane ki himmat nhi krta hai.
+    He does not dare to go there.
+Kia woh wahan jane ki himmat krta hai?
+    Does he dare to go there?
+Kia woh wahan jane ki himmat nhi krta hai?
+    Does he not dare to go there?
+    Doesn't he dare to go there?
+
+// We cannot make positive sentences with them as modal verb.
+
+Practice.
+Woh wahan jane ki himmat nhi karta hai.
+    He dare not go there.
+
+// As are working with modal verb, we don't apply tenses rules here.
+    -> person stuff.
+
+Kia woh wahan jane ki himmat krta hai?
+    Dare he go there?
+Kia woh wahan jane ki nhi krta hai?
+    Dare he not go there?
+Woh wahan jane ki himmat kiu krta hai?
+    Why does he dare to go there?
+    Why dare he go there?
+Apki himmat kese hui?
+    How dare you?
+Apki yahan ane ki himmat kese hui?
+    How dare you come here?
+
+// Continuous Tense case.
+
+Practice.
+Woh wahan jane ki himmat kr raha hai.
+    He is daring to go there. -> Wrong.
+    He dares to go there.
+    // We cannot use "ing" with "dare" ever. We have to say in present indefinite in that case.
+
+// We can use in perfect tenses, but not even in perfect continuous.
+
+Practice.
+Usne yeh faisla krne ki himmat ki hai.
+    He has dared to take this decision.
+Usne yeh faisla krne ki himmat nhi ki hai.
+    He has not dared to take this decision.
+Kia usne yeh failsa krne ki himmat ki hai?
+    Has he dared to take this decision?
+Kia usne yeh failsa krne ki himmat nhi ki hai?
+    Has he not dared to take this decision?
+
+
+// In modal verbs, there is nothing called perfect tense.
+
+// Past Context.
+
+Usne mujhe gali deni ki himmat ki.
+    He dared to abuse me.
+    // we use 2nd form of verb for past indefinite.
+Usne mujhe gali dene ki himmat nhi ki.
+    He did not dare to abouse me.
+Kia usne mujhe gali dene ki himmat ki?
+    Did he dare to abuse me?
+Kia usne mujhe gali dene ki himmat nhi ki?
+    Did he not dare to abuse me?
+Usne mujhe gali dene ki himmat kiu ki?
+    Why did he dare to abuse me?
+Usne mujhe gali dene ki himmat kese ki?
+    How did he dare to abuse me?
+Usne mujhe gali dene ki himmat kiu nhi ki?
+    Why did he not dare to abuse me?
+
+// we cant make these using dare as modal verb, because we can only make for present not other.
+
+// Past Perfect.
+Usne usdin waha jane ki himmat ki thi.
+    He had dared to go there that day.
+Usne usdin whaa jane ki himmat nhi ki thi.
+    He had not dared to go there that day.
+Kia usne usdin waha jane ki himmat ki thi?
+    Had he dared to go there that day?
+
+// Again same, we cannot make them using model verb "dare".
+
+// Need.
+// The concepts are same.
+
+Practice.
+Use waha jane ki zarurat parti hai.
+    He needs to go there.
+Use waha jane ki zarurat nhi parti.
+    He doesn't need to go there.
+Kia use waha jane ki zarurat parti hai?
+    Does he need to go there?
+Kia use waha jane ki zarurat nhi parti?
+    Does he not need to go there?
+Use waha jane ki zarurat pri.
+    He needed to go there.
+Use waha jane ki zarurat nhi pari.
+    He did not need to go there.
+Kia use waha jane ki zarurat pari?
+    Did he need to go there?
+Kia use waha jane ki zarurat nhi pari?
+    Did he not need to go there?
+
+// Using modal verbs (only in negatives, interogatives).
+Use waha jane ki zarurat nhi parti.
+    He need not go there.
+    He needn't go there.
+    // we can also contract them.
+Kia use waha jane ki zarurat parti hai?
+    Need he go there?
+Kia use waha jane ki zarurat nhi parti hai?
+    Need he not go there?
+    Needn't he go there?
+
+// Future.
+
+Woh apko call krne ki himmat kre ga.
+    He will dare to call you.
+Woh apko call krne ki himmat nhi kre ga.
+    He will not dare to call you.
+Kia woh apko calle krne ki himmat kre ga?
+    Will he dare to call you?
+Kia woh apko call krne ki himmat nhi kre ga?
+    Will he not dare to call you?
+Woh apko call krne ki himmat kiu nhi kre ga?
+    Why will he not dare to call you?
+
+// Need in future.
+
+Use apko call krne ki zarurat pre gi.
+    He will need to call you.
+Use apko call krne ki zarurat nhi pre gi.
+    He will not need to call you.
+Kia use apko call krne ki zarurat pre gi?
+    Will he need to call you?
+Kia use apko call krne ki zarurat nhi pre gi?
+    Will he not need to call you?
+Use apko call krne ki zarurat kab pre gi?
+    When will he need to call you?
+Use apko call krne ki zarurat kab nhi pre gi?
+    When will he not need to call you?
+Use apko call krne ki zarurat kiu nhi pre gi?
+    Why will he not need to call you?
+
+// We don't use semi modal verbs in continuous tense or in perfect continuouse as well.
+
+Like
+I'm needing to go there.
+    -> complete wrong.
+But we say "He is a daring person".
+Why?
+    Because now "daring" is not working as verb, but as adjective.
+    In this case the main verb is "is".
+        -> Basically present participle.
+
+In this sentence.
+Mai waha jana chah raha hoon.
+    I'm wanting to go there. -> wrong.
+    I want to go there. -> correct.
+
+More Practice.
+Usne kisi trah andr jane ki himmat ki.
+    He somehow dared to go in.
+Use yeh baat mujhe btane ki zarurat nhi hai.
+    He doesn't need to tell me about it.
+    He doesn't need to tell me about this matter.
+    He need not tell me about it.
+    He need not tell me about this matter.
+Yahan ane ki apki himmat kaise hui?
+    How dare you come here?
+    How do you dare to come here?
+    
+
+
