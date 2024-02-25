@@ -1,0 +1,451 @@
+Conjunctions.
+
+Conjunctions plays a huge role in sentences.
+They link sentences.
+
+Some conjunctions have so many meanings.
+If the same conjunction is present at the start of sentence, it's meaning could be different.
+Or if the same conjunction is present at the end, or between the sentence, it's meaning can change differently.
+
+The Problem.
+Let's say I have to say these 2 sentences:
+    SJ is a good boy.
+    JS is a good boy.
+Now I have to connect them. So I'll use "and" conjunction.
+    SJ and JS are good boys.
+
+2nd Example:
+    I was unwell.
+    I didn't go to the office yesterday.
+Linked:
+    Since I was unwell, I didn't go to the office yesterday.
+
+Start
+
+And
+    -> Or
+    Practice
+        SJ and JS are good friends.
+        He is sending you and me to Mumbai.
+
+Or
+    -> Ya
+    Practice
+        You can buy this book or that book.
+        What shall I give you, this or that?
+        What do I give you, this or that?
+
+But
+    -> Lekin, Par, Parantoo
+    -> Siwaye, Ilawa
+        // We can also use "Except" for siwaye, ilawa.
+    -> Blke
+        // We can also use "Rather" for blke.
+    Practice
+        SJ or JS achy dost hain par woh aek dusre se larte hain.
+            SJ and JS are good friends but they fight with each other.
+        Woh bht samajhdar hai par uske pas paise nhi hain.
+            He is very intelligent but he doesn't have money.
+        Mai tumhare ghar ke siwa kahi bhi ja skta hoon.
+            I can go anywhere but not your home.
+            I can go anywhere except your home.
+        Mai kuch bhi kar skta hu siwaye tumhe peetne ke.
+            I can do anything but not beat you.
+            I can do anything except beat you.
+        Woh chiken ke ilawa kuch bhi kha skta hai.
+            He can eat anything but not chicken.
+            He can eat anything except chicken.
+        Yeh pen nhi blke pencil hai.
+            This is not a pen but a pencil.
+            This is not a pen rather a pencil.
+        SJ bewkoof nhi blke aek samajhdar larka hai.
+            SJ is not an idiot but a sensible boy.
+            SJ is not an idiot rather a sensible boy.
+        Use danta nhi gya, blke peeta gya.
+            He was not scolded but beaten.
+            He was not scolded rather beaten.
+
+For/As/Because/Since
+    -> Kiun ki / Choon ki
+    Rules:
+        "Since" is used only at the beginning of the sentence.
+        "Because" is used only in the middle of the sentence.
+        Always use comma (,) just before "For" if used in the middle of the sentence.
+        We can use "as" anywhere, between or starting of the sentence.
+    Practice
+        Mai nhi aya kiu ki mai beemar tha.
+            I didn't come because I was unwell.
+            I didn't come as I was unwell.
+            I didn't come, for I was unwell.
+            I didn't come since I was unwell.
+                -> Wrong
+        Choon ke mai beemar tha, mai nhi aya.
+            Since I was unwell, I didn't come.
+            As I was unwell, I didn't come.
+            For I was unwell, I didn't come.
+            Because I was unwell, I didn't come.
+                -> Wrong.
+
+Also/Even/Either/Too/As well
+    -> Bhi
+    Rules:
+        "Also" is generally not used in negative sentences.
+        "Even", "Too" and "As well" are used in both positive and negative sentences.
+        'wither' is always used in negative sentences.
+        'Also' is used after the helping verb and before the main verb.
+        "Too", "As well" and "Either" are used at the end.
+        "Even" is used at the beginning of the sentences.
+        "Even" is not used in interrogative sentences.
+    Practice
+        Mai bhi aek acha insaan hu.
+            I'm also a good person.
+            Even I am a good person.
+            I am a good person too.
+            I am a good person as well.
+        Mai bhi aek acha insaan nhi hu.
+            Even I am not a good person.
+            I am not a good person too.
+            I am not a good person as well.
+            I am not a good person either.
+        Mai bhi phal pasand nhi krta.
+            Even I don't like fruits.
+            I don't like fruits either.
+            I don't like fruits too.
+            I don't like fruits as well.
+        Kia tum bhi waha nhi thy?
+            Were you not there either?
+            Were you not there too?
+            Were you not there as well?
+
+So/Hence/That's why/Therefore/That's the reason
+    -> Is liye
+    Practice
+        Mai beemar tha, is liye mai nhi aya.
+            I was unwell, so I didn't come.
+            I was unwell, hence I didn't come.
+            I was unwell, that's why I didn't come.
+            I was unwell, therefore I dind't come.
+            I was unwell, that's the reason I didn't come.
+        Usne dhang se nhi parha is liye woh pariksha me fail ho gya.
+            He didn't study well, so he failed the exam.
+            He didn't study well, hence he failed the exam.
+            He didn't study well, that's why he failed the exam.
+            He didn't study well, therefore he failed the exam.
+            He didn't study well, that's the reason he failed the exam.
+
+As
+    -> Jaisa
+    -> Ke tor par
+    -> Ke natey
+    Practice
+        Jaisa app kahen.
+            As you say.
+        Jaisi apki marzi.
+            As you wish.
+        Mai ne kiya jaisa apne kaha.
+            I did as you said.
+        Mai yaha manager ke tor par kaam kar raha hu.
+            I'm working here as a manager.
+        Aek teacher hony k nate yeh mera farz hai k mai apne students ko sahi english sikhau.
+            As a teacher, it's my duty to teach correct English to my students.
+
+As soon as
+    -> Jaise hi/Joon hi
+    We can also use "The moment" as a replacement of "As soon as".
+    Rules:
+        We'll have to use "Present Indefinite Tense" with "As soon as" when we speak about the future. We should not use will.
+    Practice
+        Jaise hi mai tujhe call kru tu nikal jana.
+            As soon as I call you, you leave.
+            The moment I call you, you leave.
+        Jaise hi woh tujhe call kre tu nikal jana.
+            As soon as he calls you you leave.
+            The moment he calls you, you leave.
+        Jaise hi woh aya, mai chala gya.
+            As soon as he came, I left.
+            The moment he came, I left.
+        Jaise hi woh aye ga, mai office nikal jau ga.
+            As soon as he comes, I'll leave for the office.
+                -> Look, I dinn't used "will come" I used like present indefinite tense for the "as soon as" clause.
+                // Second clause is totally different. So we can use "will".
+            The moment he comes, I'll leave for the office.
+                -> Same rule.
+
+As well as
+    -> Sath hi sath
+    Rules:
+        When two subjects are joined with "as well as", the verb of the sentence should be used as per the first subject.
+    Practice
+        SJ parha likha hai, sath hi sath uske mata pita bhi parhe likhe hain.
+            SJ is educated as well as his parents are also educated.
+        Woh acha football khelta hai sath hi sath woh class me first bhi ata hai.
+            He plays football very well as well as he stands first in the class.
+        Woh sath hi sath uske 3 bhai America ja rhy hain.
+            He as well as his three brothers is going to America.
+                // We dont' use "are" with this, we use "is" because of the rule.
+                // We decide helping verb as per the first subject.
+                    // In that case, it is singular, so we used "is".
+        Mai sath hi sath mere dost bhi yahan hain.
+            Me as well as my friends am here.
+                // Same rule.
+                // We used "am" because the first subject is "first person singular".
+        // We can use "and" instead of "as well as" to avoid that rule.
+            For Example:
+                Me and my friends are going there.
+                He and his brothers are going there.
+
+As far as
+    -> Jaha tak
+    Practice
+        Jaha tk mai janta hu, uske 2 bachy hain.
+            As far as I know, he has two children.
+        Jaha tk mujhe pta hai, uski shadi ho chuki hai.
+            As far as I know, he is married.
+        Jaha tk meri parhai ka sawal hai, mai 12th pass hu.
+            As far as my study is concerned, I'm only 12th pass.
+        Jaha tk mere bhai ka sawal hai, usne graduation kr li hai.
+            As far as my brother is concerned, he has done graduation.
+        Jaha tk mere parivar ka sawal hai, mummy papa ke ilawa meri 2 behnen hain.
+            As far as my family is concerned, apart from mummy and papa I have two sisters.
+
+As + {Adjective} + As / So + {Adjective} + As
+    -> Utna {Adjective} Jitna
+    Rules:
+        We can use "As + {Adjective} + As" for Positive and Negative sentences.
+        We can use "So + {Adjective} + As" only for Negative sentences.
+    Practice
+        Utna lamba jitna Amit.
+            As tall as Amit.
+        Rakesh ke jitna chota.
+            As short as Rakesh.
+        Utna bara jitna tumhara ghar.
+            As big as your house.
+        Utna kala jitna koila.
+            As black as coal.
+        Tum mere jitne chalak ho.
+            You are as clever as I am.
+        Tum mere jitne chalak nhi ho.
+            You are not as clever as I am.
+            You are not so clever as I am.
+        Kia tum mere jitna acha ga skty ho?
+            Can you sing as good as I can?
+            Can you sing as well as I can?
+        Kia tum uske jitna acha nhi ga skte?
+            Can't you sing as good as he can?
+            Can't you sing so good as he can?
+
+Although/Though/Even If/Even Though
+    -> Bhale Hi
+    -> Hala Ki
+    -> Yadh Hi
+Then also/even then/Yet/Still/However/Nevertheless
+    -> Fir bhi
+    -> Tab bhi
+    -> Iske bawjood bhi
+
+    Practice
+        Bhale hi woh kabhi school nhi gya, fir bhi use sab ata hai.
+            Even if he never went to school, then also he knows everything.
+        Hala ke mere pas paise nhi hain, par iske bawjood mai tumhari madad krne ki poori koshish kru ga.
+            Although I don't have money, yet I will try my best to help you.
+        Hala ke mai ne yeh nhi kra hai, mgr fir bhi app jo bhi faisla kren gyn mai use manu ga.
+            Though I haven't done it, still whatever you decide, I will accept.
+        Hala ke mai beemar tha, tab bhi mai ne kaam kiya.
+            Even though I was unwell, Nevertheless I worked.
+
+Such
+    -> Is trah ka / Aesa
+Such as
+    We can also use "For example (e.g)".
+    -> Jaise ke (Example)
+In such a way
+    -> Is trah se / Aese
+
+    Practice
+        Aese log swarthi hoty hain.
+            Such people are selfish.
+        Aesi kyi kahaniyan mai sun chuka hu.
+            I have heard many such stories.
+        Aese bachy mujhe pasand nhi.
+            I don't like such children.
+        Mere pas kyi cheezen hain, jaise ke 4 computer, 2 laptop, 3 mobile ityadi.
+            I have many things such as four computers, two laptops, three mobiles, etc.
+            I have many things, e.g., four computers, two laptops, three mobiles, etc.
+                // (e.g.) // full stop (.) at the end and then , to explain.
+                // Full form of e.g. is Exempli Gratia
+                    // It is an latin abrevation.
+                // When we use e.g. we speak "For Example".
+        Uske sath kyi log hain jaise ke Ravi, Rahul, Sanjay, etc.
+            There are many people with him such as Ravi, Rahul, Sanjay, etc.
+        Us ne is trah se mujhe ghoora k mujeh lga k woh mujh se larne wala hai.
+            He stared at me in such a way that I thought he was going to fight me.
+        Tum aese bolte ho k har koi tumhari baat sunna pasand krta hai.
+            You speak in such a way that everyone loves to listen to you.
+
+As If/As though
+    -> Aese mano; Aese jaise ke
+
+    Practice
+        Tum to hme aese bta rhy ho jaise tumhe sab pta ho.
+            You are telling us as if you know everything.
+            You are telling us as though you know everything.
+        Tum to aese bat kr rhe ho k mai tumhara dushman hu.
+            You are talking as if I am your enemy.
+            You are talking as though I am your enemy.
+        Tum to mujhe aese dant rhy ho jaise tum mere boss ho.
+            You are scolding me as if you are my boss.
+            You are scolding me as though you are my boss.
+        Woh mujh se aese vehvaar kr rhy thy k mai unka nokar hu.
+            He was treating me as if I was his servant.
+            He was treating me as though I was his servant.
+                // If the sentence is of past, we use final clause as past. "was" instead of "is".
+
+Either - Or
+    -> Ya to yeh / Ya to woh
+
+    Practice
+        Ya to Ram jaye ga ya to mai jau ga.
+            Either Ram will go or I will.
+        Mai ya to Delhi jau ga ya Mumbai.
+            I will either go to Delhi or Mumbai.
+        Ya to tum galat ho ya to woh.
+            Either you are wrong or he is.
+        Ya to tum waha jao ya mujhe jane do.
+            Either you go there or let me go.
+
+Neither - Nor
+    -> Nah yeh / Nah woh
+
+    Practice
+        Mai nah Delhi jau ga nah Mumbai.
+            I will neither go to Delhi nor Mumbai.
+        Nah mai Delhi jau ga nah woh.
+            Neither I will go to Delhi nor he will.
+        Nah tum galat ho nah woh.
+            Neither you are wrong nor he is.
+        Nah mai ne us se pucha nah usne mujhe btaya.
+            Neithre I asked him nor he told me.
+
+So
+    -> Woh bhi
+
+    Practice
+        Tum ate ho, woh bhi ata hai.
+            You come. He comes too.
+            You come. So does he.
+                // We can use this syntax as well.
+                    // We start the sentence with "so" and helping verb + subject.
+                        // This is not interrogative but uses some kind of interrogative syntax.
+                        // Dont confuse between "?" and ".".
+                        // Use ".".
+            Mai ne tumse pucha. usne bhi.
+                I asked you. He asked too.
+                I asked you. So did he.
+            Woh yeh kar paya. Mai bhi.
+                He could do it. I could do it too.
+                He could do it. So could I.
+
+
+Not... Neither/Nor
+    -> Nhi... Woh bhi nhi
+    
+    Practice
+        Tum nhi atay, woh bhi nhi ata.
+            You don't come, he doesn't come either.
+            You don't come. Neither does he.
+                // Same syntax as "So" previously.
+            You don't come. Nor does he.
+        Woh nhi ja paya, nah mai ja paya.
+            He couldn't go. I couldn't go either.
+            He couldn't go. Neither could I.
+            He couldn't go. Nor could I.
+        Mai ne nhi pucha, usne bhi nhi pucha.
+            I didn't ask. he didn't ask either.
+            I didn't ask. Nor did he.
+            I didn't ask. Neither did he.
+
+Not only ... But also
+    -> Na keval yeh blke woh bhi/Yehi nhi blke or bhi.
+    
+    Practice
+        Woh na keval mera manager hai blke mera dost bhi hai.
+            He is not only the manager but also my friend.
+        Woh nah keval angrezi blke punjabi bhi bol skta hai.
+            He can speak not only English but also Punjabi.
+
+Lest ... Should.
+    -> Kahi aesa nah ho k/Kahi yeh nah ho k
+    After lest, we use "should" in next clause always.
+
+    Practice
+        Waha mat jao, yeh nah ho k woh tumhe dante.
+            Don't go there lest he should scold you.
+        Mai mehnat kru ga kahi aesa nah ho k fail ho jau.
+            I'll work hard lest I should fail.
+        Sahi pata likho kahi aesa nah ho k courier kahi or chala jaye.
+            Write the correct address lest the courier should go somewhere else.
+
+Otherwise / or else
+    -> Nhi to / wrna
+
+    Practice
+        Mujhe mehnat krni pre gi, wrna mai fail ho jau ga.
+            I'll have to work hard otherwise I'll fail.
+            I'll have to work hard or else I'll fail.
+        Sahi pata likho wrna courier kahi or ja skta hai.
+            Write the correct address otherwise the courier can go somewhere else.
+            Write the correct address or else the courier can go somewhere else.
+        Waha mt jao wrna woh tumhe dante ga.
+            Don't go there otherwise he will scold you.
+            Don't go there or else he will scold you.
+
+So that / So as to
+    -> Ta ke
+
+    Practice
+        Mai mehnat kru ga ta ke mai exam me pass ho sku.
+            I'll work hard so that I could pass the exam.
+            I'll work hard so as to be able to pass the exam.
+                // We have to use first form of verb after "to".
+                // We use "be able to" in that case.
+        Sahi pata likho ta ke courier kahi or na chala jaye.
+            Write the correct addres so that the courier doesn't go anywhere else.
+            Write the correct addres so as to let the courier not go anywhere else.
+                // Again, 1st form of verb after "to".
+        Yeh bhi kro ta ke tum bhi keh sko k tumne bhi kuch kiya hai.
+            Do it so that you could also say that you have done something.
+            Do it so as to be able to say that you have done something.
+
+Provided / But only when / But only if
+    -> Bashart yeh / Agar / (basically on that condition).
+
+    Rules:
+        1. The clause with "Provided/But only when/But only if" must be in the present indefinite tense even if the clause appears to be in the future.
+
+    Practice
+    Mai tumse milu ga, basharte tum mujh se wada kro k tum mujhe Ravi ke bare me nhi pucho gy.
+        I'll meet you, provided you promise me that you will not ask me about Ravi.
+        I'll meet you, but only when you promise me that you will not ask me about Ravi.
+        I'll meet you, but only if you promise me that you will not ask me about Ravi.
+    Woh aye ga, par shart yeh hai k Amit nhi aye ga.
+        He will come, provided Amit doesn't come.
+        He will come, but only when Amit doesn't come.
+        He will come, but only if Amit doesn't come.
+            // it is future clause but written in present indefinite tense syntax because of the rule.
+    Mai kitaab wapis kr du ga, par tab jab app mujh par penalty nah lgao to.
+        I'll return the book but only when you don't impose a penalty on me.
+
+
+
+
+    
+
+
+
+
+
+
+
+
+            
+
