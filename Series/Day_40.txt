@@ -435,6 +435,32 @@ Provided / But only when / But only if
     Mai kitaab wapis kr du ga, par tab jab app mujh par penalty nah lgao to.
         I'll return the book but only when you don't impose a penalty on me.
 
+That's what
+    -> Yehi to / Yehi baat to / Wohi to / Wohi baat to
+    (Talking about an issue or an non-living)
+    // we can use "this is what" as well.
+
+    Practice
+        Yehi baat to mai keh raha tha.
+            That's what I was saying.
+        Yehi to mere paas nhi hai.
+            That's what I don't have.
+        Wohi baat to mujhe confuse kr rhi hai.
+            That's what is confusing me.
+        Yehi to tum use samjha rhy thy.
+            That's what you were making him understand.
+        Yehi to mai dhund raha tha.
+            That's what I was looking for.
+        Yehi kitab to mai dhund raha tha.
+            That's the book I was looking for.
+                // we can use "the name" instead of "what" if we want to use the name of the subject.
+        Wohi to mai ne waha dekha.
+            That's what I saw there.
+        Wohi pen to mai ne waha dekha.
+            That's the pen I saw there.
+
+        
+
 
 
 
