@@ -459,7 +459,246 @@ That's what
         Wohi pen to mai ne waha dekha.
             That's the pen I saw there.
 
+That's whom
+    -> Yehi to, Wohi to, Isi ko, Usi ko
+    (Talking about a living being)
+
+    Practice
+        Mai ne usi ko danta tha.
+            That's whom I had scolded.
+        Hum sab madad ko ussi ko bula rhy thy.
+            That's whom we all were calling for help.
+        Ussi ko mai ne yeh kaam diya tha.
+            That's whom I had given this task.
+        Wohi to mai ne waha dekha.
+            That's whom I saw there.
+        Wohi ladka to mai ne waha dekha.
+            That's the boy I saw there.
+        Ussi ki baat mai kr raha tha.
+            That's whom I as walking about.
+        Ussi ladke ki baat mai kr raha tha.
+            That's the boy I as talking about.
+
+That's where
+    -> Yehin to, Wahin to, Isi jgah to, Ussi jgah to
+
+    Practice
+        Mai wahi to ja raha hu.
+            That's where I am going.
+        Woh ussi jgah to khara tha.
+            That's where he was standing.
+        Hum yehin to mily thy usdin.
+            That's where we had met that day.
+        Apne yehi to mere sath momos khaye thy.
+            That's where you had eaten momos with me.
+            That's where you had had momos with me.
+
+That's why
+    -> Issi liye, Tabhi to
+    
+    Practice
+        Tabhi to mai tumhe bta raha hu.
+            That's why I'm informing you.
+        Mai beemar tha, isi liye mai nhi aya.
+            I was unwell, that's why I didn't come.
+        Woh ghar par tha, isi liye mai ne call kra.
+            He was at home that's why I called.
+        Usne dhang se nhi parha, isi liye woh fail ho gya.
+            He didn't study well, that's why he failed.
+
+That's how
+    -> Isi tarh to, Isi trah se
+
+    Practice
+        Mai ne aese e to cricket khelna seekha.
+            That's how I learned to play cricket.
+        Mere papa isi trah computer seekhy.
+            That's who my father learned computer.
+        Usne isi trah mujh se baat ki, wrna mai us se kiu larta!
+            That's how he talked to me otherwise why would I fight him!
+            That's how he talked to me or else why would I fight him!
+
+That's when
+    -> Tabhi, Usi samay
+
+    Practice
+        Usi samay mai ne bhi naukri join ki.
+            That's when I also joined the job.
+        Usi saal mai ne bhi naukri join ki.
+            That's the year I also joined the job.
+                // when we know clear name. Of the time.
+        Jab papa aye, tabhi mera dost phnch gya.
+            When papa came, that's when my friend reached too.
+
+While + Verb + ing
+    -> Kisi kaam ko krte hue dusra kaam krne k bare me btana
+
+    Practice
+        Mai chlte hue parh raha hu.
+            I am studying while walking.
+        Woh tumhe baat krte hue dekh raha tha.
+            He was looking at you while talking to me.
+        Kia Ravi parhte hue khata hai?
+            Does Ravi eat while studying?
+        Hum khelte hue lar rhy thy.
+            We were fighting while playing.
+
+While / Whereas
+    -> Jab ke
+
+    Practice
+        Mere pas 10 rupe hain, jab ke tumhare pas 50.
+            I have Rs 10 whereas you have 50.
+            I have Rs 10 while you have 50.
+        Jab Ravi ki shadi hui, tab woh 25 saal ka tha, jab ke uski patni 19 saal ki.
+            When Ravi got married, he was 25 whereas his wife was 19.
+            When Ravi got married, he was 25 while his wife was 19.
+
+Still / Even now
+    -> Abhi bhi, Ajj bhi
+
+    Rules:
+        "Still" is used after the helping verb and just before the main verb, whereas "Even now" is used either at the beginning or at the end of the sentence.
+        "Even now" is generally used to express surprise or emphasis.
+
+    Practice
+        Mai abhi bhi parh raha hu.
+            I'm still studying.
+            I'm studying even now.
+            Even now, I'm studying.
+        Woh ajj bhi mujh se milta hai.
+            He still meets me.
+            He meets me even now.
+            Even now, he meets me.
+        Kia tumhara bhai abhi bhi khelta hai?
+            Does your brother still play?
+            Does your brother play even now?
+                // We can't use still in the start so we use it before the main verb as it is an interrogative sentence.
+
+Whether ... Or
+    -> Chahy...Ya
+    -> Ke...Ya
+
+    Practice
+        Chahy woh aye ya nah aye, mai to jau ga.
+            Whether he comes or not, I'll go.
+        Chahy usne kiya ya kisi or ne kiay, kul mila ke kaam ho gya.
+            Whether he did it or someone else did it, ultimately the work is done.
+        Chahy SJ khele ya nah khele, tumhe khelna chahiye.
+            Whether SJ plays or not, you should play.
+        Mai keh nhi skta k woh khele ga ya nhi.
+            I can't say whether he will play or not.
+        Mujhe nhi pta k woh waha jata hai ya kahi or.
+            I don't know whether he goes there or somewhere else.
+        Woh nhi janta tha k log ayen gyn bhi ya nhi.
+            He didn't know whether people would come or not.
+
+Hardly...when/No sooner had...than
+    -> Hi tha
+
+    Practice
+        Mai pohncha hi tha, ke woh dono aa gye.
+            I had hardly reached when they both came.
+            No sooner had I reached than they both came.
+            As soon as I reached, they both came.
+            The moment I reached, they both came.
+        Hum station pohnchy hi thy k train chl di.
+            We had hardly reached the station when the train left.
+            No sooner had we reached the station than the train left.
+            As soon as we reached the station, the train left.
+            The moment we reached the station, the train left.
+
+As yet/Yet (negative)
+Till now/By now/So far (positive + negative)
+    -> Abhi tk, ajj tk
+
+    Practice
+        Mai ne abhi tk use nhi dekha hai.
+            I have not seen him yet.
+            I have not seen him as yet.
+            I have not seen him till now.
+            I have not seen him by now.
+            I have not seen him so far.
+        Usne abhi tk homework poora nhi kiya.
+            He hasn't finished the homework yet.
+            He hasn't finished the homework as yet.
+            He hasn't finished the homework till now.
+            He hasn't finished the homework by now.
+            He hasn't finished the homework so far.
+        Ab tk ka score kia hai?
+            What's the score so far?
+            What's the score by now?
+            What's the score till now?
+        Abhi tk apke pass kia kia hai?
+            What all do you have so far?
+            What all do you have by now?
+            What all do you have till now?
+
+Till/Till the time (negative)
+    -> Jab tk
+Until/Unless (negative)
+    -> Jab tk nhi
+    
+    Rules:
+        "Jab tk" wala clause me bhale hi Future Tense me ho, fir bhi Present Indefinite Tense me anusar hi bnaya jaye ga.
         
+    Practice
+        Jab tk mai nhi ata, use call mt krna.
+            Until I come, don't call him.
+            Unless I come, don't call him.
+            Till I don't come, don't call him.
+            Till the time I don't come, don't call him.
+        Jab tk usne nhi pucha, hum chup rhy.
+            Until he asked, we kept quiet.
+            Unless he asked, we kept quiet.
+            Till he didn't ask, we kept quiet.
+            Till the time he didn't ask, we kept quiet.
+        Hum nhi khayen gyn, jab tk woh nhi aye ga.
+            We will not eat until he comes.
+            We'll not eat unless he comes.
+            We'll not eat till he doesn't come.
+            We'll not eat till the time he doesn't come.
+        Jab tk app han nhi kahen gyn, koi nhi hiley ga.
+            Until you say yes, nobody will move.
+            Unless you say yes, nobody will move.
+            Till you don't say yes, nobody will move.
+            Till the time you don't say yes, nobody will move.
+        Jab tk Amit mujhe anumati nhi de ga, mai chup rhu ga.
+            Until Amit allows me, I'll keep quiet.
+            Unless Amit allows me, I'll keep quiet.
+            Till Amit doesn't allows me, I'll keep quiet.
+            Till the time Amit doesn't allows me, I'll keep quiet.
+
+By the time (positive)
+    -> Jab tk
+As long as/While/Till/Till the time (positive)
+    -> Jab tk
+
+    Practice
+        Jab tk woh aye, mai ja chuka tha.
+            By the time he came, I had left.
+                // ulta ho gya
+        Jab tk app Angrezi seekho gy, duniya French seekh rhi ho gi.
+            By the time you learn English, the workd will be learning French.
+                // ulta ho gya
+        Jab tk app angrezi seekho gy, mai dance seekhu ga.
+            As long as you learn English, I'll learn dance.
+            While you learn English, I'll learn dance.
+                // jab tk (period), koi ulti baat nhi
+            Till you learn English, I'll learn dance.
+            Till the time you learn English, I'll learn dance.
+        Jab tk tum yaha ho, mai bhi ruku ga.
+            As long as you're here, I'll also stay.
+            While as you're here, I'll also stay.
+            Till as you're here, I'll also stay.
+            Till the time you're here, I'll also stay.
+        Jab tk tum mere sath ho, mai larta rhu ga.
+            As long as you are with me, I'll keep fighting.
+            While you're with me, I'll keep fighting.
+            Till you're with me, I'll keep fighting.
+            Till the time you're with me, I'll keep fighting.
+            
+
 
 
 
