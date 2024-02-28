@@ -1,0 +1,73 @@
+Conjunctions Some Details
+
+Use of "Even".
+
+// One word can change the context.
+
+Usne bhi mujhe btaya.
+    Even, he did not tell me.
+        // We put even at the start.
+Usne mujhe btaya bhi nhi.
+    He did not even tell me.
+        // Now we don't use "Even" at the start.
+        // But at the start of main verb.
+        // Because of the context is "tak".
+Hamne bhi yeh film nhi dekhi hai.
+    Even, we have not seen this movie.
+    Even, we have not watched this movie.
+Hamne yeh film dekhi bhi nhi hai.
+    We have not even seen this movie.
+Is bachy ne apna homework tak nhi kiya hai.
+    This child has not even done his homework.
+Usne mujhe call tak nhi kiya.
+    He didn't even call me.
+Un dono ne khana bhi nhi khaya tha.
+    They both had not even eaten the food.
+    They both had not even had the food.
+Apke pass bohot paisa hai, jab ke uske pas khaan bhi nhi hai.
+    You have a lot of money, whereas he doesn't even have food.
+    You have a lot of money, while he doesn't even have food.
+
+Ki
+    -> That
+    -> If
+    -> Whether
+    -> <WH>
+
+    Practice
+        Mai janta hu k app kal aao gy.
+            I know that you'll come tomorrow.
+        Mai nhi janta ki app kal ao gy.
+            I don't know if you'll come tomorrow.
+                // If we are unsure.
+        Mai nhi janta ke kal app ao ge ya nhi.
+            I don't know whether you'll come tomorrow or not.
+                // k nhi,, ya,, etc..
+                // Jab bhi nah hone ki possibility de di jaye.
+        Mai janta hu k kal kon ayega.
+            I know who will come tomorrow.
+                // when we have to use <WH>.
+                // Jab bhi "ki" ke baad wala sentence Interrogative trah ka ho to <WH>.
+        Mai janta hu k woh kia soch raha hai.
+            I know what he is thinking.
+            I know what is he thinking. -> wrong.
+                // because it is not an interrogative sentence.
+        Mai janta hu k app kia soch rahe hain.
+            I know what you're thinking.
+            I know what are you thinking. -> wrong.
+        Mai janta tha k woh kiay soch raha hai.
+            I knew, what he is thinking. -> wrong.
+                // because of past.
+            I knew, what he was thinking.
+                // past.
+        Mai janta tha k app kia soch rahe hain.
+            I knew, what you were thinking.
+        Usne mujhe sikhaya tha ki ladte kaise hain.
+            He had taught me how to fight.
+                // when we are the subject, we use "<WH> + to + thing".
+        Mai apse puch raha hu ke yeh krna kaise hai.
+            I'm asking you how to do it.
+        Mai apse puch raha hu k jana kaha hai.
+            I'm asking you where to go.
+        Mai ne tumhe pucha tk nhi k tum kaise ho.
+            I didn't even ask you how you were.
