@@ -1,0 +1,124 @@
+Conditional Sentences
+
+There are 4 types of Conditional Sentences.
+
+Type 0.
+    Agar yeh ho/hota hai, to woh hota hai.
+Type 1.
+    Agar yeh ho/kare/karenge, to woh hoga/ho skta hai/hona chahiye.
+Type 2.
+    Agar yeh hota, to woh ho jata/pata.
+    (possible)
+Type 3.
+    Agar yeh (hua) hota, to woh ho jata/pata/chuka hota/sakta tha.
+    (impossible)
+
+
+
+Type 0
+    Agar yeh ho/hota hai, to woh hota hai.
+    If/When + Present Simple, Present Simple.
+
+    Practice
+        Agar mai ziada khau to mera wazan barh jata hai.
+            If I eat too much, I gain weight.
+            When I eat too much, I gain weight.
+        Agar woh ziada khata hai to uska wazan barh jata hai.
+            If he eats too much, He gains weight.
+            When he eats too much, He gains weight.
+        Agar hmare pass samay hota hai to hum park me tehalne ke liye jate hain.
+            If we have time, we go to the park for a walk.
+            When we have time, we go to the park for a walk.
+        Agar app sach bolte hain to har koi apki sarahna krta hai.
+            If you speak the truth, everyone appreciates you.
+            When you speak the truth, everyone appreciates you.
+        Agr mujhe office phnchy me der ho jati hai to mere boss mujhe saza dete hain.
+            If I get late to reach the office, my boss punishes me.
+            If I am late to reach the office, my boss punishes me.
+            When I am late to reach the office, my boss punishes me.
+            When I am late to reach the office, my boss punishes me.
+
+Type 1
+    Agar yeh ho/kare/karenge, to woh hoga/ho skta hai/hona chahiye.
+    If + Present Simple, Will/May/Might/Could/Should.
+
+    Practice
+        Agar app pani ko garam kren gyn to woh uble ga.
+            If you heat the water, It will boil.
+            If you heat the water, then It will boil.
+        Agar app pani ko garam kren gyn to woh nhi uble ga.
+            If you heat the water, It will not boil.
+            If you heat the water, then It will not boil.
+        Agar woh pani ko garam kre ga to woh uble ga.
+            If he heats the water, it will boil.
+            If he heats the water, then it will boil.
+        Agar kal SJ 6 mar de to hum jeet jayn gyn.
+            Tomorrow, If SJ hits the 6, we'll win the match.
+            Tomorrow, If SJ hits the 6, then we'll win the match.
+        Agar app ganda pani piyo gy to app beemar par jao gy.
+            If you drink the dirty water, you'll fall sick.
+            If you drink the dirty water, then you'll fall sick.
+        Agar agle saal tk apke pas 10 lakh rupe ho jayen to apko car le leni chahiye.
+            If you have 10 lakh rupees by the next year, you should buy a car.
+            If you have 10 lakh rupees by the next year, then you should buy a car.
+
+Type 2
+    Agar yeh hota, to woh ho jata/pata.
+    If + Past Simple, Would/Could.
+    
+    Rule:
+        No matter what, we use "were" even with "I" in the subject.
+
+    Practice
+        Agar app English bolna seekh lete to apko yeh job mil jati.
+            If you learned to speak English, you would get this job.
+        Agar app English bolna seekh lete to apko yeh job mil pati.
+            If you learned to speak English, you could get this job.
+        Agar mere pas paise hote to mai apki madad kr deta.
+            If I had money, I would help you.
+        Agar mere pas paise hote to mai apki madad kr pata.
+            If I had money, I could help you.
+        Agar mere pas bhi ATM hota to mai bhi paise nikal pata.
+            If I also had an ATM, I could also withdraw money.
+        Agar mai manager hota, to mai is meeting me nhi ja pata.
+            If I was a manager. -> Wrong.
+            If I were the manager, I could not go to this meeting.
+        Agar mujhe uska address pta hota to mai use invitation bhejta.
+            If I knew his address, I would send him an invitation.
+            If I had his address, I would send him an invitation.
+
+
+Type 3
+    Agar yeh (hua) hota, to woh ho jata/pata/chuka hota/sakta tha.
+    If + Past Perfect, Would have/Could have.
+
+    // not possible event. Past of past stuff.
+
+    Practice
+        Agar mujhe uska address pta hota, to mai use invitation bhej deta.
+            If I had known his address, I would have sent him an invitation.
+            Had I known his address, I would have sent him an invitation.
+                // we can also use this syntax.
+        Agar apne mehnat ki hoti, to app exam pass kr skty thy.
+            If you had worked hard, you could have passed the exam.
+            Had you worked hard, you could have passed the exam.
+        Agar usne usdin mujhe call kra hota, to mai use sab kuch bta chuka hota.
+            If he had called me that day, I would have told him about this matter.
+            Had he called me that day, I would have told him about this matter.
+        Agar mere pas samay hota to mai apse milne aa skta tha.
+            If I had time, I could have come to meet you.
+            Had I had time, I could have come to meet you.
+                // when the contex is "pas hota" we remove "if" and add "had" but don't remove the main verb "had".
+
+
+Type 3 Practice Bonus
+    If I were the manager, I would not go to this meeting.
+        -> Type 2
+    If I had been the manager that day, I would not have gone to that meeting.
+        -> Type 3
+            // we use "had been" as past perfect BE verb.
+    Agar mai 1999 me pardhan mantri hota to mai yeh faisla nhi leta.
+        If I had been the Prime Minister in 1999, wouldn't have taken this decision.
+
+
+
