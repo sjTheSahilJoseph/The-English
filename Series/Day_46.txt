@@ -1,0 +1,127 @@
+Use of "Let" and Imperatives.
+
+What is let?
+    Let is a verb.
+    Forms are:
+        1st, 2nd  3rd, 4th
+        Let, Let, Let, Letting
+            // with 3rd person singuar, "lets".
+            // We can say 5th form.
+    Let means "Karne dena".
+        The things is that subject don't do the work, but "karne de ga".
+        That's why let is a Causative Verb.
+    With let, the main verb will be "let" but secondary verb will be "the work which other person will do".
+
+Examples:
+    Woh mujhe khelne deta hai.
+        He lets me play.
+    Woh mujhe khelne nhi deta hai.
+        He doesn't let me play.
+    Kia woh mujhe khelne deta hai?
+        Does he let me play?
+    Kia woh mujhe khelne nhi deta hai?
+        Does he not let me play?
+        Doesn't he let me play?
+    Woh mujhe khelne kiu deta hai?
+        Why does he let me play?
+    Woh mujhe khelne kab deta hai?
+        When does he let me play?
+    Ravi ne hme jane diya.
+        Ravi let us go.
+    Ravi ne hme jane nhi diya.
+        Ravi didn't let us go.
+        Ravi did not let us go.
+    Kia Ravi me hme jane diya?
+        Did Ravi let us go?
+    Kia Ravi ne hme jane nhi diya?
+        Did Ravi not let us go?
+        Didn't Ravi let us go?
+    Ravi ne hme jane kiu diya?
+        Why did Ravi let us go?
+    Tum use mujhse milne dete ho.
+        You let him meet me.
+    Tum use mujhse milne nhi dete.
+        You do not let him meet me.
+        You don't let him meet me.
+    Kia tum use mujhse milne dete ho?
+        Do you let him meet me?
+    Kia tum use mujhse milne nhi dete ho?
+        Do you not let him meet me?
+        Don't you let him meet me?
+    App mujhe bolne kiu nhi de rahe ho?
+        Why are you not lettting me speak?
+    Hme use yeh kaam krne dena chahiye.
+        We should let him do this work.
+    Tum us bachy ko class me ghusne de skty thy.
+        You could have let that kid enter the class.
+            // we don't use prepositon "in" after "Enter".
+    Mai tumhe football khelne jane de skta hu par keval sham ko.
+        I could/can/may/might let you go to play football, but only in the evening.
+            // we use "in the" after "evening, mornign, noon, afternoon, etc.."
+
+Imperative Sentences (Order/Request/Advice)
+    Imperative Sentences are where we order someone, or request, or advice.
+
+Structure:
+    Order:
+        First form + thing.
+            Go there.
+            Sit here.
+            Come to home.
+    Request:
+        Please + Order.
+            Please go there.
+            Please sit here.
+            Please come to home.
+    Negative of both:
+        Don't + both.
+            Please don't go there.
+            Don't go there.
+    Advice:
+        Same
+
+For Example:
+    Waha jao.
+        Go there.
+        Please go there.
+    Waha mat jao.
+        Don't go there.
+        Please don't go there.
+    Ravi se baat kro.
+        Talk to Ravi.
+            // With talk, we use "to".
+        Speak with Ravi.
+            // With speak, we use "with".
+    Ab use mat dantna.
+        Don't scold him now.
+    Neele pen se mat likho.
+        Don't write with a blue pen.
+    Yeh mat kro.
+        Don't do it.
+
+// Now let part.
+    Use jane do.
+        Let him go.
+    Use mat jane do.
+        Don't let him go.
+    // The interesting thing is that, we can make negative with imperative sentences using let with another method:
+        // We put not before secondary verb.
+        // Let him not go.
+        // Let him not speak.
+        // Let him not say anything.
+    Hme sochne do.
+        Let us think.
+        You let us think.
+    Use mat jane do.
+        You let him not go.
+    Ravi ko mat khelne do.
+        Don't let Ravi play.
+        Let Ravi not play.
+    Use hilne mat dena.
+        Don't let him move.
+        Let him not move.
+
+
+
+        
+
