@@ -1,0 +1,43 @@
+It Practice
+
+Waha phnchne me kitna samay lagta hai?
+    How long does it take to reach there?
+    How much time does it take to reach there?
+Waha phnchne me tumhe kitna samay lagta hai?
+    How long does it take you to reach there?
+    How much time does it take you to reach there?
+    How long do you take to reach there?
+    How much time do you take to reach there?
+Waha gye hue mujhe kayi din ho gye thy.
+    It had been many days to me having gone there.
+    It had been many days to me having been there.
+    It had been many days to me since I went there.
+Agar 10 baj kar 1 minute bhi hua to chuuti mani jaye gi.
+    If it is even 1 minute past 10, it will be considered a holiday.
+    If it is even 1 minute after 10, it will be considered a holiday.
+    If it is even 1 minute more than 10, it will be considered a holiday.
+Movie dekhte hue mujhe 15 minute ho gye hain.
+    It has been 15 minutes to me watching a movie.
+    I have been watching a movie for 15 minutes.
+Ajj ooley parne thy, par nhi pare.
+    It had to hail today, but it didn't.
+Usdin poore desh me chutti thi.
+    It was a holiday that day across the country.
+    It was a holiday that day in the whole country.
+    That day was a holiday across the country. -> not good.
+Yeh shirt kareeb 20 din me sile gi.
+    It will take about 20 days to stitch this shirt.
+    This shirt will be stitched in about 20 days.
+Subah se barish ho rhi thi.
+    It had been raining since morning.
+3 bajne me 7 minute baki hain.
+    It is 7 minutes left to 3.
+    It is 7 minutes left to 3 o'clock.
+    It's is 7 minutes remaining to 3.
+    It's is 7 minutes remaining to 3 o'clock.
+
+
+
+
+
+
