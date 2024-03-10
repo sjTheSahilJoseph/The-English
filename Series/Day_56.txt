@@ -1,0 +1,110 @@
+Common Doubts
+
+Mai ghar ja raha hu.
+    I'm going home. -> correct
+        // We dont' use "to" with home.
+    I'm going to home. -> wrong
+Mai uske ghar ja raha hu.
+    I'm going his home. -> wrong
+    I'm going to his home. -> correct
+        // because of the pronoun or other word "his".
+Mai school ja raha hu.
+    I'm going school. -> Wrong
+        // only applies with "home" in this case.
+    I'm going to school. -> Correct
+Mai Ravi ke school ja raha hu.
+    I'm going Ravi's school. -> Wrong
+    I'm going to Ravi's school. -> Correct
+Mai ghar aa raha hu.
+    I'm coming home. -> correct
+        // We dont' use "to" with home.
+    I'm coming to home. -> wrong
+Mai uske ghar aa raha hu.
+    I'm coming his home. -> wrong
+    I'm coming to his home. -> correct
+        // because of the pronoun or other word "his".
+Mai school aa raha hu.
+    I'm coming school. -> Wrong
+        // only applies with "home" in this case.
+    I'm coming to school. -> Correct
+Mai Ravi ke school aa raha hu.
+    I'm coming Ravi's school. -> Wrong
+    I'm coming to Ravi's school. -> Correct
+
+
+Mere ghar ki khidki tooti hui hai.
+    The window of my house is broken.
+    My house's window is broken.
+Mere ghar ki khidki todi gyi hai.
+    The window of my house has been broken.
+    My house's window has been broken.
+
+
+Woh bhi sunday ko aye ga.
+    He will also come on Sunday.
+    Even, he will come on Sunday.
+    He will come on Sunday either. -> wrong.
+        // because either can only be used in negative senteces.
+Woh Sunday ko bhi ayega.
+    He will come on Sunday too.
+    He will come on Sunday as well.
+
+
+Apko kisne btaya?
+    Who told you? -> Correct
+    Who did tell you? -> Wrong
+        // We don't use did here.
+    Whom did tell you? -> Wrong
+        // We don't use did here.
+    Whom told you? -> Wrong for that case
+    Who did you tell? -> wrong
+        // We don't use did here.
+    Whom did you tell? -> wrong
+        // We don't use did here.
+Apne kise bataya?
+    Whom did you tell? -> Correct
+    {<Wh> + did + Subject + Verb 1st form + Object?}
+
+Is glass me paani hai.
+    This glass has water. -> Correct
+    There is water in this glass. -> Correct
+    Water is there in this glass. -> Correct
+Apka bhai office me hai.
+    Your brother has office. -> Wrong
+    There is office in your brother. -> Wrong
+    Your brother is in the office. -> Correct
+    Your brother is there in the office. -> Correct
+Is class me 3 bache hain. -> Correct
+    This class has three students. -> Correct
+    There are three students in this class. -> Correct
+    Three students are there in this class. -> Correct
+Woh is waqt school me hai.
+    He is in school right now. -> Correct
+    He is there in school right now. -> Correct
+
+Uske 2 bhai they.
+    He had two brothers. -> Correct
+    There were two brothers of his. -> Correct
+    There were two brothers of hers. -> Correct
+    There were two btorhers of her. -> Wrong.
+    There were two brothers of him. -> Wrong
+Yeh project kon kar raha hai?
+    Who is doing this project? -> Correct
+    Who are doing this project? -> Correct
+    Who all are doing this project? -> correct
+Ghar kon jata hai?
+    Who goes home? -> Correct
+    Who go home? -> Correct
+    Who all go home? -> Correct
+Yeh Rahul ka mobile hai.
+    This is Rahul's mobile. -> Correct
+    This is the mobile of Rahul. -> Correct
+
+
+
+
+
+
+
+
+
