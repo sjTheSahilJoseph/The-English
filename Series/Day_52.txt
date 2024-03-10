@@ -1,0 +1,180 @@
+Active & Passive Voice
+
+Active Voice is basically where we know the subject.
+Passive Voice is where we don't know who is the subject.
+
+For Example:
+    Salesman ne ajj 4 kitaben bechin.
+        -> Active Voice
+    Ajj 4 kitaben bikin.
+        -> Passive Voice
+    Mujhe yeh baat btai gyi hai.
+        -> Passive Voice
+    Yeh ghar 30 saal pehle bnaya gya tha.
+        -> Passive Voice
+    Use sirf 2 din ka samay diya gya hai.
+        -> Passive Voice
+    Hme roz khali hath ghar bhej diya jata hai.
+        -> Passive Voice
+    Yeh mobile thik kiya ja skta hai.
+        -> Passive Voice
+
+Converting Active to Passive
+    Boby ne Rahul ko dekha hai.
+        Rahul ko boby ke dwara dekha gya hai.
+    App yeh car khareed skte ho.
+        Yeh car apke dwara khareedi ja skti hai.
+    Woh Ravi ko jane de ga.
+        Ravi ko uske dwara jane diya jaye ga.
+    Mechenic ko mobile repair krna hai.
+        Mobile mechanic dawara repair kiya jana hai.
+
+Tenses, Active Voice, Passive Voice:
+    Present Indefinite:
+        Mai yaha cricket khelta hu.
+        Yaha cricket khela jata hai.
+    Present Continuous:
+        Mai yaha cricket khel raha hu.
+        Yaha cricket khela ja raha hai.
+    etc...
+
+// Note:
+// We always use Verb 3rd form in Passive Voice.
+
+Passive of Tenses:
+    Present Indefinite
+        Active Voice:
+            Do, Does
+        Passive Voice:
+            Is,Am,Are
+    Present Continuous
+        Active Voice:
+            Is,Am,Are
+        Passive Voice:
+            Is,Am,Are + Being
+    Present Perfect
+        Active Voice:
+            Has, Have
+        Passive Voice:
+            Has been, Have been
+    Present Perfect Continuous
+        Active Voice:
+            Has been, have been
+        Passive Voice:
+            Has been, Have been + being
+            Is, Am, Are + being
+    Past Indefinite
+        Active Voice:
+            Did
+        Passive Voice:
+            Was,Were
+    Past Continuous
+        Active Voice:
+            Was,Were
+        Passive Voice:
+            Was,Were+being
+    Past Perfect
+        Active Voice:
+            Had
+        Passive Voice:
+            Had been
+    Past Perfect Continuous
+        Active Voice:
+            Had been
+        Passive Voice:
+            Had been + being
+            Was,Were + being
+    Future Indefinite
+        Active Voice:
+            Will
+        Passive Voice:
+            Will be
+    Future Continuous
+        Active Voice:
+            Will be
+        Passive Voice:
+            Will be + being
+            Will be/Will be + being
+    Future Perfect
+        Active Voice:
+            Will have
+        Passive Voice:
+            Will have been
+    Future Perfect Continuous
+        Active Voice:
+            Will have been
+        Passive Voice:
+            Will have been + being
+            Will be/Will be + being
+
+
+Modal Verbs:
+    Can, Could, May, Might, Should, Must, Would, Shall
+    Has to, Have to, Had to, Will have to
+    could have to, May have to, Might have to
+    Should have to, Would have to, Used to
+    Could have had to, May have had to, Might have had to, Should have had to, Would have had to
+        // Be (Verb 3rd Form)
+    Should have, Could have, May have, Might have
+    Should have had, Must have had, Would have had
+    Could have had, May have had, Might have had
+        // Been (Verb 3rd form)
+
+Example:
+    Rahul ko market me dekha gya hai.
+        Rahul has been seen in the market.
+    Ajj keval 4 kitaben bikin.
+        Only 4 books were sold today.
+    Mujhe yeh baat btai gyi hai.
+        I have been told about this matter.
+    Yeh ghar 30 saal pehly bnaya gya tha.
+        This house had been built 30 years ago.
+    Use sirf 2 din diye jayen gyn.
+        He will be given only 2 days.
+    Hme roz khali hath ghar bhej diya jata hai.
+        We are sent home empty handed daily.
+    Yeh mobile theek kiya ja skta hai.
+        This mobile can be repaired.
+    Hum se yeh prashn kiu pucha ja raha hai?
+        Why are we being asked this question?
+    Mujhe khelne diya gya.
+        I was let play.
+    Yeh car khareedi ja skti hai.
+        This car can/could/may/might be purchased.
+    Ravi ko jane diya jaye ga.
+        Ravi will be let go.
+    Yeh mobile repair hona hai.
+        This mobile is/has to be repaired.
+    Ravi ko yeh prashn pucha ja raha hai.
+        Ravi is being asked this question.
+    Ravi ko subhah se yeh prashn pucha ja raha hai.
+        Ravi has been being asked this question since morning.
+        Ravi is being asked this question since morning.
+    Hme january se angrezi sikhayi ja rhi thi.
+        We had been being taught English since January.
+        We were being taught English since January.
+    Sham ko yaha cricket khela ja raha ho ga.
+        Cricket will be being played here in the evening.
+        Cricket will be played here in the evening.
+
+Causative Verb and Passive Active Voice:
+// When we make passive voice of causative verb, we add "to" with every causative verb.
+// And also, we don't use "get" with causative verb + passive.
+// We only use "make".
+
+Practice:
+    Tum mujhe hansa rahe ho.
+        You are making me laugh.
+        You are getting me to laugh.
+    Mujhe hansaya ja raha hai.
+        I am being made to laugh.
+    Usne mujhe yeh concept samjhaya.
+        He made me understand this concept.
+        He got me to understand this concept.
+    Mujhe yeh concept samjhaya gya.
+        I was made to understand this concept.
+
+
+
+
+
