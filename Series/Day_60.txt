@@ -1,0 +1,84 @@
+Happen, Happen to be, Happen to have
+
+Happen
+    -> Hona
+
+Kia hua?
+    What happend?
+Tumhe kia hua?
+    What happend to you?
+Yaha kia kia hua?
+    What all happend here?
+Jo hota hai achy ke liye hota hai.
+    Whatever happens, happens for good.
+Yeh har kisi ke sath hota hai.
+    It happens with everyone.
+
+Happen (s, ed) to + Verb 1st form -> Indefinite Tense
+Happen (s, ed) to be + Object -> Simple Sentence - Category 1
+Happen (s, ed) to be + Verb 1st form + ing -> Continuous Tense
+Happen (s, ed) to have + Object -> Simple Sentence - Category 2
+Happen (s, ed) to have + Verb 3rd form -> Perfect Tence
+
+// If present - s (tense rule)
+// If past - ed (tense rule)
+
+Ittegaq se mai school jate waqt roz use milta hu.
+    Coincidentally, I meet him every day while going to school.
+    I happen to meet him every day while going to school.
+Sayong se woh school jate waqt roz mujh se milta hai.
+    Coincidentally, he meets me every day while going to school.
+    He happens to meet me every day while going to school.
+
+Sayong dekhiye, mai school jate waqt roz us se milta tha.
+    Coincidentally, I met him every day while going to school.
+    Coincidentally, I would meet him every day while going to school.
+    Coincidentally, I used to meet him every day while going to school.
+    I happened to met him every day while going to school.
+    I would happened to meet him every day while going to school.
+Qismat se woh har match jeet jata hai.
+    Luckily, he wins every match.
+    He happens to win every match.
+    Luckily he happens to win every match.
+Uska durbhagya hai ki woh har match har jata hai.
+    Unfortunately, he loses every match.
+    He happens to lose every match.
+Jab bhi mai use call krta hu, saynog ki baat hai ke woh ghar par hota hai.
+    Whenever I call him, coincidentally, he is at home.
+    Whenever I call him, he happens to be at home.
+Mai jab bhi use call krta hu, sanyog ki bat hai ki woh khel raha hota hai.
+    Whenever I call him, coincidentally, he is playing.
+    Whenever I call him, he happens to be playing.
+Jab bhi mai use call krta hu, qismat se tab uske pas apna laptop hota hai.
+    Whenever I call him, luckily, he has his laptop then.
+    Whenever I call him, he happens to have his laptop then.
+Mai jab bhi use call krta hu, badqismati se woh office se nikal chuka hota hai.
+    Whenever I call him, unfortunately, he has left the office.
+    Whenever I call him, he happens to have left the office.
+Mai jab bhi use call krta tha, badqismati se woh office se nikal chuka hota tha.
+    Whenever I call him, unfortunately, he had left the office.
+    Whenever I call him, he happened to have left the office.
+Qismat se woh ghar phnch chuka tha, warna woh mushkil me par jata.
+    Luckily, he had reached home; otherwise, he would have been in trouble.
+    He happened to have reached home; otherwise, he would have been in trouble.
+Qismat se hum khel nhi rhy thy, wrna hum bht mushkil me par jate.
+    Luckily, we were not playing; otherwise, we would have been in huge trouble.
+    We happened to be not playing; otherwise, we would have been in huge trouble.
+
+
+// Why we're replacing these words by happen.
+// Because there is a word "hap" which means "coincident, sayong, qismat, luckily, etc...".
+// So we use this.
+
+Badqismati se usdin uske pas paise nhi thy.
+    Unfortunately, he had no money that day.
+    He happened to have no money that day.
+Badqismati se ajj uske pas paise nhi hain.
+    Unfortunately, he has no money today.
+    He happens to have no money today.
+Mai itefaq se usdin ghar pe tha, or woh tapak gya.
+    Coincidentally, I was at home that day and he dropped in.
+    I happened to be at home that day and he dropped in.
+
+
+
