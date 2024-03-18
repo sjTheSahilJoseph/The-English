@@ -307,6 +307,48 @@ Up to {Tak}
 
 
 
+Ke beech me
+-> Between {Two}
+-> Among / Amongst {More than two}
+-> Amid / Amidst {Condition/Situation/State of mind}
+
+Between {Two}
+
+    She is sitting between Yash and Vaibhav.
+    The pen is lying between two computers.
+    There are many boys between those two.
+    There is no dispute between us.
+
+Among/Amongst {More than 2}
+
+    She is sitting among Yash, Aman, and Vaibhav.
+    She is sitting amongst Yash, Aman, and Vaibhav.
+    I was among fifty people.
+    I was amongst fifty people.
+    There should be no misunderstanding amongst the friends.
+    There should be no misunderstanding among the friends.
+    The food was divided equally amongst all.
+    The food was divided equally among all.
+
+Amid/Amidst {Condition/Situtaion/State of Mind}
+
+    I was badly stuck amid/amidst the traffic.
+    I lost my phone amid/amidst the chaos in the party.
+    Amid/Amidst the tension of the exam, I forgot that I had to come to your house today.
+    Amid/Amidst laughter and jokes, I suddenly remembered my homework.
+
+
+Practice
+    I have spent 5 years ___ those people.
+        -> among/amongst
+    ___ the excitement of the party, I forgot all my troubles.
+        -> amid/amidst
+    He saw Kolhi standing ___ some cricketers.
+        -> among/amongst
+    There is no conversation ___ them. {2}
+        -> between
+    ___ this confusion, all my time was wasted.
+        -> Amid/Amidst
 
 
 
