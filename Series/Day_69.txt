@@ -192,11 +192,118 @@ Out of {Se}
     I have done this course out of my own interest.
 
 
+Till/Until {Tak}
+-> Point in time tak, number
+
+By {Tak}
+-> Point in time tak
+
+Up to {Tak}
+-> Point in time tak
+
+Point in time {tak}
+
+-> Up to
+
+-> Till/Until
+// Till/Until are same.
+// But only as a preposition.
+// As a conjunction, till is positive and until is negative.
+
+-> By
 
 
+// If the verb is telling before point in time.
+    // Then use:
+    Up to
+    Till / Until
+
+// And if the verb is telling about exact point in time.
+    // Then use:
+    By
+
+For Example:
+    Woh raat ke 10 bje tk TV dekh rhi thi.
+        She was watching TV till 10 pm.
+        She was watching TV until 10 pm.
+        She was watcing TV up to 10 pm.
+
+    Usne raat ke 10 bje tk, TV band kr diya tha.
+        She had switched off the TV by 10 pm.
+
+    Mai sham tak parhta raha.
+        I kept studying till the evening.
+        I kept studying until the evening.
+        I kept studying up to the evening.
+
+    Mai ne sham tk homework nipta diya.
+        I finished the homework by the evening.
+
+    25 ki umar tak mai parh raha tha.
+        I was studying till the age of 25.
+        I was studying until the age of 25.
+        I was studying up to the age of 25.
+
+    25 ki umar tk mai ne parhai khtm kr li thi.
+        I had finished my studies by the age of 25.
+        
+
+    Mai 4 bje tk office me ruku ga.
+        I will stay in the office till/until/up to 4 o'clock.
+
+    Mai 4 bje tk office se niklu ga.
+        I will leave the office by 4 o'clock.
+
+    Mai 2000 tak Delhi me raha.
+        I lived in Delhi till 2000.
+        I lived in Delhi until 2000.
+        I lived in Delhi up to 2000.
+
+    Mai 2000 tk Delhi se nikal chuka tha.
+        I had left Delhi by 2000.
 
 
+Up to {Tak}
+-> Place
+-> Distance
+-> Number
+    // We can use till/until for numbers as well.
+-> Level
+-> As many as / As much as
+    As many as -> Countable
+    As much as -> Uncountable
+-> Duration of time
 
+    I just went up to Dehradun.
+    We will walk only up to SJ's house.
+    It was a deserted road up to two kilometers.
+    I can run up to five kilometres every day.
+    Recite the table up to 25.
+    Play all the stages up to 10 from here.
+    Recite the table till/until 25.
+    Play all the stages till/until 10 from here.
+    The mud was up to his knees and up to my stomach.
+    The water had reached up to his neck.
+    I can meet as many as ten people in a day.
+        // valid
+    I can meet at most ten people in a day.
+        // valid
+    I can meet up to ten people in a day.
+    This hall can accommodate as many as 200 people.
+    This hall can accommodate at most 200 people.
+    This hall can accommodate up to 200 people.
+    He could arrange as much as one lakh only.
+    He could arrange up to one lakh only.
+    I can eat up to this much, not more than this.
+    Anybody can do up to that much, it's not a big deal.
+    He will stay in the office for 4 hours.
+    He will stay in the office only up to 4 hours.
+    I was in Delhi for 4 months, I know almost all the routes.
+    I was in Delhi up to 4 months, but I don't remember any route.
+
+    // ### mostly
+    // We use "tak" in the sense of limit.
+    // We use "for" in the sense of "se".
 
 
 
