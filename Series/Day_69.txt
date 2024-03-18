@@ -350,6 +350,73 @@ Practice
     ___ this confusion, all my time was wasted.
         -> Amid/Amidst
 
+Neechy
+-> Under
+    -> Not fully covered
+    -> In age
+    -> In weight
+-> Beneath / Underneath
+    -> Fully covered
+-> Below
+    -> In a list, In a building, In level
+    -> In parts of body, Abstract
+    -> In length/width/height
+-> Down
+    -> To express downward trend
+
+
+Under {Not fully covered}
+
+    My sister is sitting under the Banyan tree.
+    Ravi is hidden/hiding under the bed.
+    There is a mouse under the table.
+    You work under me.
+        -> This is an exception.
+
+Under {In age/ In weight}
+
+    He has two children under the age of 10.
+    You are under 18; that's why, you're not allowed to drive.
+    The weight of this laptop is under 1 kg.
+    The weight of this laptop is less than 1 kg.
+    If they all are under 60kgs, then I've no problem.
+    If they all are less than 60kgs, then I've no problem.
+
+Beneath/Underneath {Fully covered}
+
+    That photograph is underneath/beneath my book.
+    My laptop was underneath/beneath the pillow.
+    There is something underneath/beneath that lid.
+    What is there underneath/beneath this carpet?
+
+Below {In a list, In a building, In level, In parts of body, Abstract, In length, Width, Height}
+
+    My name is below your name in the list.
+    My house is below your house.
+    His mouth was below water but nose was above.
+    The eyes are below the forehead.
+    Your performance was below expectations.
+    This work is below my dignity.
+    His name is below my name in the merit list.
+    The lion's tail was below water but his eyes were above.
+    The length of this stick is below 4 feet.
+    The width of that book was below seven inches.
+    Hi's below 6 feet.
+
+Down {To express downward trend}
+
+    The prices are going down.
+    The water level is going down.
+    The prices of vegetables are coming down.
+
+    // The opposite of "down" is "up".
+
+
+
+
+    
+
+
 
 
 
