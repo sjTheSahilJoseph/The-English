@@ -411,6 +411,43 @@ Down {To express downward trend}
 
     // The opposite of "down" is "up".
 
+Uper
+-> Over/Above
+    -> {No touch}
+    -> {In Age}
+    -> {In any measurement}
+-> On
+    -> {Touch}
+-> Above
+    -> In a list
+    -> In a building
+    -> In level
+    -> In parts of body
+    -> ABstract
+-> Up
+    -> To express upward direction
+-> Over
+    -> To move from the higher position
+    -> More than, To cover
+
+
+If touch {
+    On
+}
+If no touch {
+    Thk uper -> Over
+    Thk neechy -> Under
+    Aju baju uper -> Above
+    Aju baju neechy -> Below
+}
+
+"
+"
+"
+vs
+" 
+  "
+   "
 
 
 
