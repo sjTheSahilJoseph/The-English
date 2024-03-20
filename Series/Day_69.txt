@@ -450,17 +450,119 @@ vs
    "
 
 
+Over/Above
+-> To Touch
+-> In Age
+-> In any measurement
+
+    There is a bridge over the river.
+    The Howrah Bridge is over the Hooghly River.
+    The helicopter is flying over/above my house.
+    THere is a clock on the wall over/above the table.
+
+    He has two children over/above the age of 10.
+    You are over/above 18, so you are allowd to drive.
+    People over/above 60 years will get corona vaccine today.
+
+    He is over/above 6 feet.
+    The weights of this laptop is over/above 1 kg.
+    The length of this stick is over/above 4 feet.
+
+// We can use "more than" as well in the case of measurement.
+    He is more than 6 feet.
+    The weights of this laptop is more than 1 kg.
+    The length of this stick is more than 4 feet.
 
     
+Over
+-> To move from the higher position, More than, To cover
+
+    I jumped over the rope.
+    That bell went over my head.
+    An ant passed over the lion but the lion remained calm.
+
+    He has been here for over 2 years.
+    There were over 50 people standing there.
+
+    Put a hand over your mouth when you cough.
+    Put some cloth over this plate.
+
+Above
+-> In a list, In a building, In level, In parts of body, Abstract
+
+    My name is above your name in the list.
+    My flat is above your flat.
+    My city is 2000 meter above the sea level.
+    The stomach is the part above the waist.
+
+// We can also use "more than".
+
+    He says, nothing is above our desire.
+    No achievement of mine is above my family.
+    Is there anything above knowledge?
+    Being happy is above having money.
+
+On
+-> Touch
+
+    The pen is kept on the table.
+    Rohit is sitting on the Elephant.
+    Candles are lying on the dining table.
+    Don't put water on yourself.
+
+Up
+-> To express upward direction
+
+// We can use "increasing" also.
+
+    The prices are going up.
+    THe baloon is going up.
+    The prices of vegetables are going up.
 
 
+On
+-> Touch = Upon
+-> Day, Date, Occasion
+-> On the right, On the left
+
+    The pen is kept upon the table.
+    Rogit is sitting upon the Elephant.
+    Candles are lying upon the dining table.
+    Don't put water upon yourself.
+
+    // When using upon, make sure the level of that thing is higher.
+
+    He will come on Monday.
+    He came on 20th Dec 2023.
+    He came on the 20th of Dec 2023.
+    He gave me a present on my birthday.
+    He congratulated Ravi on his marriage.
+
+    I was standing on the right.
+    She was standing on the left.
+    He told me to stand on the left.
+    Sit on my right.
+
+Onto
+-> Movement & then touch
+
+    Nikhil jumped onto the bed.
+    I jumped onto the horse.
+    The broom came onto the table by itself.
+    I put my hand onto the chair.
 
 
-
-
-
-
-
+Miscellaneous Examples
+    
+    Once ... a time. -> This is an idiom.
+        -> upon
+    She was applying cream ... her face.
+        -> on, upon, onto
+    I have kept the pen ... the table.
+        -> on, upon, onto
+    Keep ... the left.
+        -> to
+            // in this particular case.
 
 
 
