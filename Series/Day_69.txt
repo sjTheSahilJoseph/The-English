@@ -565,6 +565,105 @@ Miscellaneous Examples
             // in this particular case.
 
 
+In, At, On
+-> Par
+-> Me
+
+SJ works ... that shop.
+    -> Ke Andr (Jgah ke andr)
+    -> In
+SJ is standing ... that shop.
+    -> Location par khara hai.
+    -> Aas pas
+    -> At
+SJ is standing ... the terrace of that shop.
+    -> Uper Sense
+    -> On/Upon
+
+In & At
+-> Kisi jgah pe,me,par
+
+    He is hosting a party in a five star hotel
+    He was standing at the bus stop.
+    She was waiting for me at the metro.
+    She was waiting for me in the metro train.
+    SJ works in a factory.
+    I'll be at the airport to welcome you.
+    Let's plan a dinner tonight at home.
+        // we use "at" with home.
+    He is sitting on the chair.
+    He is sitting in the chair.
+
+In
+-> Andr
+-> Mosam me
+-> Kisi country, continent, city wgera me.
+-> Saal me, month me, din me, ghante me, minute me, second me, etc..
+-> Subha, sham, dupehr
+At
+-> Par
+-> Time par (exact)
+-> Raat
+-> Price btane ke liye
+-> Kisi festival me, ya par
+On
+-> Uper
+-> Kisi festival me, ya par
+    
+
+I dind't find any song in this mobile.
+We have read it in a book.
+I didn't find any game in your laptop.
+The ball is in your court now.
+
+We'll meet in the summer.
+There are many insects in the rainy season.
+In autumn, the leaves of the trees fall.
+In spring, the weather becomes slightly warm.
+We'll meet in winter.
+
+I live in Delhi.
+He will study in America.
+India is located in Asia.
+I will study engineering in Europe.
+
+He will come home in 2023.
+I left the company in June 2033.
+We will stay here in December.
+I will leave for the office in half an hour.
+
+I was born at 2 o'clock.
+He will come home at 10 AM.
+
+He will go to play in the morning.
+I was there in the after noon.
+We are comming in the evening.
+We study only at night.
+
+I'm buying potatoes at Rs 30 a kg.
+The vegetable is being sold at Rs.30 per 5kg.
+
+I'll come home at Holi.
+He'll come home at Christmas.
+He brusts a lot of crackers at Diwali.
+
+I'll come home on Holi.
+He'll come home on Christmas.
+He brusts a lot of crackers on Diwali.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
