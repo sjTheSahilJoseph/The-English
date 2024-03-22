@@ -914,8 +914,39 @@ I'm going towards your school.
 SJ is turning towards the shop.
 I'm going towards SJ's house.
 
+About
+-> Bare me
+
+He is talking about me.
+I want to know about science.
+His article is about SJ.
+
+Of
+-> Ka
+
+He is the son of my brother.
+It's of no use to me.
+He is the President of India.
 
 
+Inside
+-> Andar
+Outside
+-> Bahar
+
+He was inside the house, not outside.
+The hostel is inside the college.
+
+He was standing outside the office.
+He was outside the school premises.
+
+Into
+-> To go inside
+
+Pour the coffee into the cup.
+He is going into the room.
+She dived into the river.
+Try to go into the depth of a topic.
 
 
 
