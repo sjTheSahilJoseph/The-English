@@ -749,6 +749,138 @@ Which other vegetables do you like besides this one?
 Besides this business, he has many other sources of earning.
 Do you have any other work besides going there?
 
+Agay, Paar, Pare
+-> Ahead of
+    -> Kisi creature ke agay
+-> Ahead of/Beyond
+    -> Place/Thing ke agay
+-> Beyond
+    -> Abstract cheez ke agay
+
+
+SJ is standing ahead of me.
+Delhi is ahead of Meerut.
+Delhi is beyond Meerut.
+This is beyond my imagination.
+There is a tree ahead of that gate.
+There is a tree beyond that gate.
+
+
+Beyond
+-> Kisi cheez, Kisi abstract ke pare, Kisi jgah ke agay
+
+What is beyond this wall?
+Don't go beyond this line.
+There is a temple beyond this mountain.
+Have you ever gone beyond those hills?
+
+There is something beyond this universe.
+This is beyond science.
+This is beyond my react.
+This is not just a coincidence, it is a sign of danger beyond that.
+
+Across
+-> Cross kar ke dusri traf
+
+Can you swim across the river?
+There was a man standing across the road.
+My shop is across the road.
+There is a village across the river.
+
+Ahead of
+-> Creature/Place/Thing ke agay
+
+No one is standing ahead of him.
+I wanna stay ahead of him in business.
+You have your whole life ahead of you.
+You have your whole life ahead of you.
+
+Behind
+-> Peechy
+
+I was behind SJ in the queue.
+There is someone behind you.
+He is behind all this.
+
+Bagal me
+-> Nexy to, Adjacent, Beside, By
+
+// Beside is not Besides
+// Beside means different than besides
+
+He was standing next to me.
+Why are the books kept next to the slippers?
+The book is kept next to the laptop.
+SJ is siting besides of JS.
+
+He was standing adjacent/beside/by me.
+Why are the books kept adjacent/beside/by the slippers?
+The book is kept adjacent/beside/by the laptop.
+SJ is siting besides of JS.
+
+
+Against
+-> Virud/Khilaf
+
+Why is SJ against JS?
+The minister conspired against the king.
+I'm not at all against vegetarians, but I am not a vegetarian.
+
+
+Opposite
+-> Samney dusri traf
+-> Ulat
+
+My house is just opposite to your shop.
+My factory is opposite to that hospital.
+Your thinking is opposite to the whole world.
+SJ's thinking is completely opposite to mine.
+
+Alongside
+-> Side by side
+Along with
+-> Together with = with
+
+
+You'll see ten red-colored houses alongside the road.
+There is a road alongside the river.
+A truck is parked alongside the road.
+Park your car alongside my bike.
+
+You'll get a charger free along with this mobile.
+He has never gone to Delhi along with me.
+If you buy this house you'll get this garden along with it.
+
+Within
+-> Withing a time peiod
+
+I'll come within 5 minutes.
+He has come back within just 2 days.
+This work will have been finished within a few hours.
+Its result will be announced within a few weeks.
+
+
+Without
+-> Kisi cheez ke bina
+
+I'm nothing without you.
+The existence of the earth is not possible without the sun.
+We cannot run a house without money.
+Where will the money come from without a job?
+
+Around
+-> Charon Taraf
+
+There were many people around me, yet I was lonely.
+The Earth is revolving around the Sun.
+Form a circle around me.
+There is greenery around Abhishek's house.
+
+
+
+
+
+
 
 
 
