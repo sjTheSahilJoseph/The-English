@@ -653,16 +653,76 @@ He brusts a lot of crackers on Diwali.
 
 
 
+Pehly
+-> Present se pehly
+    -> Ago/Back/Earlier
+-> Past/Future se pehly
+    -> Before/Earlier than
+
+Baad
+-> Duration ke bad
+    -> After/Later
+-> Point in time ke bad
+    -> After
+
+Pehly
+-> Present
+-> Ago/Back/Earlier
+
+I met SJ 2 days ago/back/earlier.
+Just a week ago/back/earlier, he had visited my house.
+He was calling me 5 minutes ago/back/earlier.
+Long ago/back/earlier, there used to be a forest here.
+
+Pehly
+-> Past/Future
+-> Before/Earlier than
+
+// Past of Past
+The train had left 10 minutes before you came.
+The train had left 10 minutes earlier than you came.
+He had gone to school 2 months before the exam started.
+He had gone to school 2 months earlier than the exam started.
+
+// Pehly Future se
+My salary will be paid 10 days before yours.
+My salary will be paid 10 days earlier than yours.
+I had spoken with him just a minute before I went to take a bath.
+I had spoken with him just a minute earlier than I went to take a bath.
 
 
+Baad me
+-> Duration
+    -> After/Later
+-> Point in time
+    -> After
+
+I'll meet you after 10 hours.
+I'll meet you 10 hours later.
+    // later in the end
+I'll meet you after 10 10 o'clock.
+I'll go to America after 4 days.
+I'll go to America 4 days later.
+He will go to America after monday.
+
+Today, we're talking over the phone after 4 years.
+Today, we're talking over the phone 4 years later.
+I'll complete my homework after I come back from the park.
 
 
+After
+-> Kisi ke peechy parna
 
+I was after my professor to help me complete this project.
+My father has refused to give money thrice but I am still after him.
+The police had been after the thief since yesterday evening.
 
+Before
+-> Samney
 
-
-
-
+Now I am standing before you.
+Don't get nervous before the audience.
+He can't dare to speak before me.
 
 
 
