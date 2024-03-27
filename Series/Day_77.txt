@@ -1,0 +1,36 @@
+Practice
+
+Mujhe malum tha k woh jeete ga.
+    I knew that he'll win. -> wrong
+        // Because the matter is of past.
+    I knew that he'd win.
+
+Ajj apko school jana par skta hai.
+    You may have go to school today. -> wrong
+        // syntax of have + to
+    You may have to go to school today.
+
+SJ ko 7 bje gym me hona chahiye tha.
+    SJ should be in the gym at 7 o'clock. -> wrong
+        // should have been
+    SJ should have been in the gym at 7 o'clock.
+
+Mere pas us din mera laptop hona chahiye tha.
+    I should have my laptop that day. -> wrong
+        // should have had.
+    I should have had my laptop that day.
+    My laptop should have been with me that day.
+        // my laptop as subject.
+
+Ajj meri dukan khuli hai.
+    My shop is open today. -> correct
+        // verb 3rd form
+        // But that is an exceptional case, it's correct.
+        // Not valid for close.
+
+Ajj meri dukan band hai.
+    My shop is close today. -> wrong
+        // verb 3rd form
+    My shop is closed today.
+
+
