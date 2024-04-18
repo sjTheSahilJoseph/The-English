@@ -33,5 +33,43 @@ Ajj meri dukan band hai.
         // verb 3rd form
     My shop is closed today.
 
+Ajj Ole par skte thy, par nhi pare.
+	It could be hailed today but it did not. -> Wrong.
+	It could have hailed today but it did not. -> Correct.
+	It may/might have hailed today but it did not. -> Correct.
+
+Yeh train X se ho kar Y jayegi.
+	This train will go to Y from X. -> Wrong.
+	This train will go to Y via/through X. -> Correct.
+
+9 bajkar 15 minute par match shuru hoga.
+	The match will start at 9 past 15. -> Wrong.
+	The match will start at 15 past 9. -> Correct.
+	The match will start at Quater past 9. -> Correct.
+
+Kon konsi moview tum dekhna chahte ho?
+	Which which movies you want to watch? -> Wrong.
+	Which all movies do you want to watch? -> Correct.
+
+Mai aksar uske ghar jata hu.
+	I go often to his house. -> Wrong.
+	I often go to his house. -> Correct.
+
+Woh is jgah se 5 minute pehly nikla.
+	He left from this place five minutes before. -> Wrong.
+	He left this place five minutes ago/earlier/back. -> Correct.
+
+Yeh koi school nhi blke aek university hai.
+	This is not an school but an university. -> Wrong.
+	This is not a school but a university. -> Correct.
+
+Ek din, mere pass bhi ek ghar hoga.
+	One day, I'll have a house also. -> Wrong.
+	One day, I'll also have a house. -> Correct.
+	One day, I'll have a house as well. -> Correct.
+	One day, I'll have a house too. -> Correct.
+	One day, Even I'll have a house. -> Correct.
+
+
 
 
