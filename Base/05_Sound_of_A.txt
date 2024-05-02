@@ -1,0 +1,77 @@
+Sound of A
+
+Vowels
+There are 5 vowels in english,
+a, e, i, o, u
+
+A as a letter
+-> Pronounced as 'Ae'
+
+A in a sentence
+-> Pronounced as 'Aa'
+
+There are exeptions as well but primarily.
+
+For example:
+	He is a good boy. -> aa
+    A man is standing there. -> aa
+
+A, Ai, Ay -> Ae
+
+For example:
+	Name,
+    Pain,
+    Game,
+    Rain,
+    Day,
+    Say,
+    etc...
+
+A -> Ay
+
+For example:
+	Ash,
+    At,
+    Man,
+    Map,
+    Gas,
+    An,
+    etc...
+
+A -> Aya
+
+For example:
+	Air,
+    Bare,
+    Dare,
+    etc...
+
+A -> Ae
+
+For example:
+	Alert,
+    Agree,
+    Ajar,
+    etc...
+
+A -> Aa
+
+For example:
+   	Are,
+	After,
+	Far,
+    Star,
+    Art,
+    Extra,
+    etc...
+
+A, Aw -> Aw
+
+For example:
+	Tall,
+    Hall,
+    Call,
+    Awesome,
+    Awefull,
+    Awkward,
+    etc...
