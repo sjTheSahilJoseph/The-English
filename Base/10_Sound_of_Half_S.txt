@@ -1,0 +1,13 @@
+Sound of half s.
+
+Words that start from S, and next letter is consonent, We use half s for s.
+
+Examples:
+    School,
+    Smile,
+    Style,
+    etc...
+
+
+
+
