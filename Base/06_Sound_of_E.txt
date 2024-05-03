@@ -1,0 +1,34 @@
+Sound of E
+
+E -> E
+
+Example,
+Eleven,
+Engagement,
+Exam,
+Elite,
+English,
+etc...
+
+E, Ee, Ea -> Ee
+
+Be,
+He,
+Keep,
+Weak,
+Week,
+Sea,
+etc...
+
+Exceptions are also there.
+
+E -> Ae
+
+Hen,
+Ben,
+Enter,
+Pen,
+Entry,
+Elbow,
+Extra,
+etc...
