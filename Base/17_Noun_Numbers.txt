@@ -1,0 +1,21 @@
+Noun Numbers
+
+There are 2 numbers in noun context.
+1. Singular Noun
+2. Plural Noun
+
+Singular means one.
+It denotes one person, one place, one thing, basically one.
+
+For example:
+Boy, Rat, Tooth, Man, SJ,
+Woman, Girl, Pen, Mobile, etc...
+
+Plural means more than one.
+It denotes more than one person, place, thing, basically more than one.
+
+For example:
+Rats, Mice, Teeth, Men, Women, Girls,
+Pens, etc...
+
+
