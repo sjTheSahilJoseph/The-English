@@ -1,0 +1,27 @@
+Noun - Gender
+
+There are 3 genders in noun category.
+1. Masculine
+2. Feminine
+3. Neuter
+
+1. Masculine Gender
+It denotes a male.
+
+For example:
+Boy, Uncle, Brother, Son, Tiger, Actor,
+Father, etc...
+
+2. Faminine Gender
+It denotes a female.
+
+For example:
+Girl, Aunt, Sister, Daughter, Tigeress,
+Female Dog, etc...
+
+3. Neuter Gender
+It denotes non-living things.
+
+For example:
+Book, Pen, Mobile, Laptop, Chair, Table,
+Car, Bike, etc...
