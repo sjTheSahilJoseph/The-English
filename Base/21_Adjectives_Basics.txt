@@ -1,0 +1,89 @@
+Adjectives
+
+Adjectives are the words or the clauses that show the quality of
+noun/pronoun or provide some additional information about them.
+
+For example:
+SJ is brave.
+-> Brave = Adjective
+SJ is coward.
+-> Coward = Adjective
+He is handsome.
+-> Handsome = Adjective
+I have many pencils.
+-> Many = Adjective
+You have few pencils.
+-> Few = Adjective
+SJ is my brother who plays with you.
+-> "Who playes with you" = Adjective Clause
+He is SJ who is older/elder than I.
+-> "Who is older/elder than I" = Adjective Clause
+// Elder = If original brother.
+// Older = Cousin, Friend or something like that.
+
+There are 3 degrees of Adjectives:
+1. Positive
+2. Comparative (than)
+3. Superlative (the)
+
+User of "er/est":
+Comparative Degree: "er"
+Superlative Degree: "est"
+
+For example:
+Tall Taller Tallest
+Short Shorter Shortest
+
+Basic Concept:
+If Simple:
+-> He is young.
+If compare (than):
+-> Comparative Degree
+-> He is younger than me.
+If form all (the):
+-> Superlative Degree
+-> He is the youngest.
+
+// Old / Young / Elder
+Young Younger Youngest
+// Generall
+Old Older Oldest
+// If not in relation
+Old Elder Elderest
+// If in relation
+
+
+Also:
+When using "elder/younger" use "than" Preposition.
+When using "younger" use "to" Preposition.
+
+For example:
+SJ is younger to me.
+SJ is elder than I.
+Ajay is older than I.
+
+SJ is the youngest brother.
+SJ is the elderest brother.
+He is the oldest in class.
+
+// Non-Er-Est Adjectives
+
+We generally use "er" with comparative degree and "est" with superlative degree.
+But this is not valid for all adjectives. Some use "more" for comparative and
+"most" for superlative degree.
+
+For example:
+Active More Active Most Active
+
+// Irregular Adjectives
+Irregular Adjectives means they don't follow a specific pattern.
+
+For example:
+Good/Well Better Best
+Bad/Ill Worse Worst
+Must/Many More Most
+Little Less/Lesser Least
+
+
+
+
