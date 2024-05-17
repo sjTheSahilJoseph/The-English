@@ -1,0 +1,97 @@
+
+Adverb
+Adverbs are the words or clauses (group of words) that show the quality of
+verb/adjective or another adjective.
+Or provide some additional information about them.
+
+For example:
+SJ runs fast.
+-> runs = verb
+-> fast = adverb
+SJ runs slow.
+-> slow = adverb
+-> runs = verb
+He is a very good boy.
+-> is = main verb // because no main verb is there
+-> very = adverb
+-> good = adjective
+SJ runs very fast.
+-> runs = verb
+-> very = adverb
+-> fast adverb
+SJ runs fast, that is good.
+-> runs = verb
+-> fast = adverb
+-> "that is good" = adverb // clause
+
+There are 3 degrees of adverb:
+1. Positive
+2. Comparative
+3. Superlative
+
+1. Positive = simple
+Like:
+SJ runs fast.
+SJ runs ver fast.
+etc...
+
+2. Comparative = compared to something or someone.
+(than)
+Like:
+SJ runs faster than me.
+
+3. Superlative = super level
+(the)
+Like:
+SJ runs the fastest.
+
+// We usually add "er" with comparative and "est" with superlative.
+// But exceptions are always there.
+// We can see different patterns.
+// Same as adjectives.
+// // "more" with comparative and "most" with superlative.
+
+Some Examples:
+Fast Faster Fastest
+Slow Slower Slowest
+Late Later Last
+Up Upper Uppermost // same concept from adjectives
+Out Outer Outermost
+I'll come afterwards. // bad me -> adverb
+That girl will go again. // again -> adverb
+I have already told you. // already -> adverb
+You can't go away. // away -> adverb
+I got up early today. // early -> adverb
+He is just coming. // just -> adverb
+I sleep late at night. // late -> adverb
+He hardly comes here. // hardly -> adverb
+She rarely goes there. // rarely -> adverb
+We work together. // together -> adverb
+He came here once. // once -> adverb
+He seldom bites. // seldom -> adverb
+They are going afar. // afar -> adverb
+I often call you. // often -> adverb
+
+One Word = Adjective && Adverb
+Like:
+Enough
+I have enough pens. // enough = adjective
+I prepared enough. // enough = adverb
+
+Interesting fact:
+Word + ly = Adjective
+(in most cases)
+
+For example:
+SJ is nice. // Adjective
+SJ created nicely. // Adverb
+You are quick. // Adjective
+He works quickly. // Adverb
+
+
+
+
+
+
+
+
