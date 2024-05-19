@@ -1,0 +1,118 @@
+
+
+Articles
+There are 3 Articles:
+1. A
+2. An
+3. The
+
+1. A (Ae)
+A means one.
+For example:
+This is a pen.
+
+
+There are 2 types of articles:
+1. Definite Article [The]
+2. Indefinite Articles [An, A]
+
+1. Definite Article [The]
+It generally points out a particular person, place, or thing.
+
+2. Indefinite Articles [An/A]
+It generally doesn't point out any particular person, place, or thing.
+We use indefinite articles when we don't have information before that about the thing.
+
+Basically when we don't have information before = A boy
+When we have information before = The boy
+
+This is the book, I was talking about. = Definite Article
+This is a book. = Indefinite Article
+
+Also, we use A, An for "koi"/"aek".
+
+Like:
+Mr. SJ is at the door. = We know the information. (Mr. SJ door pe hain)
+A Mr. SJ is at the door. = When we tell someone first time. (Koi Mr.Sj door pe hain)
+// Generally before name, we don't put any article, but in that case, we do.
+
+A vs An:
+Vowels = A, E, I, O, U
+Consonants = B, C, D, ... except vowels.
+
+An:
+When next word starts with vowel sound. (not only vowel, but also vowel sound).
+For example:
+Aeroplane, Apple, Elephant, M.L.A (Am, Al, Ley), An Hour (Hour = Vowel sound -> Aavar),
+An Honest (Vowel sound), An ear (vowel sound), An orange (vowel sound), etc...
+
+A:
+When next word starts with consonant sound.
+For example:
+A University (University = Vowel but it's sound isn't vowel in this case),
+A boy, A pen, A year (consonant sound), A union (consonent sound), etc...
+
+
+Where to pronounce "The" and where to pronounce "Thee".
+Thee:
+If next word starts with vowel sound.
+The:
+If next word starts with consonant sound.
+
+For example:
+The boy -> The
+The pen -> The
+The year -> The
+The ear -> Thee
+The honest -> Thee
+The orange -> Thee
+The elephant -> Thee
+The end -> Thee
+etc...
+
+Where to use The:
+With unique people or objects.
+For example:
+The Sun, The Moon, The Earth, The President, The CEO, The world, The sky, etc...
+With adjectives reffering to a whole group of people.
+For example:
+The old, The rich, The young, The poor, etc...
+With famous buildings, places.
+For example:
+The SJ's House, etc...
+With superlative degrees of adjective.
+For example:
+The highest, The lowest, The most, The youngest, The oldest, etc...
+With ordinal numbers.
+For example:
+The last chapter, The first time, The third member, The second occasion, The penultimate number, etc...
+With country names but only for which include "state, kingdom, republic etc..."
+Otherwise, we don't use "the" with country names.
+For example:
+The United States, The United Kingdom, The republic of Ireland, etc...
+With countries with plural names.
+For example:
+The Netherlands, The Philippines, etc...
+With rivers, canals, and oceans.
+For example:
+The Atlantic, The pacific, etc...
+With names of families.
+For example:
+The SJs, etc...
+With "only" but only if it's actually 1.
+For example:
+The only son, The only friend, The only batsman, The only person, etc...
+Before the word "whole" & after the word "all".
+For example:
+All the computers are here.
+I visited the whole world.
+
+Where not to use "the".
+Before the name of a desease, language, proper noun (exceptions are there), name of country (exceptions
+are there).
+Before the words:
+["Breakfast", "Lunch", "Dinner"].
+Before the words:
+["Hospital", "School", "God"].
+
+
