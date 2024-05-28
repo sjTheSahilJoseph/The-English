@@ -19,7 +19,7 @@ For Example:
 		(Subject = SJ and JS).
 
 Verb
-Verb describes the action of the state of the subject.
+Verb describes the action and the state of the subject.
 
 For Example:
 	SJ is playing.
